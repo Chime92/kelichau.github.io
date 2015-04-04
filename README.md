@@ -3,3 +3,4 @@ Hey there! This is the beginning of Kelly Chau's foray into web design and devel
 Blogging and pictures are what you'll find.
 
 Thanks to Github, Bootstrap, Fontawesome and JQuery for their hard work.
+Test.
