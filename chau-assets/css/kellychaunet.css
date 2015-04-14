@@ -1,33 +1,60 @@
 .body{
-  color:black;
+  color:gray;
     font-family:century gothic;
 }
 
 .header{
   margin:auto;
-  width:51%;
-  height:150px;
-   font-size:90px;
+  width:100%;
+  height:600%;
+   font-size:600%;
    font-family:century gothic;
+   float:right;
     letter-spacing:10px;
-    text-indent:50px;
+    text-indent:27.5%;
     text-transform:uppercase;
       color:#404b51;
 }
 
-.menu{
-  margin:20px;
-  width:176px;
-  padding:2px;
-  float:left;
-    font-size:15px;
+.photoheader{
+  margin:auto;
+  width:98%;
+  height:600%;
+    font-size:600%;
     font-family:century gothic;
-    font-weight:bold;
-      text-transform:uppercase;
-      letter-spacing:3px;
+    float:right;
+      letter-spacing:10px;
       text-align:center;
-      text-decoration:none;
+      text-transform:uppercase;
         color:#404b51;
+}
+
+.blogheader{
+  margin:auto;
+  width:50%;
+  height:600%;
+    font-size:500%;
+    font-family:century gothic;
+      letter-spacing:2px;
+      text-align:center;
+      text-transform:uppercase;
+        color:#404b51;
+}
+
+.menu{
+  margin:auto;
+  width:12%;
+  height:60%;
+  padding:2%;
+    font-size:100%;
+    font-family:century gothic;
+    float:left;
+      text-transform:uppercase;
+      text-indent:5%;
+      text-align:center;
+      letter-spacing:1%;
+      word-spacing:2%;
+        color:gray;
         background-color:transparent;
 }
 
@@ -41,8 +68,8 @@
 
 .menu:hover div{
   display:block;
-  top:50px;
-  width:255px;
+  top:10%;
+  width:20%;
     position:absolute;
       background-color:white;
 }
@@ -53,7 +80,7 @@ a:link{
 }
 
 a:visited{
-  color:#ab567d;
+  color:gray;
 }
 
 a:hover{
@@ -61,14 +88,13 @@ a:hover{
 }
 
 a:active{
-  color:#404b51;
+  color:#d26798;
 }
 
 .photoslider{
   margin:auto;
   width:90%;
   height:550px;
-    border:1px #404b51 solid;
       font-family:century gothic;
       font-size:20px;
         letter-spacing:2px;
@@ -78,16 +104,6 @@ a:active{
   margin:auto;
   width:90%;
   height:1000px;
-    border:1px #404b51 solid;
-}
-
-.igfeed{
-  margin:auto;
-  width:90%;
-  height:190px;
-    border:1px #404b51 solid;
-      font-family:century gothic;
-      font-size:20px;
 }
 
 .footer{
@@ -99,8 +115,8 @@ a:active{
 
 .about{
   margin:auto;
-  width:80%;
-  height:600px;
+  width:70%;
+  height:100px;
     font-family:century gothic;
     font-size:15px;
       color:#404b51;
@@ -189,4 +205,75 @@ a:active{
     font-family:century gothic;
     font-size:15px;
       color:#404b51;
+}
+
+.photographycontent{
+  margin:auto;
+  width:10%;
+  height:800px;
+    font-family:century gothic;
+    font-size:15px;
+}
+
+.videos{
+  margin:auto;
+  width:10%;
+  height:800px;
+    font-family:century gothic;
+    font-size:15px;
+}
+
+.aboutphoto{
+  margin:auto;
+  width:75%;
+  height:100%;
+    font-family:century gothic;
+    font-size:120%;
+    letter-spacing:0.5px;
+    word-spacing:-1px;
+}
+
+.lca{
+  margin:auto;
+  width:100%;
+  height:100%;
+    font-family:century gothic;
+    font-size:250%;
+    font-weight:bold;
+      text-align:center;
+      letter-spacing:4px;
+}
+
+.subheading{
+  margin:auto;
+  width:100%;
+  height:100%;
+    font-family:century gothic;
+    font-size:190%;
+    font-weight:bold;
+      text-align:left;
+      letter-spacing:2px;
+      
+}
+
+.subsubheading{
+  margin:auto;
+  width:100%;
+  height:100%;
+    font-family:century gothic;
+    font-size:150%;
+    font-style:italic;
+      text-align:left;
+      letter-spacing:3px;
+}
+
+.caption{
+  margin:auto;
+  width:60%;
+  height:100%;
+    font-family:century gothic;
+    font-size:190%;
+    font-style:italic;
+      text-align:center;
+      letter-spacing:2px;
 }
