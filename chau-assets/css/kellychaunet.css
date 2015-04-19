@@ -255,6 +255,7 @@ a:active{
   /* Set the fixed height of the footer here */
   height: 60px;
   line-height: 6;
+  padding-left: 8%;
 }
 
 .about{
