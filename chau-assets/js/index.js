@@ -4,7 +4,4 @@ $(document).ready(function() {
   $('#myCarousel').carousel({
     interval: 2000
   });
-  
-  alert('hello world');
-  console.log('hello world');
 });
