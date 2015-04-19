@@ -254,6 +254,7 @@ a:active{
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
+  line-height: 6;
 }
 
 .about{
@@ -295,10 +296,10 @@ a:active{
 .contact{
   margin:auto;
   width:70%;
-  height:1100px;
-    font-family:century gothic;
-    font-size:120%;
-      color:#404b51;
+  height:100%;
+  font-family:century gothic;
+  font-size:120%;
+  color:#404b51;
 }
 
 .email{
