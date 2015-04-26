@@ -95,19 +95,7 @@ html {
         color:#404b51;
 }
 
-.musicheader{
-  margin:auto;
-  width:70%;
-  height:600%;
-    font-size:600%;
-    font-family:century gothic;
-      letter-spacing:4px;
-      text-align:center;
-      text-transform:uppercase;
-        color:#404b51;
-}
-
-.vlogsheader{
+.videosheader{
   margin:auto;
   width:70%;
   height:600%;
@@ -206,8 +194,8 @@ html {
 
 .menu:hover div{
   display:block;
-  top:10%;
-  width:20%;
+  top:5%;
+  width:16.7%;
     position:absolute;
       background-color:white;
 }
