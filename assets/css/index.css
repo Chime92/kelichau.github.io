@@ -422,9 +422,12 @@ color:#00CCFF;
   color: gray;
   text-align: center;
   text-transform: uppercase;
-  word-spacing: 5px;
-  margin-right: 1%;
+  min-width: 40%;
+  width: 40%;
+  margin: auto;
 }
+
+
 
 .sm{
   font-family: century gothic;
@@ -463,8 +466,8 @@ color:#00CCFF;
   text-align: center;
   text-transform: lowercase;
   margin: auto;
-  min-width: 100%;
-  width: 100%;
+  min-width: 40%;
+  width: 40%;
 }
 
 .ea2{
@@ -474,8 +477,8 @@ color:#00CCFF;
   text-align: center;
   text-transform: lowercase;
   margin: auto;
-  min-width: 80%;
-  width: 80%;
+  min-width: 40%;
+  width: 40%;
 }
 
 .ea3{
@@ -484,8 +487,8 @@ color:#00CCFF;
   text-align: center;
   text-transform: lowercase;
   margin: auto;
-  min-width: 100%;
-  width: 100%;
+  min-width: 40%;
+  width: 40%;
 }
 
 .mc{
