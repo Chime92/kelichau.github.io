@@ -1,0 +1,715 @@
+.body{
+width:100%;
+min-width: 100%;
+min-height: 100%;
+}
+
+.galleryhome{
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  height: 100%;
+  font-family: century gothic;
+  color: gray;
+}
+
+.icontainer{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  font-size: 100%;
+  height: 500px;
+  min-width: 100%;
+  position: relative;
+}
+
+.acontainer{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  height: 1100px;
+  min-width: 100%;
+}
+
+.ccontainer{
+  margin: auto;
+  width: 100%;
+  height: 3000px;
+  min-height: 3000px;
+  max-height: 3500px;
+  font-family: century gothic;
+  color: gray;
+  min-width: 100%;
+  
+}
+
+.mcontainer{
+  margin: auto;
+  width: 100%;
+  height: 100px;
+  font-family: century gothic;
+  color: gray;
+  min-width: 100%;
+  
+}
+
+.postcontainer{
+  margin: auto;
+  width: 50%;
+  height: 800px;
+  font-family: century gothic;
+  color: gray;
+  min-width: 100%;
+  
+}
+
+
+.bcontainer{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  height: 1200px;
+  text-align: center;
+  min-width: 100%;
+  
+}
+
+.bcontainer2{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  height: 1500px;
+  text-align: center;
+  min-width: 100%;
+  
+}
+
+.contactwrap{
+  font-family: century gothic;
+  color: gray;
+  text-align: center;
+  margin: auto;
+  height: 200px;
+  min-width: 100%;
+  
+}
+
+.myfitnessjourney1{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  height: 2600px;
+  text-align: center;
+  min-width: 100%;
+  
+}
+
+.reasonstips{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  height: 2200px;
+  text-align: center;
+  min-width: 100%;
+  
+}
+
+.p90x3workoutroutine{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  height: 2300px;
+  text-align: center;
+  min-width: 100%;
+  
+}
+
+.batgirlpost{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  height: 700px;
+  text-align: center;
+  min-width: 100%;
+  
+}
+
+.fallaciespost{
+  margin: auto;
+  width: 100%;
+  font-family: century gothic;
+  color: gray;
+  height: 4500px;
+  text-align: center;
+  min-width: 100%;
+  
+}
+
+
+
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 40.5px;
+  background-color: white;
+  font-family: century gothic;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: crisp;
+  font-size: 150%;
+   min-width: 100%;
+ 
+}
+
+.nav li{
+display:inline;
+}
+
+.nav a{
+text-decoration:none;
+padding: 1%;
+}
+
+.smnav{
+float:right;
+width: 3%;
+margin-top: 1%;
+list-style-type: none;
+}
+
+a:link{
+color:gray;
+background-color:white;
+text-decoration: none;
+}
+
+a:hover{
+color:#00CCFF;
+}
+
+a:active{
+color:gray;
+}
+
+a:visited{
+color:#00CCFF;
+}
+
+.next{
+  font-family: century gothic;
+  font-size: 150%;
+  text-transform: uppercase;
+  color: gray;
+  word-spacing: 1px;
+}
+
+.previous{
+  font-family: century gothic;
+  font-size: 150%;
+  text-transform: uppercase;
+  color: gray;
+  word-spacing: 1px;
+}
+
+.kelly{
+  margin: auto;
+  width: 100%;
+  min-width: 100%;  
+  font-family: century gothic;
+  font-size: 700%;
+  color: gray;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 5%;
+  
+}
+
+.nsub{
+  margin: auto;
+  width: 50%;
+  font-family: century gothic;
+  font-size: 200%;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: gray;
+  color: white;
+}
+
+.date{
+  margin: auto;
+  width: auto;
+  font-family: century gothic;
+  font-size: 150%;
+  text-transform: uppercase;
+  text-align: center;
+  color: gray;
+}
+
+.title{
+  margin: auto;
+  width: 50%;
+  font-family: century gothic;
+  font-size: 200%;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: gray;
+  color: white;
+}
+
+.date2{
+  margin: auto;
+  width: auto;
+  font-family: century gothic;
+  font-size: 130%;
+  text-transform: uppercase;
+  text-align: center;
+  color: gray;
+}
+
+.ncont{
+  margin: auto;
+  width: 50%;
+  font-family: century gothic;
+  font-size: 100%;
+  text-align: center;
+  color: gray;
+}
+
+.blogcont{
+  margin: auto;
+  width: 50%;
+  font-family: century gothic;
+  font-size: 100%;
+  text-align: center;
+  color: gray;
+}
+
+.blogsub{
+  margin: auto;
+  width: auto;
+  font-family: century gothic;
+  font-size: 120%;
+  text-transform: uppercase;
+  text-align: center;
+  color: gray;
+}
+
+.blogsubsub{
+  margin: auto;
+  width: auto;
+  font-family: century gothic;
+  font-size: 100%;
+  text-transform: uppercase;
+  color: Gray;
+}
+
+
+
+
+.readmore{
+  margin-left: 58.3%;
+  width: 8%;
+  font-family: century gothic;
+  font-size: 100%;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: gray;
+}
+
+
+.about{
+  font-family: century gothic;
+  font-size:700%;
+  color: gray;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 3%;
+}
+
+.artistlifelong{
+  font-family: century gothic;
+  font-size: 200%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.capture{
+  font-family: century gothic;
+  font-size:700%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+}
+
+.motion{
+  font-family: century gothic;
+  font-size:700%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+}
+
+.blog{
+  font-family: century gothic;
+  font-size:700%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+}
+
+.contact{
+  font-family: century gothic;
+  font-size:700%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+}
+
+.header{
+  font-family: century gothic;
+  font-size:500%;
+  color: gray;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.portraits{
+  font-family: century gothic;
+  font-size: 300%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.landscapes{
+  font-family: century gothic;
+  font-size: 300%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.events{
+  font-family: century gothic;
+  font-size: 300%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.photography{
+  font-family: century gothic;
+  font-size: 150%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.cf{
+  font-family: century gothic;
+  font-size: 150%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.ml{
+  font-family: century gothic;
+  font-size: 150%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.sm{
+  font-family: century gothic;
+  font-size: 150%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.weblinks{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  text-align: center;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.subtitlelinks{
+  font-family: century gothic;
+  font-size: 90%;
+  color: gray;
+  text-align: center;
+  margin-right: 1%;
+  text-transform: uppercase;
+}
+
+.phonenumber{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  text-align: center;
+  margin-left: 45%;
+}
+
+.emailadd{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  text-align: center;
+  margin-right: 35%;
+}
+
+.emailadd2{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  text-align: center;
+  margin-right: 30%;
+}
+
+.ea{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  text-align: center;
+  text-transform: lowercase;
+  margin: auto;
+  margin-left: 41.2%;
+}
+
+.ea2{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  text-align: center;
+  text-transform: lowercase;
+  margin: auto;
+  margin-left: 41.3%;
+}
+
+.mc{
+  font-family: century gothic;
+  font-size: 150%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}  
+
+.contactform{
+  font-family: century gothic;
+  font-size: 100%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-left: 30%;
+}  
+
+
+.photo{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  width: 100%;
+  border: white 2px solid;
+  min-width: 100%;
+  text-align: center;
+}
+
+.aphoto{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  margin: auto;
+  width: 100%;
+  min-width: 100%;
+  border: white 2px solid;
+  text-align: center;
+}
+
+.bio{
+  font-family: century gothic;
+  font-size: 100%;
+  color: gray;
+  width: 70%;
+  min-width: 70%;  
+  border: gray 0px solid;
+  margin-left: 25%;
+  margin: auto;
+}
+
+.gallery1{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  width: 90%;
+  height: 300px;
+  min-height: 3000px;
+  max-height: 3500px;
+  text-align: center;
+  margin-left: 6%;
+  min-width: 90%;
+
+}
+
+.gallery2{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  width: 90%;
+  min-width: 90%;  
+  height: 1150px;
+  min-height: 1150px;
+  max-height: 2000px;
+  text-align: center;
+  margin-left: 6%;
+  min-width: 90%;  
+}
+
+.gallery3{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  width: 90%;
+  margin-left: 6%;
+  height: 300px;
+  min-height: 100%;
+  max-height: 300px;
+  text-align: center;
+  min-width: 90%; 
+}
+
+.fitnessgallery1{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  width: 100%;
+  margin-left: 1%;
+  text-align: center;
+  min-width: 100%;
+}
+
+.aboutgallery{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  width: 90%;
+  min-width: 90%;
+  text-align: center;
+  margin-left: 6%;
+}
+
+.gthumb{
+  font-family: century gothic;
+  font-size: 120%;
+  width: 100%;
+  min-width: 100%;
+  text-align: center;
+  height: 100%;
+}
+
+
+.directions{
+  font-family: century gothic;
+  font-size: 90%;
+  width: 100%;
+  min-width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  color: gray;
+}
+
+.video{
+  font-family: century gothic;
+  font-size: 120%;
+  color: gray;
+  margin: auto;
+  width: 100%;
+  min-width: 100%;
+  height: 100px;
+  text-align: center;
+}
+
+.footer{
+  font-family: century gothic;
+  font-size: 80%;
+  color: gray;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-top: 100%;
+  float: right;
+}
+
+.socialmediabuttons{
+  font-family: century gothic;
+  font-size: 80%;
+  color: gray;
+  text-transform: uppercase;
+  float: left;
+  text-decoration: none;
+  margin-top: 100%;
+}
+
+a.fancybox img {
+  border: none;
+  box-shadow: 0 1px 7px rgba(0,0,0,0.6);
+  -o-transform: scale(1,1); 
+  -ms-transform: scale(1,1); 
+  -moz-transform: scale(1,1); 
+  -webkit-transform: scale(1,1); 
+  transform: scale(1,1); 
+  -o-transition: all 0.2s ease-in-out; 
+  -ms-transition: all 0.2s ease-in-out; 
+  -moz-transition: all 0.2s ease-in-out; 
+  -webkit-transition: all 0.2s ease-in-out; 
+  transition: all 0.2s ease-in-out;
+} 
+
+ a.fancybox:hover img {
+   position: relative; 
+   z-index: 999; 
+   -o-transform: scale(1.03,1.03); 
+   -ms-transform: scale(1.03,1.03); 
+   -moz-transform: scale(1.03,1.03); 
+   -webkit-transform: scale(1.03,1.03); 
+   transform: scale(1.03,1.03);
+}
