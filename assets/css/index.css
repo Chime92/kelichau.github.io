@@ -497,7 +497,9 @@ color:#00CCFF;
   color: gray;
   text-align: center;
   text-transform: uppercase;
-  margin-right: 1%;
+  margin: auto;
+  min-width: 40%;
+  width: 40%;
 }  
 
 .contactform{
