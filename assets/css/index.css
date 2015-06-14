@@ -401,6 +401,8 @@ color:#00CCFF;
 
 .photography{
   font-family: 'Quicksand', sans-serif;
+  min-width: 100%;
+  width: 100%;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -411,11 +413,12 @@ color:#00CCFF;
 
 .cf{
   font-family: 'Quicksand', sans-serif;
+  min-width: 100%;
+  width: 100%;
   font-size: 150%;
   color: gray;
   text-align: center;
   text-transform: uppercase;
-  word-spacing: 5px;
   margin-right: 1%;
 }
 
@@ -425,8 +428,8 @@ color:#00CCFF;
   color: gray;
   text-align: center;
   text-transform: uppercase;
-  min-width: 40%;
-  width: 40%;
+  min-width: 100%;
+  width: 100%;
   margin: auto;
 }
 
@@ -438,8 +441,9 @@ color:#00CCFF;
   color: gray;
   text-align: center;
   text-transform: uppercase;
-  word-spacing: 5px;
   margin-right: 1%;
+  min-width: 100%;
+  width: 100%;
 }
 
 .weblinks{
@@ -447,8 +451,9 @@ color:#00CCFF;
   font-size: 120%;
   color: gray;
   text-align: center;
-  word-spacing: 5px;
   margin-right: 1%;
+  min-width: 100%;
+  width: 100%;
 }
 
 .subtitlelinks{
@@ -458,6 +463,8 @@ color:#00CCFF;
   text-align: center;
   margin-right: 1%;
   text-transform: uppercase;
+  min-width: 100%;
+  width: 100%;
 }
 
 
