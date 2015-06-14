@@ -6,14 +6,14 @@ min-width: 100%;
 .galleryhome{
   width: 100%;
   min-width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
 }
 
 .overallwrap{
   margin: auto;
   width: 100%;
-  font-family: "century gothic";
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   font-size: 100%;
   /*height: 500px;*/
@@ -24,7 +24,7 @@ min-width: 100%;
 .acontainer{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   min-width: 100%;
 }
@@ -32,7 +32,7 @@ min-width: 100%;
 .mcontainer{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   min-width: 100%;
   text-align: center;
@@ -41,7 +41,7 @@ min-width: 100%;
 .postcontainer{
   margin: auto;
   width: 50%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   min-width: 100%;
   
@@ -51,7 +51,7 @@ min-width: 100%;
 .bcontainer{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -61,7 +61,7 @@ min-width: 100%;
 .bcontainer2{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -69,7 +69,7 @@ min-width: 100%;
 }
 
 .contactwrap{
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   text-align: center;
   margin: auto;
@@ -80,7 +80,7 @@ min-width: 100%;
 .myfitnessjourney1{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -90,7 +90,7 @@ min-width: 100%;
 .reasonstips{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -100,7 +100,7 @@ min-width: 100%;
 .p90x3workoutroutine{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -110,7 +110,7 @@ min-width: 100%;
 .batgirlpost{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -120,7 +120,7 @@ min-width: 100%;
 .fallaciespost{
   margin: auto;
   width: 100%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -137,7 +137,7 @@ min-width: 100%;
   width: 100%;
   height: 40.5px;
   background-color: white;
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   text-transform: uppercase;
   text-align: center;
   font-weight: crisp;
@@ -181,7 +181,7 @@ color:#00CCFF;
 }
 
 .next{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   text-transform: uppercase;
   color: gray;
@@ -189,7 +189,7 @@ color:#00CCFF;
 }
 
 .previous{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   text-transform: uppercase;
   color: gray;
@@ -200,7 +200,7 @@ color:#00CCFF;
   margin: auto;
   width: 100%;
   min-width: 100%;  
-  font-family: "century gothic";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 700%;
   color: gray;
   text-transform: uppercase;
@@ -212,7 +212,7 @@ color:#00CCFF;
 .nsub{
   margin: auto;
   width: 50%;
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 200%;
   text-transform: uppercase;
   text-align: center;
@@ -223,7 +223,7 @@ color:#00CCFF;
 .date{
   margin: auto;
   width: auto;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   font-size: 150%;
   text-transform: uppercase;
   text-align: center;
@@ -233,7 +233,7 @@ color:#00CCFF;
 .title{
   margin: auto;
   width: 50%;
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 200%;
   text-transform: uppercase;
   text-align: center;
@@ -244,7 +244,7 @@ color:#00CCFF;
 .date2{
   margin: auto;
   width: auto;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   font-size: 130%;
   text-transform: uppercase;
   text-align: center;
@@ -254,7 +254,7 @@ color:#00CCFF;
 .ncont{
   margin: auto;
   width: 50%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   font-size: 100%;
   text-align: center;
   color: gray;
@@ -263,7 +263,7 @@ color:#00CCFF;
 .blogcont{
   margin: auto;
   width: 50%;
-  font-family: century gothic;
+  font-family: "Courier New", Courier, monospace;
   font-size: 100%;
   text-align: center;
   color: gray;
@@ -272,7 +272,7 @@ color:#00CCFF;
 .blogsub{
   margin: auto;
   width: auto;
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   text-transform: uppercase;
   text-align: center;
@@ -282,7 +282,7 @@ color:#00CCFF;
 .blogsubsub{
   margin: auto;
   width: auto;
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   text-transform: uppercase;
   color: Gray;
@@ -294,7 +294,7 @@ color:#00CCFF;
 .readmore{
   margin-left: 58.3%;
   width: 8%;
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   font-weight: bold;
   text-align: center;
@@ -304,7 +304,7 @@ color:#00CCFF;
 
 
 .about{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size:700%;
   color: gray;
   text-transform: uppercase;
@@ -313,7 +313,7 @@ color:#00CCFF;
 }
 
 .artistlifelong{
-  font-family: "trebuchet ms";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 200%;
   color: gray;
   text-align: center;
@@ -323,7 +323,7 @@ color:#00CCFF;
 }
 
 .capture{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size:700%;
   color: gray;
   text-align: center;
@@ -332,7 +332,7 @@ color:#00CCFF;
 }
 
 .motion{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size:700%;
   color: gray;
   text-align: center;
@@ -341,7 +341,7 @@ color:#00CCFF;
 }
 
 .blog{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size:700%;
   color: gray;
   text-align: center;
@@ -350,7 +350,7 @@ color:#00CCFF;
 }
 
 .contact{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size:700%;
   color: gray;
   text-align: center;
@@ -359,7 +359,7 @@ color:#00CCFF;
 }
 
 .header{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size:500%;
   color: gray;
   text-transform: uppercase;
@@ -367,7 +367,7 @@ color:#00CCFF;
 }
 
 .portraits{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 300%;
   color: gray;
   text-align: center;
@@ -377,7 +377,7 @@ color:#00CCFF;
 }
 
 .landscapes{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 300%;
   color: gray;
   text-align: center;
@@ -387,7 +387,7 @@ color:#00CCFF;
 }
 
 .events{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 300%;
   color: gray;
   text-align: center;
@@ -397,7 +397,7 @@ color:#00CCFF;
 }
 
 .photography{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -407,7 +407,7 @@ color:#00CCFF;
 }
 
 .cf{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -417,7 +417,7 @@ color:#00CCFF;
 }
 
 .ml{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -430,7 +430,7 @@ color:#00CCFF;
 
 
 .sm{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -440,7 +440,7 @@ color:#00CCFF;
 }
 
 .weblinks{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: gray;
   text-align: center;
@@ -449,7 +449,7 @@ color:#00CCFF;
 }
 
 .subtitlelinks{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 90%;
   color: gray;
   text-align: center;
@@ -460,7 +460,7 @@ color:#00CCFF;
 
 
 .ea{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   color: gray;
   text-align: center;
@@ -471,7 +471,7 @@ color:#00CCFF;
 }
 
 .ea2{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   color: gray;
   text-align: center;
@@ -482,7 +482,7 @@ color:#00CCFF;
 }
 
 .ea3{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   text-align: center;
   text-transform: lowercase;
@@ -492,7 +492,7 @@ color:#00CCFF;
 }
 
 .mc{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -503,7 +503,7 @@ color:#00CCFF;
 }  
 
 .contactform{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   color: gray;
   text-align: center;
@@ -515,7 +515,7 @@ color:#00CCFF;
 
 
 .photo{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: gray;
   width: 100%;
@@ -525,7 +525,7 @@ color:#00CCFF;
 }
 
 .aphoto{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: gray;
   margin: auto;
@@ -536,7 +536,7 @@ color:#00CCFF;
 }
 
 .bio{
-  font-family: "century gothic";
+  font-family: "Courier New", Courier, monospace;
   font-size: 100%;
   color: gray;
   width: 70%;
@@ -547,7 +547,7 @@ color:#00CCFF;
 }
 
 .gallery1{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: gray;
   width: 90%;
@@ -558,7 +558,7 @@ color:#00CCFF;
 }
 
 .gallery2{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: gray;
   width: 90%;
@@ -568,7 +568,7 @@ color:#00CCFF;
 }
 
 .gallery3{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: gray;
   width: 90%;
@@ -578,7 +578,7 @@ color:#00CCFF;
 }
 
 .fitnessgallery1{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: gray;
   width: 100%;
@@ -588,7 +588,7 @@ color:#00CCFF;
 }
 
 .aboutgallery{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: gray;
   width: 90%;
@@ -598,7 +598,7 @@ color:#00CCFF;
 }
 
 .gthumb{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   width: 100%;
   min-width: 100%;
@@ -608,7 +608,7 @@ color:#00CCFF;
 
 
 .directions{
-  font-family: century gothic;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 90%;
   width: 100%;
   min-width: 100%;
@@ -618,8 +618,8 @@ color:#00CCFF;
 }
 
 .footercontent{
-  font-family: century gothic;
-  font-size: 80%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 75%;
   color: gray;
   text-transform: uppercase;
   text-decoration: none;
@@ -628,8 +628,8 @@ color:#00CCFF;
 }
 
 .socialmediabuttons{
-  font-family: century gothic;
-  font-size: 80%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 75%;
   color: gray;
   text-transform: uppercase;
   text-align: right;
