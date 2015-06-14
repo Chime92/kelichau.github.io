@@ -54,8 +54,7 @@ min-width: 100%;
   font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
-  min-width: 100%;
-  
+  min-width: 100%;  
 }
 
 .bcontainer2{
@@ -212,8 +211,9 @@ color:#00CCFF;
 .nsub{
   margin: auto;
   width: 50%;
+  min-width: 50%;
   font-family: 'Quicksand', sans-serif;
-  font-size: 200%;
+  font-size: 150%;
   text-transform: uppercase;
   text-align: center;
   background-color: gray;
@@ -222,7 +222,8 @@ color:#00CCFF;
 
 .date{
   margin: auto;
-  width: auto;
+  width: 50%;
+  min-width: 50%;
   font-family: 'Quicksand', sans-serif;
   font-size: 100%;
   text-transform: uppercase;
@@ -233,8 +234,9 @@ color:#00CCFF;
 .title{
   margin: auto;
   width: 50%;
+  min-width: 50%;
   font-family: 'Quicksand', sans-serif;
-  font-size: 200%;
+  font-size: 150%;
   text-transform: uppercase;
   text-align: center;
   background-color: gray;
@@ -243,7 +245,8 @@ color:#00CCFF;
 
 .date2{
   margin: auto;
-  width: auto;
+  width: 50%;
+  min-width: 50%;
   font-family: 'Quicksand', sans-serif;
   font-size: 100%;
   text-transform: uppercase;
