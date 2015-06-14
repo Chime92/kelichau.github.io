@@ -200,10 +200,10 @@ color:#00CCFF;
   margin: auto;
   width: 100%;
   min-width: 100%;  
-  font-family: 'Raleway', sans-serif;
-  font-size: 700%;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 800%;
   color: gray;
-  text-transform: uppercase;
+  text-transform: none;
   text-align: center;
   margin-top: 5%;
   
@@ -254,7 +254,7 @@ color:#00CCFF;
 .ncont{
   margin: auto;
   width: 50%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 90%;
   text-align: center;
   color: gray;
@@ -536,7 +536,7 @@ color:#00CCFF;
 }
 
 .bio{
-  font-family: 'century gothic', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 90%;
   color: gray;
   width: 70%;
