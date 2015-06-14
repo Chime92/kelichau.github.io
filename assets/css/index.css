@@ -6,14 +6,14 @@ min-width: 100%;
 .galleryhome{
   width: 100%;
   min-width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
 }
 
 .overallwrap{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   font-size: 100%;
   /*height: 500px;*/
@@ -24,7 +24,7 @@ min-width: 100%;
 .acontainer{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   min-width: 100%;
 }
@@ -32,7 +32,7 @@ min-width: 100%;
 .mcontainer{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   min-width: 100%;
   text-align: center;
@@ -41,7 +41,7 @@ min-width: 100%;
 .postcontainer{
   margin: auto;
   width: 50%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   min-width: 100%;
   
@@ -51,7 +51,7 @@ min-width: 100%;
 .bcontainer{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -61,7 +61,7 @@ min-width: 100%;
 .bcontainer2{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -69,7 +69,7 @@ min-width: 100%;
 }
 
 .contactwrap{
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   text-align: center;
   margin: auto;
@@ -80,7 +80,7 @@ min-width: 100%;
 .myfitnessjourney1{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -90,7 +90,7 @@ min-width: 100%;
 .reasonstips{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -100,7 +100,7 @@ min-width: 100%;
 .p90x3workoutroutine{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -110,7 +110,7 @@ min-width: 100%;
 .batgirlpost{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -120,7 +120,7 @@ min-width: 100%;
 .fallaciespost{
   margin: auto;
   width: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -223,7 +223,7 @@ color:#00CCFF;
 .date{
   margin: auto;
   width: auto;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   text-transform: uppercase;
   text-align: center;
@@ -244,7 +244,7 @@ color:#00CCFF;
 .date2{
   margin: auto;
   width: auto;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 130%;
   text-transform: uppercase;
   text-align: center;
@@ -254,7 +254,7 @@ color:#00CCFF;
 .ncont{
   margin: auto;
   width: 50%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   text-align: center;
   color: gray;
@@ -263,7 +263,7 @@ color:#00CCFF;
 .blogcont{
   margin: auto;
   width: 50%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   text-align: center;
   color: gray;
@@ -536,7 +536,7 @@ color:#00CCFF;
 }
 
 .bio{
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
   color: gray;
   width: 70%;
