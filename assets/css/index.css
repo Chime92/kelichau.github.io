@@ -6,14 +6,14 @@ min-width: 100%;
 .galleryhome{
   width: 100%;
   min-width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
 }
 
 .overallwrap{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   font-size: 100%;
   /*height: 500px;*/
@@ -24,7 +24,7 @@ min-width: 100%;
 .acontainer{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   min-width: 100%;
 }
@@ -32,7 +32,7 @@ min-width: 100%;
 .mcontainer{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   min-width: 100%;
   text-align: center;
@@ -41,7 +41,7 @@ min-width: 100%;
 .postcontainer{
   margin: auto;
   width: 50%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   min-width: 100%;
   
@@ -51,7 +51,7 @@ min-width: 100%;
 .bcontainer{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -61,7 +61,7 @@ min-width: 100%;
 .bcontainer2{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -69,7 +69,7 @@ min-width: 100%;
 }
 
 .contactwrap{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
   margin: auto;
@@ -80,7 +80,7 @@ min-width: 100%;
 .myfitnessjourney1{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -90,7 +90,7 @@ min-width: 100%;
 .reasonstips{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -100,7 +100,7 @@ min-width: 100%;
 .p90x3workoutroutine{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -110,7 +110,7 @@ min-width: 100%;
 .batgirlpost{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -120,7 +120,7 @@ min-width: 100%;
 .fallaciespost{
   margin: auto;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: gray;
   text-align: center;
   min-width: 100%;
@@ -137,7 +137,7 @@ min-width: 100%;
   width: 100%;
   height: 40.5px;
   background-color: white;
-  font-family: 'Raleway', sans-serif;  
+  font-family: 'Quicksand', sans-serif;  
   text-transform: uppercase;
   text-align: center;
   font-weight: crisp;
@@ -181,7 +181,7 @@ color:#00CCFF;
 }
 
 .next{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 150%;
   text-transform: uppercase;
   color: gray;
@@ -189,7 +189,7 @@ color:#00CCFF;
 }
 
 .previous{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 150%;
   text-transform: uppercase;
   color: gray;
@@ -200,7 +200,7 @@ color:#00CCFF;
   margin: auto;
   width: 100%;
   min-width: 100%;  
-  font-family: 'Grand Hotel', cursive;
+  font-family: 'Quicksand', sans-serif;
   font-size: 800%;
   color: gray;
   text-transform: none;
@@ -212,7 +212,7 @@ color:#00CCFF;
 .nsub{
   margin: auto;
   width: 50%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 200%;
   text-transform: uppercase;
   text-align: center;
@@ -223,7 +223,7 @@ color:#00CCFF;
 .date{
   margin: auto;
   width: auto;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 150%;
   text-transform: uppercase;
   text-align: center;
@@ -233,7 +233,7 @@ color:#00CCFF;
 .title{
   margin: auto;
   width: 50%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 200%;
   text-transform: uppercase;
   text-align: center;
@@ -244,7 +244,7 @@ color:#00CCFF;
 .date2{
   margin: auto;
   width: auto;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 130%;
   text-transform: uppercase;
   text-align: center;
@@ -263,7 +263,7 @@ color:#00CCFF;
 .blogcont{
   margin: auto;
   width: 50%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 90%;
   text-align: center;
   color: gray;
@@ -272,7 +272,7 @@ color:#00CCFF;
 .blogsub{
   margin: auto;
   width: auto;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   text-transform: uppercase;
   text-align: center;
@@ -282,7 +282,7 @@ color:#00CCFF;
 .blogsubsub{
   margin: auto;
   width: auto;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 100%;
   text-transform: uppercase;
   color: Gray;
@@ -294,7 +294,7 @@ color:#00CCFF;
 .readmore{
   margin-left: 58.3%;
   width: 8%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 100%;
   font-weight: bold;
   text-align: center;
@@ -313,7 +313,7 @@ color:#00CCFF;
 }
 
 .artistlifelong{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 200%;
   color: gray;
   text-align: center;
@@ -323,7 +323,7 @@ color:#00CCFF;
 }
 
 .capture{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size:700%;
   color: gray;
   text-align: center;
@@ -332,7 +332,7 @@ color:#00CCFF;
 }
 
 .motion{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size:700%;
   color: gray;
   text-align: center;
@@ -341,7 +341,7 @@ color:#00CCFF;
 }
 
 .blog{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size:700%;
   color: gray;
   text-align: center;
@@ -350,7 +350,7 @@ color:#00CCFF;
 }
 
 .contact{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size:700%;
   color: gray;
   text-align: center;
@@ -359,7 +359,7 @@ color:#00CCFF;
 }
 
 .header{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size:500%;
   color: gray;
   text-transform: uppercase;
@@ -367,7 +367,7 @@ color:#00CCFF;
 }
 
 .portraits{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 300%;
   color: gray;
   text-align: center;
@@ -377,7 +377,7 @@ color:#00CCFF;
 }
 
 .landscapes{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 300%;
   color: gray;
   text-align: center;
@@ -387,7 +387,7 @@ color:#00CCFF;
 }
 
 .events{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 300%;
   color: gray;
   text-align: center;
@@ -397,7 +397,7 @@ color:#00CCFF;
 }
 
 .photography{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -407,7 +407,7 @@ color:#00CCFF;
 }
 
 .cf{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -417,7 +417,7 @@ color:#00CCFF;
 }
 
 .ml{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -430,7 +430,7 @@ color:#00CCFF;
 
 
 .sm{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -440,7 +440,7 @@ color:#00CCFF;
 }
 
 .weblinks{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   color: gray;
   text-align: center;
@@ -449,7 +449,7 @@ color:#00CCFF;
 }
 
 .subtitlelinks{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 90%;
   color: gray;
   text-align: center;
@@ -460,7 +460,7 @@ color:#00CCFF;
 
 
 .ea{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 100%;
   color: gray;
   text-align: center;
@@ -471,7 +471,7 @@ color:#00CCFF;
 }
 
 .ea2{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 100%;
   color: gray;
   text-align: center;
@@ -482,7 +482,7 @@ color:#00CCFF;
 }
 
 .ea3{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 100%;
   text-align: center;
   text-transform: lowercase;
@@ -492,7 +492,7 @@ color:#00CCFF;
 }
 
 .mc{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 150%;
   color: gray;
   text-align: center;
@@ -503,7 +503,7 @@ color:#00CCFF;
 }  
 
 .contactform{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 100%;
   color: gray;
   text-align: center;
@@ -515,7 +515,7 @@ color:#00CCFF;
 
 
 .photo{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   color: gray;
   width: 100%;
@@ -525,7 +525,7 @@ color:#00CCFF;
 }
 
 .aphoto{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   color: gray;
   margin: auto;
@@ -547,7 +547,7 @@ color:#00CCFF;
 }
 
 .gallery1{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   color: gray;
   width: 90%;
@@ -558,7 +558,7 @@ color:#00CCFF;
 }
 
 .gallery2{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   color: gray;
   width: 90%;
@@ -568,7 +568,7 @@ color:#00CCFF;
 }
 
 .gallery3{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   color: gray;
   width: 90%;
@@ -578,7 +578,7 @@ color:#00CCFF;
 }
 
 .fitnessgallery1{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   color: gray;
   width: 100%;
@@ -588,7 +588,7 @@ color:#00CCFF;
 }
 
 .aboutgallery{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   color: gray;
   width: 90%;
@@ -598,7 +598,7 @@ color:#00CCFF;
 }
 
 .gthumb{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 120%;
   width: 100%;
   min-width: 100%;
@@ -608,7 +608,7 @@ color:#00CCFF;
 
 
 .directions{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 90%;
   width: 100%;
   min-width: 100%;
@@ -618,7 +618,7 @@ color:#00CCFF;
 }
 
 .footercontent{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 75%;
   color: gray;
   text-transform: uppercase;
@@ -628,7 +628,7 @@ color:#00CCFF;
 }
 
 .socialmediabuttons{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 75%;
   color: gray;
   text-transform: uppercase;
