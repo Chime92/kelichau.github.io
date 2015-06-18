@@ -6,12 +6,12 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 65px;
+  margin-bottom: 2%;
 }
 .footer {
   position: absolute;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
-  padding-top: 25px;
+  height: 65px;
+  padding-top: 5%;
 }

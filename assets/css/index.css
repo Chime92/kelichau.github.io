@@ -9,13 +9,12 @@
 
 .overallwrap{
   margin: auto;
-  width: 100%;
   font-family: 'Quicksand', sans-serif, arial;
   color: gray;
   font-size: 100%;
   /*height: 500px;*/
-  min-width: 50%;
   position: relative;
+  min-width: 100%;
 }
 
 .acontainer{
@@ -131,14 +130,14 @@
   left: 0;
   z-index: 9999;
   width: 100%;
-  height: 40.5px;
+  height: 41.5px;
   background-color: white;
   font-family: 'Quicksand', sans-serif, arial;  
   text-transform: uppercase;
   text-align: center;
   font-weight: crisp;
   font-size: 150%;
-   min-width: 100%;
+  min-width: 100%;
  
 }
 
@@ -153,9 +152,10 @@ padding: 1%;
 
 .smnav{
 float:right;
-width: 3%;
-margin-top: 1%;
+margin-top: 2%;
 list-style-type: none;
+background-color: transparent;
+font-size: 150%;
 }
 
 a:link{
@@ -320,6 +320,7 @@ color:#00CCFF;
   text-transform: uppercase;
   word-spacing: 5px;
   margin-right: 1%;
+  min-width: 100%;
 }
 
 .capture{
@@ -536,8 +537,8 @@ color:#00CCFF;
   font-size: 120%;
   color: gray;
   margin: auto;
-  width: 100%;
   min-width: 100%;
+  width: 100%;
   border: white 2px solid;
   text-align: center;
 }
@@ -598,10 +599,10 @@ color:#00CCFF;
   font-family: 'Quicksand', sans-serif, arial;
   font-size: 120%;
   color: gray;
-  width: 90%;
-  min-width: 90%;
+  width: 80%;
+  min-width: 80%;
   text-align: center;
-  margin-left: 6%;
+  margin-left: 10%;
 }
 
 .gthumb{
@@ -626,24 +627,21 @@ color:#00CCFF;
 
 .footercontent{
   font-family: 'Quicksand', sans-serif, arial;
-  font-size: 75%;
+  font-size: 80%;
   color: gray;
   text-transform: uppercase;
   text-decoration: none;
   float: left;
-  width: 50%;
 }
 
 .socialmediabuttons{
   font-family: 'Quicksand', sans-serif, arial;
-  font-size: 75%;
+  font-size: 80%;
   color: gray;
   text-transform: uppercase;
   text-align: right;
   float: right;
   text-decoration: none;
-  width: 45%;
-  margin-right: 10px;
 }
 
 a.fancybox img {
