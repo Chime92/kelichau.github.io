@@ -288,7 +288,20 @@ color:#00CCFF;
   color: Gray;
 }
 
-
+.blogarchivetitle{
+  font-family: 'Quicksand', sans-serif, arial;
+  font-size: 150%;
+  text-align: center;
+  color: white;
+  background-color: gray;
+  text-transform: uppercase;
+  width: 0%;
+  min-width: 50%;
+  margin-left: 25%
+}
+.textcenter{
+text-align: center;
+}
 
 
 .readmore{
