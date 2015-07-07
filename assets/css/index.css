@@ -512,6 +512,16 @@ text-align: center;
   width: 40%;
 }
 
+.ea4{
+  font-family: 'Quicksand', sans-serif, arial;
+  font-size: 100%;
+  color: gray;
+  text-align: center;
+  margin: auto;
+  min-width: 40%;
+  width: 40%;
+}
+
 .mc{
   font-family: 'Quicksand', sans-serif, arial;
   font-size: 150%;
