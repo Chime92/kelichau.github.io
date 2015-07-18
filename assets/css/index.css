@@ -147,15 +147,17 @@ display:inline;
 
 .nav a{
 text-decoration:none;
-padding: 1%;
+padding: 0 1%;
 }
 
 .smnav{
-float:right;
+/*float:right;*/
 margin-top: 2%;
 list-style-type: none;
 background-color: transparent;
 font-size: 150%;
+position: fixed;
+right: 0.5%;
 }
 
 a:link{
