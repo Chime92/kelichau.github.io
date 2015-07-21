@@ -17,6 +17,20 @@
   min-width: 100%;
 }
 
+.boldtextcolor{
+color: #6897bb;
+font-weight: bold;
+}
+
+.italictextcolor{
+color: #6897bb;
+font-style: italic;
+}
+
+.regulartextcolor{
+color: #6897bb;
+}
+
 .acontainer{
   margin: auto;
   width: 100%;
@@ -167,7 +181,7 @@ text-decoration: none;
 }
 
 a:hover{
-color:#00CCFF;
+color:#6897bb;
 }
 
 a:active{
@@ -175,7 +189,7 @@ color:gray;
 }
 
 a:visited{
-color:#00CCFF;
+color:#6897bb;
 }
 
 .next{
@@ -215,7 +229,7 @@ color:#00CCFF;
   font-size: 150%;
   text-transform: uppercase;
   text-align: center;
-  background-color: gray;
+  background-color: #6897bb;
   color: white;
 }
 
@@ -330,7 +344,7 @@ text-align: center;
 .artistlifelong{
   font-family: 'Quicksand', sans-serif, arial;
   font-size: 200%;
-  color: gray;
+  color: #6897bb;
   text-align: center;
   text-transform: uppercase;
   word-spacing: 5px;
