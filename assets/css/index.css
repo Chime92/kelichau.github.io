@@ -674,6 +674,40 @@ text-align: center;
   color: gray;
 }
 
+.directions2{
+  font-family: 'Quicksand', sans-serif, arial;
+  font-size: 70%;
+  width: 100%;
+  min-width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  color: gray;
+}
+
+.livecaptureappreciate{
+  font-family: 'Quicksand', sans-serif, arial;
+  font-size: 150%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.kellychauphotography{
+  font-family: 'Quicksand', sans-serif, arial;
+  font-size: 200%;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  margin-right: 1%;
+}
+
+.kcplogo{
+  text-align: center;
+}
+
 .footercontent{
   font-family: 'Quicksand', sans-serif, arial;
   font-size: 80%;
