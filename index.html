@@ -3,13 +3,20 @@
   <head>
     <title>Kelly Chau | Home</title>
       <link rel="stylesheet" href="assets/css/index.css">
+      <link rel="stylesheet" href="assets/css/image-slider.css">
       <link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.css"/>
       <link rel="stylesheet" href="assets/font-awesome-4.3.0/css/font-awesome.min.css">
       <link rel="stylesheet" href="assets/css/sticky-footer-navbar.css">
       <link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
-      <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">     
-      </head>
+      <link href='https://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Handlee' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
+      <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">  
+      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>      
+  </head>
+  
   <body class=body>
+  
     <nav class="fixed-nav-bar">
       <!-- Fixed navigation bar content -->
         <div class=nav>
@@ -23,105 +30,151 @@
     </nav>  
 
     <div class=overallwrap>    
-      <div class=kelly>Kelly Chau</div>
-        <br/>
-      <div class=photo>
-        <img class="fancybox" src="https://c1.staticflickr.com/9/8852/18197721942_60cbe7cac5_z.jpg" height="500" width="800" data-big="https://c1.staticflickr.com/9/8852/18197721942_60cbe7cac5_z.jpg">
-      </div>
-        <br/>
-      <div class=header>News</div>
-        <br/>
-          <div class="nsub">October Updates</div>
-            <div class="ncont">
-              <div class="date">Friday, October 23, 2015</div>
-                <br/>
-                  Y'all! It has been too long. How has everyone been? It's my last year of undergrad (<i>yes!</i>) so I have been busy with classes and working the past couple of months.
-                  Since it's been a while, I wanted to share some updates with you.
-                    <br/><br/>
-                  There are a couple of minor changes with the website. I am no longer blogging for "Chicken in a Turtle Shell". 
-                  Instead, I have decided to put my effort into "It's Chau Time", a collaborative food blog. For those who has been staying updated with my fitness journey and 
-                  has questions about fitness tips, etc., feel free to contact me via email or social media and I will try my best to answer them.
-                    <br/><br/>
-                  I became a blog contributor for Kollaboration not too long ago, and have been learning a lot from it. For those who do not know,
-                  Kollaboration is a non-profit organization with a platform to help promote diversity, inspiring Asian and Pacific Islanders to pursue careers in the arts.
-                    <br/><br/>
-                  I have done a couple of recap posts for ABC's newest T.V. show, "Dr. Ken" and will be writing a post soon on Asian-Americans and their struggle in choosing between passion and obligation.
-                  Be on the lookout for that <a href="http://kollaboration.org/author/kellychau">here</a>.       
-                    <br/><br/>
-                  That's all the updates for now. Let me know if you have any questions and remember to live your life with as much discomfort as you can!
-                    <br/><br/>
-                  Cheers,
-                    <br/>
-                  Kelly 
-            </div>
-          
-        <br/>
-          <div class=nsub>Website Launched</div>
-            <div class=ncont>
-              <div class=date>Saturday, May 30, 2015</div>
-                <br/>
-                  Welcome to my website! I am excited to finally be able to share the launch of this site
-                  with you. Thank you for your support in keeping up with this incredible learning experience in this thing
-                  that we call life.
-                    <br/><br/>
-                  The launch of this site might seem minor, but it's something exciting to me because less than a year ago, I
-                  told myself to stop dabbling and officially take up coding in order to create a website from scratch. It's nothing fancy-smancy, but with some
-                  guidance from a friend and tech-enthusiasts who are generous with sharing their ideas on the WWW, I was able
-                  to pull this off.
-                    <br/><br/>
-                  On here you will be able to find projects from my past and current ones: photography, music, blogging,
-                  and more. You can stay updated by subscribing to the mailing list on the "Contact" page or through various
-                  social media platforms I'm on.
-                    <br/><br/>
-                  I wish my experiences will inspire you to learn to be comfortable with being uncomfortable! Take a look 
-                  around and feel free to let me know what your thoughts are. 
-                    <br/><br/>
-                  Cheers,
-                    <br/>
-                  Kelly
+      <!-- Header and subtitle -->
+        <div class="index-header">Kelly Chau
+        </div>
+          <div class="index-subtitle">Photographer | Artist | Musician | Lifelong Learner
           </div>
-    </div>
-              <br/><br/><br/><br/>
-   <div class="footer">
-      <div class="footercontent">
-        <p>
-          &copy; 2015 <a href="http://www.kellychau.net" target="_blank">Kelly Chau</a>. All Rights Reserved. Web designed by 
-          <a href="http://www.kellychau.net" target="_blank">Kelly Chau</a>.
-        </p>
+            <br/><br/>
+          
+    <div class="container">
+      <!-- Begin carousel -->
+        <br>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+      <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <a href="capture.html" target="blank">
+          <img src="https://farm8.staticflickr.com/7755/17580691903_a69579be75_b.jpg" alt="Photo Gallery" width="460" height="345">
+        </a>
+          <div class="carousel-caption">
+            <p>Photo Gallery</p>
+          </div>
+     </div>   
+     <div class="item">
+      <a href="http://www.itschautime.net/2015/01/asian-hispanic-poached-egg-toast_4.html" target="blank">
+        <img src="http://1.bp.blogspot.com/-ak8Q7sz3uvo/VKjIcH0UkiI/AAAAAAAACpg/5tAhapUV42s/s1600/IMG_1768.JPG" alt="Latest Food Blog Post" width="460" height="345">
+      </a>
+        <div class="carousel-caption">
+          <p>Latest Food Blog Post</p>
+        </div>
+     </div>
+     <div class="item">
+      <a href="https://www.youtube.com/watch?v=dS1pcGrnk5A" target="blank">
+        <img src="https://farm1.staticflickr.com/754/23770616276_07357b6c56_b.jpg" alt="Latest Music Cover" width="460" height="345">
+      </a>
+        <div class="carousel-caption">
+          <p>Latest Music Cover</p>
+        </div>
+     </div>
+      <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true">
+          </span>
+          <span class="sr-only">Previous
+          </span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true">
+          </span>
+          <span class="sr-only">Next
+          </span>
+        </a>
       </div>
-      <div class="socialmediabuttons">
-        <p>
+      <!-- End carousel -->
+    </div>         
+      <br/><br/>
+<div id="instafeed"></div>
+  </div>       
+    <br/><br/><br/><br/><br/><br/><br/><br/>
+ 
+   <div class="footer">
+     <!-- Footer content -->
+      <div class="footercontent">
+      <p>
           Stay updated with social media &nbsp;&nbsp;&nbsp;
             <a href="http://www.facebook.com/kellychauphotography" target="_blank"><i class="fa fa-facebook-square"></i></a>&nbsp;&nbsp;&nbsp;
             <a href="http://www.instagram.com/kellytchau" target="_blank"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;
-            <a href="http://www.twitter.com/kellytchau" target="_blank"><i class="fa fa-twitter-square"></i></a>&nbsp;&nbsp;&nbsp;
-        </p>
-    </div>
+            <a href="http://www.twitter.com/kellytchau" target="_blank"><i class="fa fa-twitter-square"></i></a>
+              <br/>
+          &copy; 2015 <a href="http://www.kellychau.net" target="_blank">Kelly Chau</a>. All Rights Reserved. Web designed by 
+          <a href="http://www.kellychau.net" target="_blank">Kelly Chau</a>.
+      </p>
+      </div>
    </div>
-    
+   
+   <script>
+   var feed = new Instafeed({
+  clientId: '0b0a381edb464018a23e53499286d6c5',
+  limit: 20,
+  sortBy: 'most-liked',
+  after: function () {
+    var images = $("#instafeed").find('a');
+    $.each(images, function(index, image) {
+      var delay = (index * 75) + 'ms';
+      $(image).css('-webkit-animation-delay', delay);
+      $(image).css('-moz-animation-delay', delay);
+      $(image).css('-ms-animation-delay', delay);
+      $(image).css('-o-animation-delay', delay);
+      $(image).css('animation-delay', delay);
+      $(image).addClass('animated flipInX');
+    });
+  },
+  template: '<a href="{{link}}" target="_blank"><img src="{{image}}" /><div class="likes">&hearts; {{likes}}</div></a>'
+});
+feed.run();
+</script>
+
+    <script type="text/javascript" src="assets/instafeed.js-master/instafeed.min.js"></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.pack.min.js"></script>
-    <script type="text/javascript">
-      $(function($){
-        var addToAll = true;
-        var gallery = true;
-        var titlePosition = 'over';
-        $(addToAll ? 'img' : 'img.fancybox').each(function(){
-            var $this = $(this);
-            var title = $this.attr('title');
-            var src = $this.attr('data-big') || $this.attr('src');
-            var a = $('<a href="#" class="fancybox"></a>').attr('href', src).attr('title', title);
-            $this.wrap(a);
-        });
-        if (gallery)
-            $('a.fancybox').attr('rel', 'fancyboxgallery');
-        $('a.fancybox').fancybox({
-            titlePosition: titlePosition
-        });
-    });
-    $.noConflict();
-    </script> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    
+    <style>
+      .carousel-inner > .item > img,
+      .carousel-inner > .item > a > img {
+        width: 100%;
+        margin: auto;
+      }
+      .carousel-caption {
+        position: absolute;
+        z-index: 200;
+        width:100%;
+        height:100%;
+        margin-left: -20%;
+        top:40%;
+        display:table-cell;
+        vertical-align: middle;
+        text-align: center;
+        text-transform: none;
+        font-family: 'Amatic SC', sans-serif, arial;
+        font-size: 600%;
+        letter-spacing: 5px;
+        color:#ffffff;
+        font-weight: bolder;
+        }
+      a:link, a:visited{
+        color:white;
+        background-color:auto;
+        text-decoration: none;
+      }
+
+      a:hover{
+        color:#00d4f2;
+      }
+      a:active{
+        color:#222222;
+      }
+    </style>    
+    
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -131,6 +184,7 @@
       ga('create', 'UA-69143730-1', 'auto');
       ga('send', 'pageview');
 
-    </script>      
+    </script> 
+    
   </body>
 </html>

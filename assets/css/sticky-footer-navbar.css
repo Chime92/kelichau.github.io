@@ -6,13 +6,17 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 2%;
+  margin-bottom: 20%;
 }
 .footer {
   position: absolute;
-  width: 98%;
+  width: 100%;
   /* Set the fixed height of the footer here */
-  height: 30px;
-  padding-top: 5%;
-  bottom: 0;
-}
+  height: 150px;
+  padding-top: 3%;
+  background-color: #222222;
+  z-index: 9999;
+  bottom: 0px;
+  right: 1px;
+  padding: 1 1 1 1;
+  }
