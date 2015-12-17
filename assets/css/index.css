@@ -1,5 +1,6 @@
 .overallwrap{
-  margin: none;
+  margin: 0;
+  padding: 0;
   font-family: 'Handlee', sans-serif, arial;
   color: #222222;
   font-size: 100%;
@@ -9,6 +10,7 @@
   background-color: white;
   max-width: 100%;
 }
+
 
 .mcontainer{
   margin: auto;
@@ -63,8 +65,8 @@ color:#222222;
 
 .index-header{
   margin: auto;
-  width: 100%;
-  min-width: 100%;  
+  width: 90%;
+  min-width: 90%;  
   font-family: 'Amatic SC', sans-serif, arial;
   font-size: 800%;
   color: #00d4f2;
@@ -72,7 +74,7 @@ color:#222222;
   letter-spacing: 45px;
   text-align: center;
   margin-top: 3%;
-  margin-left: 1.5%;
+  margin-left: 7%;
   text-transform: uppercase;
 }
 
