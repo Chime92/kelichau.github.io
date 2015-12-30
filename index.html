@@ -109,9 +109,6 @@
       </div>
 </div>
       
-
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="assets/js/instafeed.min.js"></script>
@@ -163,16 +160,14 @@
     </script> 
     
     <script type="text/javasript">
-      $(document).ready(function() {
-        var my_feed = new Instafeed({
-          get: 'user',
+      var my_feed = new Instafeed({
+        get: 'user',
 -          userId: 2282046999,
 -          accessToken: '2282046999.0b0a381.778302e5752944c5b6c3daa17091dad4',
 -          sortBy: 'most-recent'
-        });
-        console.log('hi');
-        console.log(my_feed.run());
       });
+      console.log('hi');
+      console.log(my_feed.run());
     </script>
     <script type="text/javasript">
       console.log(hiuo);
