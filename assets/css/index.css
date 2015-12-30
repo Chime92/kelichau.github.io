@@ -133,6 +133,15 @@ color:#222222;
   margin-top: 3%;
 }
 
+.instagram-title{
+  font-family: 'Amatic SC', sans serif, arial;
+  font-size: 500%;
+  color: #00d4f2;
+  letter-spacing: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 .contact-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size:700%;
