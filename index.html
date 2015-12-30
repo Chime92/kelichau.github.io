@@ -125,6 +125,10 @@
         links: 'true',
         limit: '25',
         resolution: 'low_resolution',
+        mock: true,
+        error: function (msg){
+          console.log(msg);
+        },
         success: function (data) {
           console.log(data);
         }
