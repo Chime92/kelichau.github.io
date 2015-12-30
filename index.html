@@ -118,14 +118,10 @@
     <script type="text/javasript">
       $(document).ready(function() {
         var userFeed = new Instafeed({
-          clientId: '0b0a381edb464018a23e53499286d6c5',
-          target: 'instafeed',
-          get: 'tagged',
-          tagName: 'awesome',
-          links: true,
-          limit: 8,
-          sortBy: 'most-recent',
-          resolution: 'standard_resolution'
+          get: 'user',
+-          userId: 2282046999,
+-          accessToken: '2282046999.0b0a381.778302e5752944c5b6c3daa17091dad4',
+-          sortBy: 'most-recent'
         });
         userFeed.run();
       });
