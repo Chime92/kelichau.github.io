@@ -118,13 +118,16 @@
     <script type="text/javasript">
       var userFeed = new Instafeed({
         get: 'user',
-        userId: '2282046999',
+        userId: 2282046999,
         accessToken: '0b0a381.778302e5752944c5b6c3daa17091dad4',
         target: 'instagram_img',
         sortBy: 'most-recent',
-        links: true,
-        limit: 25,
-        resolution: low_resolution
+        links: 'true',
+        limit: '25',
+        resolution: 'low_resolution',
+        success: function (data) {
+          console.log(data);
+        }
       });
       userFeed.run();
     </script>
