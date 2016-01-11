@@ -278,10 +278,10 @@ color:#222222;
   padding:5px 5px 1px 5px;
   margin:10px;
   border:1px solid #ffffff;
-  display:inline-block;
   border-radius: 4px;
   position:relative;
-}
+  min-width: 100%;
+  }
 
 #instafeed .likes {
   background:rgba(222,89,135,0.8);
