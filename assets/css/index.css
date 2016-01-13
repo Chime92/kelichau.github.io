@@ -109,7 +109,7 @@ color:#222222;
   margin-right: 1%;
   letter-spacing: 8px;
   min-width: 40%;
-  font-weight: less bold;
+  font-weight: bold;
 }
 
 .capture-title{
@@ -232,10 +232,10 @@ color:#222222;
 
 .bio{
   font-family: 'Bitter', sans-serif, arial;
-  font-size: 120%;
+  font-size: 90%;
   color: #222222;
-  width: 50%;
-  min-width: 50%;  
+  width: 35%;
+  min-width: 35%;  
   border: #222222 0px solid;
   margin-left: 25%;
   margin: auto;
