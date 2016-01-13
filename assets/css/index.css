@@ -102,13 +102,13 @@ color:#222222;
 
 .about-subtitle{
   font-family: 'Amatic SC', sans-serif, arial;
-  font-size: 140%;
+  font-size: 130%;
   color: #00d4f2;
   text-align: center;
   text-transform: uppercase;
   margin-right: 1%;
   letter-spacing: 8px;
-  min-width: 40%;
+  min-width: 30%;
   font-weight: bold;
 }
 
@@ -239,6 +239,7 @@ color:#222222;
   border: #222222 0px solid;
   margin-left: 25%;
   margin: auto;
+  word-spacing: 2px;
 }
 
 .livecaptureappreciate{
