@@ -13,6 +13,7 @@
       <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">  
       <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>   
 <script src="//www.powr.io/powr.js" powr-token="18620a6301" external-type="html"></script>      
+<script src="//www.powr.io/powr.js" powr-token="18620a6301" external-type="html"></script>
   </head>
   
   <body>
@@ -92,11 +93,14 @@
         <div class="instagram-title">
           Instagram
         </div>
-      <br/><br/>
-      <div class="powr-instagram-feed" label="3064685"></div>
-      <div id="instafeed"></div>
-      </div>       
-      <br/><br/><br/>
+          <br/><br/>
+          <div class="powr-instagram-feed" label="3064685"></div>      
+            <br/><br/>
+        <div class="twitter-title">
+          Twitter
+        </div>
+          <br/><br/>
+            <div class="powr-social-feed" label="3064762"></div>
       
       
       </div>
@@ -118,20 +122,6 @@
       
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="assets/js/instafeed.min.js"></script>
-    <script type="text/javascript">
-      var my_feed = new Instafeed({
-        get: 'user',
-        userId: '2564509901',
-        accessToken: '2564509901.c185073.77e8fc72d1404c9a9aaa43ef5f39fda4',
-        sortBy: 'most-recent',
-        limit: 12,
-        resolution: 'thumbnail',
-        links: true
-        template: '<a href="{{link}}"><img src="{{image}}" {{caption}} /></a>'
-      });
-      my_feed.run();
-    </script>
     
     <style>
       .carousel-inner > .item > img,
