@@ -11,7 +11,8 @@
       <link href='https://fonts.googleapis.com/css?family=Handlee' rel='stylesheet' type='text/css'>
       <link href='https://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
       <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">  
-      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>      
+      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>   
+<script src="//www.powr.io/powr.js" powr-token="18620a6301" external-type="html"></script>      
   </head>
   
   <body>
@@ -92,6 +93,7 @@
           Instagram
         </div>
       <br/><br/>
+      <div class="powr-instagram-feed" label="3064685"></div>
       <div id="instafeed"></div>
       </div>       
       <br/><br/><br/>
@@ -126,7 +128,7 @@
         limit: 12,
         resolution: 'thumbnail',
         links: true
-        template: '<a href="{{link}}"><img src="{{image}}{{caption}}" /></a>'
+        template: '<a href="{{link}}"><img src="{{image}}" {{caption}} /></a>'
       });
       my_feed.run();
     </script>
