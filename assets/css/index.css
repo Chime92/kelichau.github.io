@@ -64,10 +64,16 @@ color:#222222;
 
 
 A.links2 {color:#222222;}
-A.links2:link {text-decoration: underline; color: #222222;}
+A.links2:link {text-decoration: none; color: #222222;}
 A.links2:visited {text-decoration: none; color: #222222;}
 A.links2:hover {text-decoration: none; color: #00d4f2;}
 A.links2:active {text-decoration: none; color: #222222;}
+
+A.links3 {color:#222222;}
+A.links3:link {text-decoration: underline; color: #222222;}
+A.links3:visited {text-decoration: none; color: #222222;}
+A.links3:hover {text-decoration: none; color: #00d4f2;}
+A.links3:active {text-decoration: none; color: #222222;}
 
 
 .index-header{
