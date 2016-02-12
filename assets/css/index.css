@@ -37,7 +37,6 @@
   font-size: 190%;
   letter-spacing: 5px;
   min-width: 100%;
- 
 }
 
 .nav li{
@@ -50,7 +49,7 @@ padding: 0 1%;
 }
 
 a:link, a:visited{
-color: #c1c1c1;
+color: #ffffff;
 background-color:auto;
 text-decoration: none;
 }
@@ -62,6 +61,14 @@ color:#00d4f2;
 a:active{
 color:#222222;
 }
+
+
+A.nav-arrows-links {color:#222222;}
+A.nav-arrows-links:link {text-decoration: none; color: #222222;}
+A.nav-arrows-links:visited {text-decoration: none; color: #222222;}
+A.nav-arrows-links:hover {text-decoration: none; color: #00d4f2;}
+A.nav-arrows-links:active {text-decoration: none; color: #222222;}
+
 
 .index-header{
   margin: auto;
