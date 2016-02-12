@@ -133,6 +133,80 @@ color:#222222;
   margin-top: 3%;
 }
 
+.write-title{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size:700%;
+  color: #00d4f2;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 15px;
+  margin-top: 3%;
+}
+
+.write-subtitle{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 500%;
+  color: #00d4f2;
+  text-transform: none;
+  text-align: center;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+.write-date{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 250%;
+  color: #222222;
+  text-transform: none;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.write-photo{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 200%;
+  text-align: center;
+}
+
+.write-content{
+  font-family: 'Bitter', sans-serif, arial;
+  font-size: 90%;
+  color: #222222;
+  width: 47%;
+  min-width: 47%;  
+  border: #222222 0px solid;
+  margin-left: 25%;
+  margin: auto;
+  word-spacing: 2px;
+  text-align: center;
+}
+
+.write-archive{
+  font-family: 'Bitter', sans-serif, arial;
+  font-size: 200%;
+  color: #222222;
+  text-align: center;
+}
+
+.write-sub-sub{
+  font-weight: bolder;
+  font-size: 95%;
+}
+
+
+.nav-arrows{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 200%;
+  text-align: center;
+  background-color: #222222;
+  width: 10%;
+  margin-left: 45%;
+  margin-top: 5%;
+  margin-bottom: -15%;
+  
+}
+
+
 .contact-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size:700%;
@@ -274,6 +348,7 @@ color:#222222;
   text-transform: uppercase;
   color: #00d4f2
 }
+
 
 .footercontent{
   font-family: 'Amatic SC', sans-serif, arial;
