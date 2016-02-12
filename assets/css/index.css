@@ -63,11 +63,11 @@ color:#222222;
 }
 
 
-A.nav-arrows-links {color:#222222;}
-A.nav-arrows-links:link {text-decoration: none; color: #222222;}
-A.nav-arrows-links:visited {text-decoration: none; color: #222222;}
-A.nav-arrows-links:hover {text-decoration: none; color: #00d4f2;}
-A.nav-arrows-links:active {text-decoration: none; color: #222222;}
+A.links2 {color:#222222;}
+A.links2:link {text-decoration: none; color: #222222;}
+A.links2:visited {text-decoration: none; color: #222222;}
+A.links2:hover {text-decoration: none; color: #00d4f2;}
+A.links2:active {text-decoration: none; color: #222222;}
 
 
 .index-header{
