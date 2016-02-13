@@ -370,3 +370,19 @@ A.links3:active {text-decoration: none; color: #222222;}
   text-align: center;
   letter-spacing: 5px;
 }
+
+<style>
+  /* regular css */
+ #fixed-nav-bar{
+  position: fixed
+ }
+ 
+ @media screen and (max-width: 500px) {
+ /* applies only if the screen is narrower than 500px */
+ 
+  #fixed-nav-bar{
+    position: static
+  }
+}
+ 
+</style>
