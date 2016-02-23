@@ -299,8 +299,9 @@ A.links3:active {text-decoration: none; color: #222222;}
 }  
 
 .mailchimp2{
- text-align: center;
  margin: 20%;
+ min-width: 30%;
+ width: 30%;
 }
 
 .about-photo{
