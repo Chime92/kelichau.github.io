@@ -146,6 +146,26 @@ A.links3:active {text-decoration: none; color: #222222;}
   margin-top: 3%;
 }
 
+.terms-title{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 700%;
+  color: #00d4f2;
+  letter-spacing: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+} 
+
+.privacy-title{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 700%;
+  color: #00d4f2;
+  letter-spacing: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+}
+
 .write-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size:700%;
@@ -314,6 +334,46 @@ A.links3:active {text-decoration: none; color: #222222;}
   margin-left: 25%;
   margin: auto;
   word-spacing: 2px;
+}
+
+.terms{
+  font-family: 'Bitter', sans-serif, arial;
+  font-size: 90%;
+  color: #222222;
+  width: 80%;
+  min-width: 80%;
+  margin: auto;
+  word-spacing: 2px;
+  text-align: left;
+}
+
+.terms-subtitle{
+  font-family: 'Bitter', sans-serif, arial;
+  color: #222222;
+  font-size: 90%;
+  word-spacing: 3px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.privacy{
+  font-family: 'Bitter', sans-serif, arial;
+  font-size: 90%;
+  color: #222222;
+  width: 80%;
+  min-width: 80%;
+  margin: auto;
+  word-spacing: 2px;
+  text-align: left;
+}
+
+.privacy-subtitle{
+  font-family: 'Bitter', sans-serif, arial;
+  color: #222222;
+  font-size: 90%;
+  word-spacing: 3px;
+  text-transform: uppercase;
+  text-decoration: underline;
 }
 
 .livecaptureappreciate{
