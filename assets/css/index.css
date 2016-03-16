@@ -426,6 +426,11 @@ A.links4:active{text-decoration:none;color:#00d4f2;}
   float: right;
 }
 
+.feed-wrap{
+  min-width: 100%;
+  position: relative;
+}
+
 .instagram-feed{
   font-family: 'Amatic SC', sans serif, arial;
   font-size: 500%;
