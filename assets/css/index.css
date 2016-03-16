@@ -413,7 +413,6 @@ A.links4:active{text-decoration:none;color:#00d4f2;}
   letter-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
-  float: left;
 }
 
 .facebook-feed{
@@ -423,12 +422,6 @@ A.links4:active{text-decoration:none;color:#00d4f2;}
   letter-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
-  float: right;
-}
-
-.feed-wrap{
-  min-width: 100%;
-  position: relative;
 }
 
 .instagram-feed{
