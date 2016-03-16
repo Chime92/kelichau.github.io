@@ -413,6 +413,17 @@ A.links4:active{text-decoration:none;color:#00d4f2;}
   letter-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
+  float: left;
+}
+
+.facebook-feed{
+  font-family: 'Amatic SC', sans serif, arial;
+  font-size: 500%;
+  color: #00d4f2;
+  letter-spacing: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  float: right;
 }
 
 .instagram-feed{
