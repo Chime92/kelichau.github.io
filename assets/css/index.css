@@ -12,10 +12,10 @@
 }
 
 
-.mcontainer{
+.motion-container{
   margin: auto;
   width: 100%;
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   color: #222222;
   min-width: 100%;
   text-align: center;
@@ -107,7 +107,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 
 .about-title{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size:700%;
   color: #46bfbd;
   text-transform: uppercase;
@@ -117,7 +117,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .about-subtitle{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 100%;
   color: #46bfbd;
   text-align: center;
@@ -129,7 +129,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .capture-title{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size:700%;
   color: #46bfbd;
   text-align: center;
@@ -140,7 +140,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .motion-title{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size:700%;
   color: #46bfbd;
   letter-spacing: 20px;
@@ -150,7 +150,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .terms-title{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 700%;
   color: #46bfbd;
   letter-spacing: 20px;
@@ -160,7 +160,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 } 
 
 .privacy-title{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 700%;
   color: #46bfbd;
   letter-spacing: 20px;
@@ -170,7 +170,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .write-title{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size:700%;
   color: #46bfbd;
   text-transform: uppercase;
@@ -180,7 +180,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .write-subtitle{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 500%;
   color: #46bfbd;
   text-transform: none;
@@ -191,7 +191,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .write-date{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 250%;
   color: #222222;
   text-transform: none;
@@ -200,13 +200,13 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .write-photo{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 200%;
   text-align: center;
 }
 
 .write-content{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
   color: #222222;
   width: 47%;
@@ -219,7 +219,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .write-archive{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 200%;
   color: #222222;
   text-align: center;
@@ -233,7 +233,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 
 .nav-arrows{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 300%;
   text-align: center;
   width: 10%;
@@ -245,7 +245,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 
 .contact-title{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size:700%;
   color: #46bfbd;
   letter-spacing: 15px;
@@ -255,7 +255,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .contact-subheader{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   min-width: 100%;
   width: 100%;
   font-size: 200%;
@@ -268,7 +268,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .subtitlelinks{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
   color: #222222;
   text-align: center;
@@ -279,7 +279,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .ea{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 130%;
   color: #222222;
   text-align: center;
@@ -290,7 +290,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .ea2{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 130%;
   color: #222222;
   text-align: center;
@@ -301,7 +301,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .ea3{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 130%;
   text-align: center;
   text-transform: lowercase;
@@ -317,7 +317,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .about-photo{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 120%;
   color: #222222;
   margin: auto;
@@ -328,7 +328,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .bio{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
   color: #222222;
   width: 40%;
@@ -340,7 +340,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .terms{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
   color: #222222;
   width: 80%;
@@ -351,7 +351,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .terms-subtitle{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   color: #222222;
   font-size: 90%;
   word-spacing: 3px;
@@ -360,7 +360,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .privacy{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
   color: #222222;
   width: 80%;
@@ -371,7 +371,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .privacy-subtitle{
-  font-family: 'Bitter', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   color: #222222;
   font-size: 90%;
   word-spacing: 3px;
@@ -380,7 +380,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .livecaptureappreciate{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 160%;
   color: #222222;
   text-align: center;
@@ -390,7 +390,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .kellychauphotography{
-  font-family: 'Amatic SC', sans-serif, arial;
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 200%;
   color: #222222;
   text-align: center;
