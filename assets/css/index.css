@@ -118,13 +118,13 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .about-subtitle{
   font-family: 'Questrial', sans-serif, arial;
-  font-size: 100%;
+  font-size: 90%;
   color: #46bfbd;
   text-align: center;
   text-transform: uppercase;
   margin-right: 1%;
   letter-spacing: 8px;
-  min-width: 10%;
+  min-width: 5%;
 }
 
 .capture-title{
@@ -328,7 +328,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .bio{
   font-family: 'Questrial', sans-serif, arial;
-  font-size: 90%;
+  font-size: 100%;
   color: #222222;
   width: 40%;
   min-width: 40%;  
@@ -379,23 +379,25 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .livecaptureappreciate{
-  font-family: 'Questrial', sans-serif, arial;
+  font-family: 'Amatic SC', sans-serif, arial;
   font-size: 160%;
   color: #222222;
   text-align: center;
   text-transform: uppercase;
   word-spacing: 5px;
   margin-right: 1%;
+  min-width: 10%;
 }
 
 .kellychauphotography{
-  font-family: 'Questrial', sans-serif, arial;
+  font-family: 'Amatic SC', sans-serif, arial;
   font-size: 200%;
   color: #222222;
   text-align: center;
   text-transform: uppercase;
   word-spacing: 5px;
   margin-right: 1%;
+  min-width: 10%;
 }
 
 .kcplogo{
