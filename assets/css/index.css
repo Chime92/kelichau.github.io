@@ -72,14 +72,14 @@ A.links2:active {text-decoration: none; color: #222222;}
 A.links3 {color:#222222;}
 A.links3:link {text-decoration: underline; color: #222222;}
 A.links3:visited {text-decoration: none; color: #222222;}
-A.links3:hover {text-decoration: none; color: #00d4f2;}
+A.links3:hover {text-decoration: none; color: #46bfbd;}
 A.links3:active {text-decoration: none; color: #222222;}
 
-A.links4 {color:#00d4f2;}
-A.links4:link{text-decoration: none; color:#00d4f2;}
-A.links4:visited{text-decoration:none; color:#00d4f2;}
-A.links4:hover{text-decoration:none; color: #00d4f2;}
-A.links4:active{text-decoration:none;color:#00d4f2;}
+A.links4 {color:#46bfbd;}
+A.links4:link{text-decoration: none; color:#46bfbd;}
+A.links4:visited{text-decoration:none; color:#46bfbd;}
+A.links4:hover{text-decoration:none; color: #46bfbd;}
+A.links4:active{text-decoration:none;color:#46bfbd;}
 
 
 .index-header{
@@ -91,7 +91,7 @@ A.links4:active{text-decoration:none;color:#00d4f2;}
   letter-spacing: 5px;
   text-align: center;
   margin-top: 3%;
-  margin-left: 7%;
+  margin-left: 3%;
   text-transform: uppercase;
 }
 
