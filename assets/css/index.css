@@ -33,7 +33,7 @@
   font-family: 'Questrial', sans-serif, arial;  
   text-align: center;
   font-size: 150%;
-  letter-spacing: 2px;
+  letter-spacing: 5px;
   min-width: 100%;
   text-transform: uppercase;
 }
@@ -54,7 +54,7 @@ text-decoration: none;
 }
 
 a:hover{
-color:#00d4f2;
+color:#46bfbd;
 }
 
 a:active{
@@ -65,7 +65,7 @@ color:#222222;
 A.links2 {color:#222222;}
 A.links2:link {text-decoration: none; color: #222222;}
 A.links2:visited {text-decoration: none; color: #222222;}
-A.links2:hover {text-decoration: none; color: #00d4f2;}
+A.links2:hover {text-decoration: none; color: #46bfbd;}
 A.links2:active {text-decoration: none; color: #222222;}
 
 A.links3 {color:#222222;}
@@ -109,7 +109,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .about-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size:700%;
-  color: #00d4f2;
+  color: #46bfbd;
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 15px;
@@ -119,7 +119,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .about-subtitle{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size: 100%;
-  color: #00d4f2;
+  color: #46bfbd;
   text-align: center;
   text-transform: uppercase;
   margin-right: 1%;
@@ -131,7 +131,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .capture-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size:700%;
-  color: #00d4f2;
+  color: #46bfbd;
   text-align: center;
   letter-spacing: 30px;
   text-transform: uppercase;
@@ -142,7 +142,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .motion-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size:700%;
-  color: #00d4f2;
+  color: #46bfbd;
   letter-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
@@ -152,7 +152,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .terms-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size: 700%;
-  color: #00d4f2;
+  color: #46bfbd;
   letter-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
@@ -162,7 +162,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .privacy-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size: 700%;
-  color: #00d4f2;
+  color: #46bfbd;
   letter-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
@@ -172,7 +172,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .write-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size:700%;
-  color: #00d4f2;
+  color: #46bfbd;
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 15px;
@@ -182,7 +182,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .write-subtitle{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size: 500%;
-  color: #00d4f2;
+  color: #46bfbd;
   text-transform: none;
   text-align: center;
   letter-spacing: 2px;
@@ -247,7 +247,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .contact-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size:700%;
-  color: #00d4f2;
+  color: #46bfbd;
   letter-spacing: 15px;
   text-align: center;
   text-transform: uppercase;
@@ -259,7 +259,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   min-width: 100%;
   width: 100%;
   font-size: 200%;
-  color: #00d4f2;
+  color: #46bfbd;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 8px;
