@@ -321,20 +321,20 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   width: 10%;
   border: white 2px solid;
   float: left;
-  margin-left: 10%;
+  margin-left: 15%;
 }
 
 .bio{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
   color: #222222;
-  width: 10%;
-  min-width: 10%;  
+  width: 20%;
+  min-width: 20%;  
   border: #222222 0px solid;
   margin: auto;
   word-spacing: 2px;
   float: right;
-  margin-right: 10%;
+  margin-right: 15%;
  }
  
  .about-container{
