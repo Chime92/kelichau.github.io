@@ -328,13 +328,13 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
   color: #222222;
-  width: 20%;
-  min-width: 20%;  
+  width: 25%;
+  min-width: 25%;  
   border: #222222 0px solid;
   margin: auto;
   word-spacing: 2px;
   float: right;
-  margin-right: 15%;
+  margin-right: 20%;
  }
  
  .about-container{
