@@ -316,8 +316,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .about-photo{
   font-family: 'Questrial', sans-serif, arial;
   color: #222222;
-  min-width: 2%;
-  width: 2%;
   float: left;
   margin-left: 10%;
 }
