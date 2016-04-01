@@ -316,10 +316,8 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .about-photo{
   font-family: 'Questrial', sans-serif, arial;
   color: #222222;
-  margin: auto;
   min-width: 2%;
   width: 2%;
-  border: white 2px solid;
   float: left;
   margin-left: 10%;
 }
@@ -330,7 +328,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   color: #222222;
   width: 25%;
   min-width: 25%;  
-  margin: auto;
   word-spacing: 2px;
   float: right;
   margin-right: 15%;
