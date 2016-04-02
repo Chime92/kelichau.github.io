@@ -334,6 +334,10 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
  .about-container{
   margin-bottom: 60%;
  }
+ 
+ .contact-info-container{
+  margin-bottom: 20%;
+ }
 
 .terms{
   font-family: 'Questrial', sans-serif, arial;
