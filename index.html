@@ -188,6 +188,15 @@ When she's not working on improving herself, she finds joy in the simple things 
       ga('send', 'pageview');
 
     </script>    
-
+<script>
+$('.smooth').on('click', function() {
+    $.smoothScroll({
+        scrollElement: $('body'),
+        scrollTarget: '#' + this.id
+    });
+    
+    return false;
+});
+</script>
   </body>
 </html>
