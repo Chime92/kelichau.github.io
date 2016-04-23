@@ -85,33 +85,12 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   margin: auto;
   min-width: 100%;  
   font-family: 'Amatic SC', sans-serif, arial;
-  font-size: 600%;
+  font-size: 700%;
   color: #46bfbd;
   letter-spacing: 25px;
   text-align: center;
   margin-top: 3%;
   text-transform: uppercase;
-}
-
-
-
-.about-title{
-  font-family: 'Amatic SC', sans-serif, arial;
-  font-size:700%;
-  color: #46bfbd;
-  text-transform: uppercase;
-  text-align: center;
-  letter-spacing: 5px;
-  margin-top: 3%;
-}
-
-.about-subtitle{
-  font-family: 'Questrial', sans-serif, arial;
-  font-size: 90%;
-  color: #46bfbd;
-  text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 8px;
 }
 
 .capture-title{
@@ -301,13 +280,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
  width: 40%;
 }
 
-.about-photo{
-  font-family: 'Questrial', sans-serif, arial;
-  color: #222222;
-  float: left;
-  margin-left: 20%;
-}
-
 .bio{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 100%;
@@ -318,11 +290,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   float: right;
   margin-right: 15%;
  }
- 
- .about-container{
-  margin-bottom: 60%;
- }
- 
+
  .contact-info-container{
   margin-bottom: 5%;
  }
