@@ -85,7 +85,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   margin: auto;
   min-width: 100%;  
   font-family: 'Amatic SC', sans-serif, arial;
-  font-size: 800%;
+  font-size: 600%;
   color: #46bfbd;
   letter-spacing: 25px;
   text-align: center;
@@ -93,17 +93,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-transform: uppercase;
 }
 
-.index-subtitle{
-  margin: auto;
-  width: 100%;
-  min-width: 100%;
-  font-family: 'Questrial', sans-serif, arial;
-  font-size: 150%;
-  color: #222222;
-  letter-spacing: 5px;
-  text-align: center;
-  text-transform: uppercase;
-}
 
 
 .about-title{
