@@ -3,9 +3,6 @@
     float: none;
     width: auto;
   }
- #subtitle, #share, #slider, #sidebar{
-    display:none;
-  }
   p{ font-size: 2em; }
 }
 
