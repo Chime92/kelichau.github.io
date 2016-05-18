@@ -6,20 +6,6 @@ input, textarea {
   max-width:100%
 }
 
-<style>
-/* regular css */
-.tabs {
-  padding: 10px 2em
-}
-
-@media screen and (max-width: 500px) {
-/* applies only if the screen is narrower than 500px */
-  .tabs {
-    padding: 3px 1em
-  }
-}
-</style>
-
 
 .overallwrap{
   margin: 0;
@@ -303,16 +289,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
  width: 40%;
 }
 
-.bio{
-  font-family: 'Questrial', sans-serif, arial;
-  font-size: 100%;
-  color: #222222;
-  width: 30%;
-  min-width: 30%;  
-  word-spacing: 2px;
-  float: right;
-  margin-right: 15%;
- }
 
  .contact-info-container{
   margin-bottom: 5%;
@@ -355,7 +331,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 .about-content{
   font-family: 'Questrial', sans-serif, arial;
   color: #222222;
-  font-size: 90%;
+  font-size: 100%;
   min-width: 80%;
   text-align: center;
   line-height: 100%;
