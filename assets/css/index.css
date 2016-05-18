@@ -1,3 +1,5 @@
+body {-webkit-text-size-adjust:100%;}
+
 .overallwrap{
   margin: 0;
   padding: 0;
@@ -335,6 +337,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   font-size: 90%;
   min-width: 80%;
   text-align: center;
+  line-height: 100%;
 }
 
 .privacy{
