@@ -6,6 +6,20 @@ input, textarea {
   max-width:100%
 }
 
+<style>
+/* regular css */
+.tabs {
+  padding: 10px 2em
+}
+
+@media screen and (max-width: 500px) {
+/* applies only if the screen is narrower than 500px */
+  .tabs {
+    padding: 3px 1em
+  }
+}
+</style>
+
 
 .overallwrap{
   margin: 0;
