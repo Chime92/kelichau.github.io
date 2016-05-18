@@ -328,13 +328,19 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-align: center;
 }
 
+.about-wrap{
+  text-align: center;
+}
+
 .about-content{
   font-family: 'Questrial', sans-serif, arial;
-  color: #222222;
   font-size: 100%;
-  min-width: 80%;
-  text-align: center;
-  line-height: 100%;
+  color: #222222;
+  text-align: left;
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .privacy{
