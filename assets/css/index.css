@@ -317,11 +317,12 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .about-title{
   font-family: 'Amatic SC', sans-serif, arial;
+  font-size:700%;
   color: #46bfbd;
-  font-size: 700%;
-  text-transform: uppercase;
+  letter-spacing: 5px;
   text-align: center;
-  letter-spacing: 7px;
+  text-transform: uppercase;
+  margin-top: 3%;
 }
 
 .about-photo{
