@@ -178,7 +178,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   width: 100%;
 }
 
-.ea{
+.contact-details{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 130%;
   color: #222222;
@@ -189,26 +189,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   width: 40%;
 }
 
-.ea2{
-  font-family: 'Questrial', sans-serif, arial;
-  font-size: 130%;
-  color: #222222;
-  text-align: center;
-  text-transform: lowercase;
-  margin: auto;
-  min-width: 40%;
-  width: 40%;
-}
-
-.ea3{
-  font-family: 'Questrial', sans-serif, arial;
-  font-size: 130%;
-  text-align: center;
-  text-transform: lowercase;
-  margin: auto;
-  min-width: 40%;
-  width: 40%;
-}
 
 .mailchimp{
  margin-left: 36.5%;
