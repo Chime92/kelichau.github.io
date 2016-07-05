@@ -190,7 +190,13 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .contact-social{
+  font-family: 'Questrial', sans-serif, arial;
   font-size: 200%;
+  color: #222222;
+  text-align: center;
+  margin: auto;
+  min-width: 40%;
+  width: 40%;
 }
 
 .mailchimp{
