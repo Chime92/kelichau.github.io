@@ -259,6 +259,10 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   margin-right: auto;
 }
 
+.about-signature{
+  text-align: center;
+}
+
 .privacy{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
