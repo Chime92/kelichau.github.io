@@ -401,7 +401,10 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   letter-spacing: 1px;
 }
 
-
+.script-comment-box{
+  text-align: center;
+  max-width: 200%;
+}
 .script-nav-links{
   font-size: 150%;
 }
