@@ -263,6 +263,81 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-align: center;
 }
 
+.script-title{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 800%;
+  color: #46bfbd;
+  letter-spacing: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+}
+
+.script-subtitle{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 300%;
+  color: #46bfbd;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.script-subtitle2{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 200%;
+  color: #46bfbd;
+  text-align: center;
+}
+
+.script-caption{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 100%;
+  text-align: center;
+  display: block;
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #222222;
+}
+
+.archive{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 100%;
+  text-align: center;
+  color: #222222;
+}
+
+.script-post-title{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 200%;
+  text-align: center;
+  color: #46bfbd;
+  text-transform: uppercase;
+}
+
+.script-date{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 100%;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #222222;
+  text-transform: uppercase;
+}
+
+.script-content{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 100%;
+  text-align: center;
+  color: #222222;
+  display: block;
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-alignment{
+  text-align: left;
+}
+
 .privacy{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 90%;
@@ -325,5 +400,3 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-align: center;
   letter-spacing: 1px;
 }
-
-
