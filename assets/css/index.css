@@ -284,7 +284,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 }
 
 .rate-info{
-  font-size: 90%;
+  font-size: 100%;
   text-align: center;
   font-family: 'Questrial', sans-serif, arial;
   text-transform: uppercase;
@@ -302,7 +302,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .subtitle{
   font-family: 'Questrial', sans-serif, arial;
-  font-size: 190%;
+  font-size: 100%;
   color: #46bfbd;
   text-align: center;
   text-transform: uppercase;
@@ -319,7 +319,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .caption{
   font-family: 'Questrial', sans-serif, arial;
-  font-size: 90%;
+  font-size: 100%;
   color: #222222;
   text-align: center;
   text-transform: uppercase;
@@ -327,7 +327,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .content{
   font-family: 'Questrial', sans-serif, arial;
-  font-size: 90%;
+  font-size: 110%;
   color: #222222;
   text-align: center;
 }
