@@ -375,6 +375,10 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   color: #222222;
 }
 
+.post-names{
+  font-size: 120%;
+}
+
 .script-post-title{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 200%;
