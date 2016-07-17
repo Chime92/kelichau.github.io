@@ -319,7 +319,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .caption{
   font-family: 'Questrial', sans-serif, arial;
-  font-size: 100%;
+  font-size: 120%;
   color: #222222;
   text-align: center;
   text-transform: uppercase;
@@ -327,7 +327,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .content{
   font-family: 'Questrial', sans-serif, arial;
-  font-size: 110%;
+  font-size: 130%;
   color: #222222;
   text-align: center;
 }
