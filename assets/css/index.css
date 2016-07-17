@@ -263,8 +263,28 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-align: center;
 }
 
+
+.core-values-title{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 500%;
+  color: #46bfbd;
+  letter-spacing: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+}
+
+
+.booking{
+  font-size: 100%;
+  font-family: 'Questrial', sans-serif, arial;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+
 .rate-info{
-  font-size: 150%;
+  font-size: 100%;
   text-align: center;
   font-family: 'Questrial', sans-serif, arial;
   text-transform: uppercase;
@@ -280,7 +300,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   margin-top: 3%;
 }
 
-.rates-subtitle{
+.subtitle{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 200%;
   color: #46bfbd;
@@ -288,7 +308,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-transform: uppercase;
 }
 
-.rates-subtitle2{
+.subtitle2{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 130%;
   color: #222222;
@@ -297,7 +317,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-decoration: underline;
 }
 
-.rates-caption{
+.caption{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 100%;
   color: #222222;
@@ -305,7 +325,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-transform: uppercase;
 }
 
-.rates-content{
+.content{
   font-family: 'Questrial', sans-serif, arial;
   font-size: 100%;
   color: #222222;
