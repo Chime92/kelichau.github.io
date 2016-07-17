@@ -263,6 +263,13 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-align: center;
 }
 
+.rate-info{
+  font-size: 150%;
+  text-align: center;
+  font-family: 'Questrial', sans-serif, arial;
+  text-transform: uppercase;
+}
+
 .rates-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size: 800%;
