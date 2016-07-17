@@ -263,6 +263,48 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-align: center;
 }
 
+.rates-title{
+  font-family: 'Amatic SC', sans-serif, arial;
+  font-size: 800%;
+  color: #46bfbd;
+  letter-spacing: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 3%;
+}
+
+.rates-subtitle{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 200%;
+  color: #46bfbd;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.rates-subtitle2{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 130%;
+  color: #222222;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.rates-caption{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 100%;
+  color: #222222;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.rates-content{
+  font-family: 'Questrial', sans-serif, arial;
+  font-size: 100%;
+  color: #222222;
+  text-align: center;
+}
+
 .script-title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size: 800%;
