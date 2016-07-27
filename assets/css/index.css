@@ -7,7 +7,9 @@ input, textarea {
 }
 
 
-div, p, a, li, td{-webkit-text-size-adjust: none};
+div, p, a, li, td{
+  -webkit-text-size-adjust: none
+}
 
 .overallwrap{
   margin: 0;
