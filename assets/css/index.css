@@ -305,7 +305,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .script-caption{
   font-family: 'Assistant', sans-serif, arial;
-  font-size: 120%;
+  font-size: 100%;
   text-align: center;
   display: block;
   width: 550px;
@@ -316,7 +316,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .archive{
   font-family: 'Assistant', sans-serif, arial;
-  font-size: 120%;
+  font-size: 100%;
   text-align: center;
   color: #222222;
 }
