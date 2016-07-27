@@ -324,7 +324,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .script-post-title{
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 200%;
+  font-size: 250%;
   text-align: center;
   color: #46bfbd;
   text-transform: uppercase;
@@ -415,7 +415,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .script-comment-box{
   text-align: center;
-  max-width: 200%;
+  max-width: 100%;
 }
 .script-nav-links{
   font-size: 150%;
