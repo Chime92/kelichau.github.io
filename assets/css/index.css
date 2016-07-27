@@ -24,6 +24,22 @@ div, p, a, li, td{
   max-width: 100%;
 }
 
+.about-content{
+  font-size: 130%;
+  color: #222222;
+  font-family: 'Questrial', sans-serif, arial;
+  text-align: center;
+  display: block;
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo{
+  text-align: center;
+
+}
+
 
 .motion-container{
   margin: auto;
@@ -148,7 +164,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 
 
-.contact-title{
+.title{
   font-family: 'Amatic SC', sans-serif, arial;
   font-size: 900%;
   color: #46bfbd;
@@ -158,18 +174,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   margin-top: 3%;
 }
 
-.contact-subheader{
-  font-family: 'Amatic SC', sans-serif, arial;
-  min-width: 100%;
-  width: 100%;
-  font-size: 200%;
-  color: #46bfbd;
-  text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 8px;
-  margin-right: 1%;
-  font-weight: bold;
-}
 
 .subtitlelinks{
   font-family: 'Questrial', sans-serif, arial;
@@ -182,37 +186,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   width: 100%;
 }
 
-.contact-details{
-  font-family: 'Questrial', sans-serif, arial;
-  font-size: 130%;
-  color: #222222;
-  text-align: center;
-  text-transform: lowercase;
-  margin: auto;
-  min-width: 40%;
-  width: 40%;
-}
-
-.contact-social{
-  font-family: 'Questrial', sans-serif, arial;
-  font-size: 200%;
-  color: #222222;
-  text-align: center;
-  margin: auto;
-  min-width: 40%;
-  width: 40%;
-}
-
-.mailchimp{
- margin-left: 36.5%;
- min-width: 40%;
- width: 40%;
-}
-
-
- .contact-info-container{
-  margin-bottom: 5%;
- }
 
 .terms{
   font-family: 'Questrial', sans-serif, arial;
@@ -367,7 +340,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .script-content{
   font-family: 'Questrial', sans-serif, arial;
-  font-size: 120%;
+  font-size: 130%;
   text-align: center;
   color: #222222;
   display: block;
