@@ -290,7 +290,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .script-subtitle{
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 300%;
+  font-size: 350%;
   color: #46bfbd;
   text-align: center;
   text-transform: uppercase;
@@ -316,7 +316,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .archive{
   font-family: 'Assistant', sans-serif, arial;
-  font-size: 100%;
+  font-size: 120%;
   text-align: center;
   color: #222222;
 }
@@ -332,7 +332,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 .script-date{
   font-family: 'Assistant', sans-serif, arial;
-  font-size: 100%;
+  font-size: 120%;
   text-align: center;
   letter-spacing: 2px;
   color: #222222;
