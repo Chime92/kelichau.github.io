@@ -7,6 +7,8 @@ input, textarea {
 }
 
 
+div, p, a, li, td{-webkit-text-size-adjust: none};
+
 .overallwrap{
   margin: 0;
   padding: 0;
@@ -330,7 +332,6 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   font-size: 130%;
   color: #222222;
   text-align: center;
-  -webkit-text-size-adjust: none;
   }
 
 .script-title{
