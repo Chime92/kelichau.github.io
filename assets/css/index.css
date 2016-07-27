@@ -222,9 +222,9 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 
 .booking{
-  font-size: 90%;
+  font-size: 100%;
   font-family: 'Assistant', sans-serif, arial;
-  text-transform: uppercase;
+  text-transform: none;
   text-align: center;
 
 }
