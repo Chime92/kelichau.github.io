@@ -115,51 +115,51 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   margin: auto;
   min-width: 100%;  
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 800%;
+  font-size: 700%;
   color: #46bfbd;
   letter-spacing: 0px;
   text-align: center;
   margin-top: 3%;
-  text-transform: none;
+  text-transform: uppercase;
 }
 
 .capture-title{
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 800%;
+  font-size: 700%;
   color: #46bfbd;
   text-align: center;
   letter-spacing: 5px;
-  text-transform: none;
+  text-transform: uppercase;
   margin-top: 3%;
 }
 
 .motion-title{
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 800%;
+  font-size: 700%;
   color: #46bfbd;
   letter-spacing: 5px;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
   margin-top: 3%;
 }
 
 .terms-title{
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 800%;
+  font-size: 700%;
   color: #46bfbd;
   letter-spacing: 0px;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
   margin-top: 3%;
 } 
 
 .privacy-title{
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 800%;
+  font-size: 700%;
   color: #46bfbd;
   letter-spacing: 0px;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
   margin-top: 3%;
 }
 
@@ -171,7 +171,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   color: #46bfbd;
   letter-spacing: 0px;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
   margin-top: 3%;
 }
 
@@ -216,7 +216,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   color: #46bfbd;
   letter-spacing: 5px;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
   margin-top: 3%;
 }
 
