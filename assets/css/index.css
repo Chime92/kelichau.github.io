@@ -330,7 +330,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   font-size: 130%;
   color: #222222;
   text-align: center;
-  -webkit-text-size-adjust: auto;
+  -webkit-text-size-adjust: 100%;
   }
 
 .script-title{
