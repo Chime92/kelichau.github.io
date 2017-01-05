@@ -419,7 +419,7 @@ ul.blog-post.columns-2 li {
   color: white;
   border-radius: 5px;
   padding: 8px 15px 8px 15px;
-  margin-top: 25%;
+  margin-top: 5%;
   display: inline-block;
 }
 
@@ -441,7 +441,7 @@ ul.blog-post.columns-2 li {
   color: white;
   border-radius: 5px;
   padding: 8px 15px 8px 15px;
-  margin-top: 25%;
+  margin-top: 5%;
   display: inline-block;
 }
 
@@ -461,7 +461,7 @@ ul.blog-post.columns-2 li {
   color: white;
   border-radius: 5px;
   padding: 8px 15px 8px 15px;
-  margin-top: 25%;
+  margin-top: 5%;
   margin-left: 35%;
   display: inline-block;
 }
@@ -482,7 +482,7 @@ ul.blog-post.columns-2 li {
   color: white;
   border-radius: 5px;
   padding: 8px 15px 8px 15px;
-  margin-top: 25%;
+  margin-top: 5%;
   margin-left: 40%;
   display: inline-block;
 }
@@ -502,4 +502,20 @@ ul.blog-post.columns-2 li {
   margin-left: auto;
   margin-right: auto;
   letter-spacing: 0px;
+}
+
+.date-subtitle{
+  font-size: 140%;
+  color: #222222;
+  font-family: Assistant, sans-serif, arial;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.blog-entry-title{
+  font-size: 300%;
+  color: #46bfbd;
+  font-family: 'Poiret One', sans-serif, arial;
+  text-align: center;
+  text-transform: uppercase;
 }
