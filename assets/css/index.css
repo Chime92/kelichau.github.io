@@ -63,15 +63,6 @@ div, p, a, li, td{
   text-align: center;
 }
 
-.script-container{
-  margin: auto;
-  width: 100%;
-  font-family: 'Assistant', sans-serif, arial;
-  color: #222222;
-  min-width: 100%;
-  text-align: center;
-}
-
 .fixed-nav-bar {
   position: fixed;
   top: 0;
