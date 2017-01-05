@@ -1,0 +1,44 @@
+#images {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    margin-left: 35%;
+}
+#images img {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    left: -400px;
+}
+#images img:first-child {
+    left: 0;
+}
+#slider a {
+    text-decoration: none;
+    background: #222222;
+    border: 1px solid #C6E4F2;
+    padding: 2px 4px;
+    color: #ffffff;
+    text-align: center;
+   }
+
+#slider a:hover {
+    background: gray;
+}
+
+#images img {
+    z-index: 1;
+    opacity: 0;
+
+    transition: all linear 1s;
+    -o-transition: all linear 1s;
+    -moz-transition: all linear 1s;
+    -webkit-transition: all linear 1s;
+}
+#images img:target {
+    left: 0;
+    z-index: 9;
+    opacity: 1;
+}
