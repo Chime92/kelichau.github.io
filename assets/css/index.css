@@ -326,7 +326,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
 
 *, *:before, *:after { @include box-sizing(border-box) }
 
-.container {
+.script-container {
   margin: 2em 0;
   text-align: center;
 }
