@@ -519,3 +519,10 @@ ul.blog-post.columns-2 li {
   text-align: center;
   text-transform: uppercase;
 }
+
+.photo-caption{
+  font-size: 80%;
+  color: #222222;
+  font-family: Assistant, sans-serif, arial;
+  text-align: center;
+}
