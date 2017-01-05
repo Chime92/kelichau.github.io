@@ -63,18 +63,26 @@ div, p, a, li, td{
   text-align: center;
 }
 
+.script-container{
+  margin: auto;
+  width: 100%;
+  font-family: 'Assistant', sans-serif, arial;
+  color: #222222;
+  min-width: 100%;
+  text-align: center;
+}
 
 .fixed-nav-bar {
   position: fixed;
   top: 0;
-  left: 0;
+  right: 0;
   z-index: 9999;
   width: 100%;
   height: 55px;
   background-color: #222222;
   font-family: 'Poiret One', sans-serif, arial;  
   text-align: center;
-  font-size: 270%;
+  font-size: 250%;
   letter-spacing: 2px;
   min-width: 100%;
   text-transform: uppercase;
@@ -86,7 +94,7 @@ display:inline;
 
 .nav a{
 text-decoration:none;
-padding: 0 1%;
+padding: 0 0.5%;
 }
 
 a:link, a:visited{
@@ -135,68 +143,15 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-transform: uppercase;
 }
 
-.capture-title{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 700%;
-  color: #46bfbd;
-  text-align: center;
-  letter-spacing: 5px;
-  text-transform: uppercase;
-  margin-top: 3%;
-}
-
-.motion-title{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 700%;
-  color: #46bfbd;
-  letter-spacing: 5px;
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: 3%;
-}
-
-.terms-title{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 700%;
-  color: #46bfbd;
-  letter-spacing: 0px;
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: 3%;
-} 
-
-.privacy-title{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 700%;
-  color: #46bfbd;
-  letter-spacing: 0px;
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: 3%;
-}
-
-
-
 .title{
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 600%;
+  font-size: 500%;
   color: #46bfbd;
   letter-spacing: 0px;
   text-align: center;
   text-transform: uppercase;
   margin-top: 3%;
 }
-
-.contact-title{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 600%;
-  color: #46bfbd;
-  letter-spacing: 5px;
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: 3%;
-}
-
 
 .subtitlelinks{
   font-family: 'Assistant', sans-serif, arial;
@@ -365,4 +320,195 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 1px;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Open+Sans:300);
+
+*, *:before, *:after { @include box-sizing(border-box) }
+
+.container {
+  margin: 2em 0;
+  text-align: center;
+}
+
+ul.blog-post {
+	list-style: none;
+	font-size: 0px;
+	margin-left: -2.5%;
+}
+
+ul.blog-post li {
+	display: inline-block;
+  border-radius: 3px;
+	padding: 1.5em;
+  width: 400px;
+	margin: 0 0 2.5% 2.5%;
+	background: #fff;
+	border: 1px solid #eee;
+	font-size: 16px;
+	font-size: 1rem;
+	vertical-align: top;
+	box-shadow: 0 0 6px #eee;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+ul.blog-post li img {
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px;
+}
+
+ul.blog-post li h3 {
+	margin: 0.6em 0 0.6em;
+  text-align: left!important;
+  font-family: Assistant, sans-serif, arial;
+  color: #222222;
+  font-size: 2em;
+}
+
+ul.blog-post li p {
+  margin: 0.6em 0 1.3em;
+	font-size: 1.5em;
+	line-height: 1.5em;
+	color: #8c8c8c;
+  text-align: left!important;
+  font-family: Assistant, sans-serif, arial;
+  font-weight: 300;
+}
+
+.button {
+  text-align: center;
+  width: 20%;
+  border: none;
+  background: #46bfbd;
+  font-family: Assistant, sans-serif, arial;
+  font-weight: 300;
+  font-size: 1.3em;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 15px 8px 15px;
+}
+
+.button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+ul.blog-post.columns-2 li {
+	width: 37%;
+}
+ 
+@media (max-width: 480px) {
+	ul.grid-nav li {
+		display: block;
+		margin: 0 0 5px;
+	}
+	ul.grid-nav li a {
+		display: block;
+	}
+	ul.blog-post {
+		margin-left: 0;
+	}
+	ul.blog-post li {
+		width: 100% !important;
+		margin: 0 0 20px;
+	}
+}
+
+.button-archive {
+  text-align: center;
+  width: 10%;
+  border: none;
+  background: #46bfbd;
+  font-family: Assistant, sans-serif, arial;
+  font-weight: 300;
+  font-size: 1.3em;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 15px 8px 15px;
+  margin-top: 25%;
+  display: inline-block;
+}
+
+
+.button-archive:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+
+.button-older {
+  text-align: center;
+  width: 10%;
+  border: none;
+  background: #46bfbd;
+  font-family: Assistant, sans-serif, arial;
+  font-weight: 300;
+  font-size: 1.3em;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 15px 8px 15px;
+  margin-top: 25%;
+  display: inline-block;
+}
+
+.button-older:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.button-newer {
+  text-align: center;
+  width: 10%;
+  border: none;
+  background: #46bfbd;
+  font-family: Assistant, sans-serif, arial;
+  font-weight: 300;
+  font-size: 1.3em;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 15px 8px 15px;
+  margin-top: 25%;
+  margin-left: 35%;
+  display: inline-block;
+}
+
+.button-newer:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.button-newer-2 {
+  text-align: center;
+  width: 10%;
+  border: none;
+  background: #46bfbd;
+  font-family: Assistant, sans-serif, arial;
+  font-weight: 300;
+  font-size: 1.3em;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 15px 8px 15px;
+  margin-top: 25%;
+  margin-left: 40%;
+  display: inline-block;
+}
+
+.button-newer-2:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.blog-content{
+  font-size: 120%;
+  color: #222222;
+  font-family: 'Assistant', sans-serif, arial;
+  text-align: center;
+  display: block;
+  width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 0px;
 }
