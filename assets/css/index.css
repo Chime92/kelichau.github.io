@@ -30,7 +30,7 @@ div, p, a, li, td{
   font-family: 'Assistant', sans-serif, arial;
   text-align: center;
   display: block;
-  width: 30em;
+  width: 36em;
   margin-left: auto;
   margin-right: auto;
   letter-spacing: 0px;
@@ -42,7 +42,7 @@ div, p, a, li, td{
   font-family: 'Assistant', sans-serif, arial;
   text-align: center;
   display: block;
-  width: 550px;
+  width: 40em;
   margin-left: auto;
   margin-right: auto;
   letter-spacing: 0px;
@@ -498,7 +498,7 @@ ul.blog-post.columns-2 li {
   font-family: 'Assistant', sans-serif, arial;
   text-align: center;
   display: block;
-  width: 45%;
+  width: 36em;
   margin-left: auto;
   margin-right: auto;
   letter-spacing: 0px;
