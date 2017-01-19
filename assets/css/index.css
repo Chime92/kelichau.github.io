@@ -529,4 +529,6 @@ ul.blog-post.columns-2 li {
 
 .fb-comments-wrap{
   width: 100%;
+  margin-left: 40%;
+  text-align: center;
 }
