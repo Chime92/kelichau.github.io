@@ -529,10 +529,14 @@ ul.blog-post.columns-2 li {
 
 .fb-like{
   text-align: center;
-  margin-left: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .fb-comments{
   text-align: center;
-  margin-left: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block
 }
