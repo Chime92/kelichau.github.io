@@ -527,16 +527,9 @@ ul.blog-post.columns-2 li {
   text-align: center;
 }
 
-.fb-like{
+.fb-reactions{
   text-align: center;
-  margin-left: auto;
+  margin-left: 50%;
   margin-right: auto;
   display: block;
-}
-
-.fb-comments{
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  display: block
 }
