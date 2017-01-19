@@ -527,8 +527,7 @@ ul.blog-post.columns-2 li {
   text-align: center;
 }
 
-.fb-comments{
+.fb-comments-wrap{
   text-align: center;
   margin-right: 50%;
-  margin-left: 50%;
 }
