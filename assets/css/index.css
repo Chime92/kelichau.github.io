@@ -83,6 +83,15 @@ div, p, a, li, td{
   border-bottom: 1px solid #d3d3d3;
  }
  
+.nav li{
+display:inline;
+}
+
+.nav a{
+text-decoration:none;
+padding: 0 0.5%;
+}
+
  
 a:link, a:visited{
 color: #ffffff;
