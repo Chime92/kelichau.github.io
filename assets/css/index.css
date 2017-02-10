@@ -75,6 +75,7 @@ div, p, a, li, td{
   text-align: center;
   font-size: 200%;
   letter-spacing: 2px;
+  word-spacing: 60px;
   min-width: 100%;
   text-transform: uppercase;
   color: #46bfbd;
@@ -82,33 +83,6 @@ div, p, a, li, td{
   border-bottom: 1px solid #d3d3d3;
  }
  
- .nav{
-  float: left;
-  margin-left: 10%;
-  padding: 0px;
-  color: #222222;
- }
- 
- .nav div{
-  display: none;
- }
- 
- .nav:hover{
-  background-color: #none;
-  color: #222222;
- }
- 
- .nav:hover div{
-  display: block;
-  position: fixed;
-  background-color: #ffffff;
-  width: 5%;
-  top: 8%;
- }
-
-.nav div p:hover{
-  background-color: #ffffff;
-}
  
 a:link, a:visited{
 color: #ffffff;
