@@ -74,7 +74,7 @@ div, p, a, li, td{
   font-family: 'Poiret One', sans-serif, arial;  
   text-align: center;
   font-size: 200%;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   min-width: 100%;
   text-transform: uppercase;
   color: #46bfbd;
@@ -88,7 +88,7 @@ display:inline;
 
 .nav a{
 text-decoration:none;
-padding: 0 0.5%;
+padding: 0 5px 0 0;
 }
 
  
