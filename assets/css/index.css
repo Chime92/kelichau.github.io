@@ -75,13 +75,16 @@ div, p, a, li, td{
   text-align: center;
   font-size: 200%;
   letter-spacing: 3px;
-  word-spacing: 10px;
   min-width: 100%;
   text-transform: uppercase;
   color: #46bfbd;
   padding-top: 10px;
   border-bottom: 1px solid #d3d3d3;
  }
+ 
+.nav{
+  word-spacing: 10px;
+}
  
 .nav li{
 display:inline;
