@@ -319,6 +319,7 @@ A.links4:active{text-decoration:none;color:#46bfbd;}
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 1px;
+  background-color: #ffffff;
 }
 
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Open+Sans:300);
