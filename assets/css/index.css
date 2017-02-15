@@ -12,7 +12,7 @@ div, p, a, li, td{
 }
 
 @media screen and (max-width: 767px) {
-main { padding-top: 30px !important; }
+body { padding-top: 30px !important; }
 }
 
 .body{
