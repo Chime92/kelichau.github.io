@@ -11,10 +11,6 @@ div, p, a, li, td{
   -webkit-text-size-adjust: none
 }
 
-@media screen and (max-width: 767px) {
-body { padding-top: 30px !important; }
-}
-
 .body{
   margin: 0;
   padding: 0;
