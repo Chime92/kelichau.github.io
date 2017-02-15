@@ -21,7 +21,6 @@ div, p, a, li, td{
   min-width: 100%;
   background-color: white;
   max-width: 100%;
-  overflow: hidden to #footer;
   height: 1000px;
 }
 
