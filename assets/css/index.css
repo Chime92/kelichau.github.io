@@ -527,6 +527,9 @@ ul.blog-post.columns-2 li {
   font-family: 'Poiret One', sans-serif, arial;
   text-align: center;
   text-transform: uppercase;
+  max-width: 50%;
+  min-width: 50%;
+  margin-left: 25%;
 }
 
 .photo-caption{
