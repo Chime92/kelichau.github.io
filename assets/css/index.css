@@ -507,6 +507,11 @@ ul.blog-post.columns-2 li {
   cursor: pointer;
 }
 
+.button-align{
+  margin-left: 42%;
+}
+
+
 .blog-content{
   font-size: 120%;
   color: #222222;
