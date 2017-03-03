@@ -425,7 +425,7 @@ ul.blog-post.columns-2 li {
 
 .button-archive {
   text-align: center;
-  width: 10%;
+  width: 15%;
   border: none;
   background: #46bfbd;
   font-family: Assistant, sans-serif, arial;
@@ -447,7 +447,7 @@ ul.blog-post.columns-2 li {
 
 .button-older {
   text-align: center;
-  width: 10%;
+  width: 15%;
   border: none;
   background: #46bfbd;
   font-family: Assistant, sans-serif, arial;
@@ -467,7 +467,7 @@ ul.blog-post.columns-2 li {
 
 .button-newer {
   text-align: center;
-  width: 10%;
+  width: 15%;
   border: none;
   background: #46bfbd;
   font-family: Assistant, sans-serif, arial;
@@ -477,7 +477,6 @@ ul.blog-post.columns-2 li {
   border-radius: 5px;
   padding: 8px 15px 8px 15px;
   margin-top: 5%;
-  margin-left: 35%;
   display: inline-block;
 }
 
@@ -488,7 +487,7 @@ ul.blog-post.columns-2 li {
 
 .button-newer-2 {
   text-align: center;
-  width: 10%;
+  width: 15%;
   border: none;
   background: #46bfbd;
   font-family: Assistant, sans-serif, arial;
@@ -508,9 +507,12 @@ ul.blog-post.columns-2 li {
 }
 
 .button-align{
-  margin-left: 42%;
+  margin-left: 35%;
 }
 
+.button-align-without{
+  margin-left: 41%;
+}
 
 .blog-content{
   font-size: 120%;
