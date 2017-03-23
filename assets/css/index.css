@@ -374,6 +374,14 @@ ul.blog-post li h3 {
   font-size: 2em;
 }
 
+ul.blog-post li h4 {
+	margin: 0.6em 0 0.6em;
+  text-align: left!important;
+  font-family: Assistant, sans-serif, arial;
+  color: #222222;
+  font-size: 2em;
+}
+
 ul.blog-post li p {
   margin: 0.6em 0 1.3em;
 	font-size: 1.5em;
