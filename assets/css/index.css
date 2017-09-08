@@ -1,356 +1,357 @@
-img {
-  max-width: 100%
+body {
+    font-family: 'Poiret One', sans-serif, arial;
+    transition: background-color .5s;
+	text-transform: uppercase;
+	font-weight: bolder;
+	color: #0FDDF2;
 }
 
-input, textarea {
-  max-width:100%
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+	font-family: 'Poiret One', sans-serif, arial;
 }
 
-
-div, p, a, li, td{
-  -webkit-text-size-adjust: none
-}
-
-.overallwrap{
-  margin: 0;
-  padding: 0;
-  font-family: 'Assistant', sans-serif, 'arial';
-  color: #222222;
-  font-size: 100%;
-  /*height: 2000px;*/
-  position: relative;
-  min-width: 100%;
-  background-color: white;
-  max-width: 100%;
-}
-
-
-.about-content{
-  font-size: 120%;
-  color: #222222;
-  font-family: 'Assistant', sans-serif, arial;
-  text-align: center;
-  display: block;
-  width: 42em;
-  margin-left: auto;
-  margin-right: auto;
-  letter-spacing: 0px;
-}
-
-.contact-content{
-  font-size: 120%;
-  color: #222222;
-  font-family: 'Assistant', sans-serif, arial;
-  text-align: center;
-  display: block;
-  width: 40em;
-  margin-left: auto;
-  margin-right: auto;
-  letter-spacing: 0px;
-}
-
-.photo{
-  text-align: center;
-}
-
-
-.motion-container{
-  margin: auto;
-  width: 100%;
-  font-family: 'Assistant', sans-serif, arial;
-  color: #222222;
-  min-width: 100%;
-  text-align: center;
-}
-
-.fixed-nav-bar {
-  position: fixed;
-  top: 0;
-  right: 0;
-  z-index: 9999;
-  width: 100%;
-  height: 65px;
-  background-color: #ffffff;
-  font-family: 'Poiret One', sans-serif, arial;  
-  text-align: center;
-  font-size: 200%;
-  letter-spacing: 2px;
-  min-width: 100%;
-  text-transform: uppercase;
-  color: #46bfbd;
-  padding-top: 10px;
-  border-bottom: 1px solid #d3d3d3;
-  
-  /* Add a black background color to the top navigation */
-.topnav {
-    background-color: #333;
-    overflow: hidden;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
+.sidenav a {
+    padding: 8px 8px 8px 32px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 180%;
+    color: #0FDDF2;
+    display: block;
+    transition: 0.3s;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-    background-color: #ddd;
-    color: black;
+.sidenav a:hover {
+    color: #ffffff;
 }
 
-/* Hide the link that should open and close the topnav on small screens */
-.topnav .icon {
-    display: none;
-}
- }
- 
-.nav li{
-display:inline;
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50%;
 }
 
-.nav a{
-text-decoration:none;
-padding: 0 5px 0 0;
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+	font-family: 'Poiret One', sans-serif, arial;
+	color: #000;
 }
 
- 
-a:link, a:visited{
-color: #ffffff;
-background-color:auto;
-text-decoration: none;
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
 
-a:hover{
-color:#46bfbd;
+.navigation-link{
+	font-family: 'Poiret One', sans-serif, arial;
+	color: #0FDDF2;
+	font-size: 200%;
+	text-transform: uppercase;
+	font-weight: bolder;
 }
 
-a:active{
-color:#222222;
+body, html {
+    height: 100%;
+    margin: 0;
 }
 
+.index-background {
+    /* The image used */
+    background-image: url("https://farm5.staticflickr.com/4413/36668604940_4d766fcfa5_k.jpg");
 
-A.links2 {color:#222222;}
-A.links2:link {text-decoration: none; color: #222222;}
-A.links2:visited {text-decoration: none; color: #222222;}
-A.links2:hover {text-decoration: none; color: #46bfbd;}
-A.links2:active {text-decoration: none; color: #222222;}
+    /* Full height */
+    height: 100%; 
 
-A.links3 {color:#222222;}
-A.links3:link {text-decoration: underline; color: #222222;}
-A.links3:visited {text-decoration: none; color: #222222;}
-A.links3:hover {text-decoration: none; color: #46bfbd;}
-A.links3:active {text-decoration: none; color: #222222;}
-
-A.links4 {color:#46bfbd;}
-A.links4:link{text-decoration: none; color:#46bfbd;}
-A.links4:visited{text-decoration:none; color:#46bfbd;}
-A.links4:hover{text-decoration:none; color: #46bfbd;}
-A.links4:active{text-decoration:none;color:#46bfbd;}
-
-A.links5 {color:#222222;}
-A.links5:link{text-decoration: none; color: #222222;}
-A.links5:visited{text-decoration:none; color:#222222;}
-A.links5:hover{text-decoration:none; color:#222222;}
-A.links5:active{text-decoration:none; color:#222222;}
-
-
-.index-header{
-  margin: auto;
-  min-width: 100%;  
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 700%;
-  color: #46bfbd;
-  letter-spacing: 0px;
-  text-align: center;
-  margin-top: 3%;
-  text-transform: uppercase;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .title{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 500%;
-  color: #46bfbd;
-  letter-spacing: 0px;
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: 3%;
+	font-size: 500%;
+	color: #0FDDF2;
+	text-align: center;
+	font-family: 'Poiret One', sans-serif, arial;
+	text-transform: uppercase;
+	font-weight: none;
 }
 
-.subtitlelinks{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 90%;
-  color: #222222;
-  text-align: center;
-  margin-right: 1%;
-  text-transform: uppercase;
-  min-width: 100%;
-  width: 100%;
+.about-content{
+	font-family: 'Raleway', sans-serif, arial;
+	font-size: 110%;
+	text-transform: none;
+	text-align: center;
+	width: 50%;
+	margin-left: 25%;
+	color: #000000;
+	font-weight: none;
 }
 
+.about-photo{
+	text-align: center;
+}
 
 .terms{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 120%;
-  color: #222222;
+	font-family: 'Playfair Display', sans-serif, arial;
+	font-size: 100%;
+	color: #000000;
+	width: 80%;
+	text-transform: none;
+	text-align: center;
+	margin-left: 10%;
+}
+
+a.links {color:#ffffff;}
+a.links:link {text-decoration: none; color: #ffffff;}
+a.links:visited {text-decoration: none; color: #ffffff;}
+a.links:hover {text-decoration: none; color: #0FDDF2;}
+a.links:active {text-decoration: none; color: #ffffff;}
+
+a.links2 {color: #000000;}
+a.links2:link {text-decoration: none; color: #000000;}
+a.links2:visited {text-decoration: none; color: #000000;}
+a.links2:hover {text-decoration: none; color: #0FDDF2;}
+a.links2:active {text-decoration: none; color: #000000;}
+
+a.links3 {color:#0FDDF2;}
+a.links3:link {text-decoration: none; color: #0FDDF2;}
+a.links3:visited {text-decoration: none; color: #0FDDF2;}
+a.links3:hover {text-decoration: none; color: #ffffff;}
+a.links3:active {text-decoration: none; color: #0FDDF2;}
+
+
+h3 {
+  display: inline-block;
+  padding: 10px;
+  background: #B9121B;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+.carousel-fade .carousel-inner .item {
+    opacity: 0;
+    transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+    opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+.carousel-fade .carousel-control {
+    z-index: 2;
+}
+@media all and (transform-3d),
+(-webkit-transform-3d) {
+    .carousel-fade .carousel-inner > .item.next,
+    .carousel-fade .carousel-inner > .item.active.right {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.prev,
+    .carousel-fade .carousel-inner > .item.active.left {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.next.left,
+    .carousel-fade .carousel-inner > .item.prev.right,
+    .carousel-fade .carousel-inner > .item.active {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+.item:nth-child(1) {
+    background: url(https://ununsplash.imgix.net/photo-1417021423914-070979c8eb34?q=75&fm=jpg&s=55746bd56e02a131b1e48c12196ea866) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.item:nth-child(2) {
+    background: url(https://ununsplash.imgix.net/reserve/oY3ayprWQlewtG7N4OXl_DSC_5225-2.jpg?q=75&fm=jpg&s=85ab821f3fa535036a68155aab571bad) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.item:nth-child(3) {
+    background: url(https://unsplash.imgix.net/photo-1414073875831-b47709631146?q=75&fm=jpg&s=731b6d5150eea8bafa63ae8194e72ebd) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.carousel {
+    z-index: -99;
+}
+.carousel .item {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+.title {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  text-shadow: 3px 3px #000;
+  color: #0FDDF2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  margin: 0;
+  background: #000; 
+}
+video { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+ background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
+  background-size: cover;
+  transition: 1s opacity;
+}
+.stopfade { 
+   opacity: .5;
+}
+
+#polina { 
+  font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
+  font-weight:100; 
+  background: rgba(0,0,0,0.3);
+  color: white;
+  padding: 2rem;
+  width: 33%;
+  margin:2rem;
+  float: right;
+  font-size: 1.2rem;
+}
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin-top: 0;
+  letter-spacing: .3rem;
+}
+#polina button { 
+  display: block;
   width: 80%;
-  min-width: 80%;
-  margin: auto;
-  word-spacing: 2px;
-  text-align: left;
+  padding: .4rem;
+  border: none; 
+  margin: 1rem auto; 
+  font-size: 1.3rem;
+  background: rgba(255,255,255,0.23);
+  color: #fff;
+  border-radius: 3px; 
+  cursor: pointer;
+  transition: .3s background;
+}
+#polina button:hover { 
+   background: rgba(0,0,0,0.5);
 }
 
-.terms-subtitle{
-  font-family: 'Assistant', sans-serif, arial;
-  color: #222222;
-  font-size: 90%;
-  word-spacing: 3px;
-  text-transform: uppercase;
-  text-decoration: underline;
+a {
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  background:rgba(0,0,0,0.5);
+  padding: .5rem;
+  transition: .6s background; 
+}
+a:hover{
+  background:rgba(0,0,0,0.9);
+}
+@media screen and (max-width: 500px) { 
+  div{width:70%;} 
+}
+@media screen and (max-device-width: 800px) {
+  html { background: url(https://thenewcode.com/assets/images/polina.jpg) #000 no-repeat center center fixed; }
+  #bgvid { display: none; }
 }
 
 
 
-.core-values-title{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 500%;
-  color: #46bfbd;
-  letter-spacing: 5px;
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: 3%;
-}
 
 
-.booking{
-  font-size: 120%;
-  font-family: 'Assistant', sans-serif, arial;
-  text-transform: none;
-  text-align: center;
-
-}
-
-.subtitle3{
-  font-size: 150%;
-  text-align: center;
-  font-family: 'Assistant', sans-serif, arial;
-  text-transform: uppercase;
-}
-
-.subtitle{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 220%;
-  color: #46bfbd;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.subtitle2{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 160%;
-  color: #222222;
-  text-align: center;
-  text-transform: uppercase;
-  text-decoration: underline;
-}
-
-.caption{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 120%;
-  color: #222222;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.content{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 120%;
-  color: #222222;
-  text-align: center;
-  }
 
 
-.archive{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 100%;
-  text-align: center;
-  color: #222222;
-}
 
-.list-alignment{
-  text-align: left;
-}
 
-.list-alignment2{
-  text-align: center;
-}
 
-.post-names{
-  font-size: 150%;
-}
 
-.privacy{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 120%;
-  color: #222222;
-  width: 80%;
-  min-width: 80%;
-  margin: auto;
-  word-spacing: 2px;
-  text-align: left;
-}
-
-.privacy-subtitle{
-  font-family: 'Assistant', sans-serif, arial;
-  color: #222222;
-  font-size: 90%;
-  word-spacing: 3px;
-  text-transform: uppercase;
-  text-decoration: underline;
-}
-
-.livecaptureappreciate{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 160%;
-  color: #46bfbd;
-  text-align: center;
-  text-transform: uppercase;
-  word-spacing: 5px;
-  margin-right: 1%;
-  min-width: 10%;
-}
-
-.keli-photography{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 200%;
-  color: #222222;
-  text-align: center;
-  text-transform: uppercase;
-  word-spacing: 5px;
-  margin-right: 1%;
-  min-width: 10%;
-}
-
-.footercontent{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 130%;
-  color: #222222;
-  text-transform: uppercase;
-  text-align: center;
-  letter-spacing: 1px;
-  background-color: #ffffff;
-}
-
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Open+Sans:300);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro|Open+Sans:300);
 
 *, *:before, *:after { @include box-sizing(border-box) }
 
-.script-container {
+.title{
+	font-family: Poiret One, sans-serif;
+	font-size: 55px;
+	font-style: bold;
+	text-align: center;
+}
+
+nav{ 
+	font-family: Poiret One, sans-serif;
+	text-align: center;
+	word-spacing: 30px;
+}
+
+nav a{
+	text-decoration: none;
+	color: #CAD3E0;
+}
+
+
+.container {
   margin: 2em 0;
   text-align: center;
 }
@@ -387,26 +388,18 @@ ul.blog-post li img {
 ul.blog-post li h3 {
 	margin: 0.6em 0 0.6em;
   text-align: left!important;
-  font-family: Assistant, sans-serif, arial;
-  color: #222222;
-  font-size: 2em;
-}
-
-ul.blog-post li h4 {
-	margin: 0.6em 0 0.6em;
-  text-align: left!important;
-  font-family: Assistant, sans-serif, arial;
-  color: #222222;
-  font-size: 2em;
+  font-family: Playfair Display, sans-serif;
+  color: #333;
+  font-size: 1.1em;
 }
 
 ul.blog-post li p {
   margin: 0.6em 0 1.3em;
-	font-size: 1.5em;
+	font-size: .9em;
 	line-height: 1.5em;
 	color: #8c8c8c;
   text-align: left!important;
-  font-family: Assistant, sans-serif, arial;
+  font-family: Open Sans, sans-serif;
   font-weight: 300;
 }
 
@@ -414,13 +407,13 @@ ul.blog-post li p {
   text-align: center;
   width: 20%;
   border: none;
-  background: #46bfbd;
-  font-family: Assistant, sans-serif, arial;
+  background: #36B3A8;
+  font-family: Poiret One, sans-serif;
   font-weight: 300;
-  font-size: 1em;
+  font-size: 0.7em;
   color: white;
   border-radius: 5px;
-  padding: 8px 10px 8px 10px;
+  padding: 8px 15px 8px 15px;
 }
 
 .button:hover {
@@ -449,131 +442,7 @@ ul.blog-post.columns-2 li {
 	}
 }
 
-.button-archive {
-  text-align: center;
-  width: 15%;
-  border: none;
-  background: #46bfbd;
-  font-family: Assistant, sans-serif, arial;
-  font-weight: 300;
-  font-size: 1.3em;
-  color: white;
-  border-radius: 5px;
-  padding: 8px 15px 8px 15px;
-  margin-top: 5%;
-  display: inline-block;
-}
-
-
-.button-archive:hover {
-  opacity: 0.9;
-  cursor: pointer;
-}
-
-
-.button-older {
-  text-align: center;
-  width: 15%;
-  border: none;
-  background: #46bfbd;
-  font-family: Assistant, sans-serif, arial;
-  font-weight: 300;
-  font-size: 1.3em;
-  color: white;
-  border-radius: 5px;
-  padding: 8px 15px 8px 15px;
-  margin-top: 5%;
-  display: inline-block;
-}
-
-.button-older:hover {
-  opacity: 0.9;
-  cursor: pointer;
-}
-
-.button-newer {
-  text-align: center;
-  width: 15%;
-  border: none;
-  background: #46bfbd;
-  font-family: Assistant, sans-serif, arial;
-  font-weight: 300;
-  font-size: 1.3em;
-  color: white;
-  border-radius: 5px;
-  padding: 8px 15px 8px 15px;
-  margin-top: 5%;
-  display: inline-block;
-}
-
-.button-newer:hover {
-  opacity: 0.9;
-  cursor: pointer;
-}
-
-.button-newer-2 {
-  text-align: center;
-  width: 15%;
-  border: none;
-  background: #46bfbd;
-  font-family: Assistant, sans-serif, arial;
-  font-weight: 300;
-  font-size: 1.3em;
-  color: white;
-  border-radius: 5px;
-  padding: 8px 15px 8px 15px;
-  margin-top: 5%;
-  margin-left: 40%;
-  display: inline-block;
-}
-
-.button-newer-2:hover {
-  opacity: 0.9;
-  cursor: pointer;
-}
-
-.button-align{
-  margin-left: 35%;
-}
-
-.button-align-without{
-  margin-left: 41%;
-}
-
-.blog-content{
-  font-size: 120%;
-  color: #222222;
-  font-family: 'Assistant', sans-serif, arial;
-  text-align: center;
-  display: block;
-  width: 42em;
-  margin-left: auto;
-  margin-right: auto;
-  letter-spacing: 0px;
-}
-
-.date-subtitle{
-  font-size: 140%;
-  color: #222222;
-  font-family: Assistant, sans-serif, arial;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.blog-entry-title{
-  font-size: 300%;
-  color: #46bfbd;
-  font-family: 'Poiret One', sans-serif, arial;
-  text-align: center;
-  text-transform: uppercase;
-  max-width: 50%;
-  min-width: 50%;
-  margin-left: 25%;
-}
-
-.photo-caption{
-  font-size: 80%;
-  color: #222222;
-  font-family: Assistant, sans-serif, arial;
-  text-align: center;
+footer{
+	font-family: Poiret One, sans-serif;
+	text-align: center;
 }
