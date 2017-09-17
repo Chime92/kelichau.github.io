@@ -25,6 +25,20 @@ div, p, a, li, td{
   text-align: center;
 }
 
+.terms-of-use{
+  padding: 5px 5px 5px 5px;
+  font-family: 'Assistant', sans-serif, 'arial';
+  color: #000;
+  font-size: 150%;
+  /*height: 2000px;*/
+  position: relative;
+  min-width: 100%;
+  background-color: white;
+  max-width: 100%;
+  margin-bottom: 25%;
+  text-align: center;
+}
+
 .title{
   font-family: 'Poiret One', sans-serif, arial;
   font-size: 600%;
