@@ -12,7 +12,7 @@ div, p, a, li, td{
 }
 
 .privacy-policy{
-  padding: 5px 5px 5px 5px;
+  padding: 10px 10px 10px 10px;
   font-family: 'Assistant', sans-serif, 'arial';
   color: #000;
   font-size: 150%;
@@ -21,18 +21,18 @@ div, p, a, li, td{
   min-width: 100%;
   background-color: white;
   max-width: 100%;
-  margin-top: 10%;
-  margin-bottom: 20%;
+  margin-bottom: 25%;
   text-align: center;
 }
 
 .title{
   font-family: 'Poiret One', sans-serif, arial;
-  font-size: 400%;
+  font-size: 500%;
   color: #46bfbd;
   letter-spacing: 0px;
   text-align: center;
   text-transform: uppercase;
+  margin-top: 5%;
 }
   
 a:link, a:visited{
