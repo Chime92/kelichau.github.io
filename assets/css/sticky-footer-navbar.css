@@ -93,7 +93,7 @@ padding: 0 5px 0 0;
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
-	font-family: Assistant, sans-serif, arial;
+	font-family: 'Poiret One', sans-serif, arial;
 	text-transform: uppercase;
 }
 
@@ -101,8 +101,8 @@ padding: 0 5px 0 0;
 .sidenav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
-    font-size: 250%;
-    color: #818181;
+    font-size: 300%;
+    color: #fff;
     display: block;
     transition: 0.3s
 }
