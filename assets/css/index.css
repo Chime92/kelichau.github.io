@@ -39,6 +39,41 @@ div, p, a, li, td{
   text-align: center;
 }
 
+.contact{
+  padding: 5px 5px 5px 5px;
+  font-family: 'IM Fell Great Primer', sans-serif, 'arial';
+  color: #000;
+  font-size: 150%;
+  /*height: 2000px;*/
+  position: relative;
+  min-width: 100%;
+  background-color: white;
+  max-width: 100%;
+  margin-bottom: 25%;
+  text-align: center;
+}
+
+.services{
+  padding: 5px 5px 5px 5px;
+  font-family: 'IM Fell Great Primer', sans-serif, 'arial';
+  color: #000;
+  font-size: 150%;
+  /*height: 2000px;*/
+  position: relative;
+  min-width: 100%;
+  background-color: white;
+  max-width: 100%;
+  margin-bottom: 25%;
+  text-align: center;
+}
+
+.subtitle{
+font-family: 'IM Fell Great Primer', sans-serif, arial;
+color: #28CFFC;
+font-size: 120%;
+text-transform: uppercase;
+}
+
 .title{
   font-family: 'Poiret One', sans-serif, arial;
   font-size: 600%;
