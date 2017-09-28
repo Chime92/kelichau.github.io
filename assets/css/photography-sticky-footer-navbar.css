@@ -24,7 +24,7 @@ body {
   letter-spacing: 2px;
   min-width: 100%;
   text-transform: uppercase;
-  color: #46bfbd;
+  color: #729501;
   padding-top: 10px;
   border-bottom: 1px solid #d3d3d3;
   
@@ -109,7 +109,7 @@ padding: 0 5px 0 0;
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover, .offcanvas a:focus{
-    color: #46bfbd;
+    color: #729501;
 }
 
 /* Position and style the close button (top right corner) */

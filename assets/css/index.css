@@ -15,8 +15,7 @@ div, p, a, li, td{
   margin: 0;
   padding: 0;
   font-family: 'Assistant', sans-serif, 'arial';
-  color: #222222;
-  font-size: 100%;
+  color: #000;
   /*height: 2000px;*/
   position: relative;
   min-width: 100%;
@@ -26,13 +25,13 @@ div, p, a, li, td{
 
 
 .about{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 150%;
-  color: #222222;
+  font-family: 'alike', sans-serif, arial;
+  font-size: 170%;
+  color: #000;
   width: 80%;
   min-width: 80%;
   margin: auto;
-  word-spacing: 2px;
+  word-spacing: 0px;
   text-align: center;
 }
 
@@ -40,7 +39,7 @@ div, p, a, li, td{
 .contact-content{
   font-family: 'Assistant', sans-serif, arial;
   font-size: 150%;
-  color: #222222;
+  color: #000;
   width: 80%;
   min-width: 80%;
   margin: auto;
@@ -57,7 +56,7 @@ div, p, a, li, td{
   margin: auto;
   width: 100%;
   font-family: 'Assistant', sans-serif, arial;
-  color: #222222;
+  color: #000;
   min-width: 100%;
   text-align: center;
 }
@@ -72,65 +71,65 @@ text-decoration: none;
 }
 
 a:hover{
-color:#46bfbd;
+color:#729501;
 }
 
 a:active{
-color:#222222;
+color:#000;
 }
 
 
-A.links2 {color:#222222;}
-A.links2:link {text-decoration: none; color: #222222;}
-A.links2:visited {text-decoration: none; color: #222222;}
-A.links2:hover {text-decoration: none; color: #46bfbd;}
-A.links2:active {text-decoration: none; color: #222222;}
+A.links2 {color:#000;}
+A.links2:link {text-decoration: none; color: #000;}
+A.links2:visited {text-decoration: none; color: #000;}
+A.links2:hover {text-decoration: none; color: #729501;}
+A.links2:active {text-decoration: none; color: #000;}
 
-A.links3 {color:#222222;}
-A.links3:link {text-decoration: underline; color: #222222;}
-A.links3:visited {text-decoration: none; color: #222222;}
-A.links3:hover {text-decoration: none; color: #46bfbd;}
-A.links3:active {text-decoration: none; color: #222222;}
+A.links3 {color:#000;}
+A.links3:link {text-decoration: underline; color: #000;}
+A.links3:visited {text-decoration: none; color: #000;}
+A.links3:hover {text-decoration: none; color: #729501;}
+A.links3:active {text-decoration: none; color: #000;}
 
-A.links4 {color:#46bfbd;}
-A.links4:link{text-decoration: none; color:#46bfbd;}
-A.links4:visited{text-decoration:none; color:#46bfbd;}
-A.links4:hover{text-decoration:none; color: #46bfbd;}
-A.links4:active{text-decoration:none;color:#46bfbd;}
+A.links4 {color:#729501;}
+A.links4:link{text-decoration: none; color:#729501;}
+A.links4:visited{text-decoration:none; color:#729501;}
+A.links4:hover{text-decoration:none; color: #729501;}
+A.links4:active{text-decoration:none;color:#729501;}
 
-A.links5 {color:#222222;}
-A.links5:link{text-decoration: none; color: #222222;}
-A.links5:visited{text-decoration:none; color:#222222;}
-A.links5:hover{text-decoration:none; color:#222222;}
-A.links5:active{text-decoration:none; color:#222222;}
+A.links5 {color:#000;}
+A.links5:link{text-decoration: none; color: #000;}
+A.links5:visited{text-decoration:none; color:#000;}
+A.links5:hover{text-decoration:none; color:#000;}
+A.links5:active{text-decoration:none; color:#000;}
 
 
 .index-header{
   margin: auto;
   min-width: 100%;  
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 600%;
-  color: #46bfbd;
+  font-family: 'Cookie', sans-serif, arial;
+  font-size: 700%;
+  color: #729501;
   letter-spacing: 0px;
   text-align: center;
   margin-top: 3%;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .title{
-  font-family: 'Poiret One', sans-serif, arial;
-  font-size: 600%;
-  color: #46bfbd;
+  font-family: 'Cookie', sans-serif, arial;
+  font-size: 700%;
+  color: #729501;
   letter-spacing: 0px;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: none;
   margin-top: 3%;
 }
 
 .subtitlelinks{
   font-family: 'Assistant', sans-serif, arial;
   font-size: 90%;
-  color: #222222;
+  color: #000;
   text-align: center;
   margin-right: 1%;
   text-transform: uppercase;
@@ -140,21 +139,21 @@ A.links5:active{text-decoration:none; color:#222222;}
 
 
 .terms{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 150%;
-  color: #222222;
+  font-family: 'Alike', sans-serif, arial;
+  font-size: 170%;
+  color: #000;
   width: 80%;
   min-width: 80%;
   margin: auto;
-  word-spacing: 2px;
+  word-spacing: 0px;
   text-align: left;
 }
 
 .terms-subtitle{
-  font-family: 'Assistant', sans-serif, arial;
-  color: #222222;
-  font-size: 90%;
-  word-spacing: 3px;
+  font-family: 'Alike', sans-serif, arial;
+  color: #000;
+  font-size: 100%;
+  word-spacing: 0px;
   text-transform: uppercase;
   text-decoration: underline;
 }
@@ -164,7 +163,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 .core-values-title{
   font-family: 'Poiret One', sans-serif, arial;
   font-size: 500%;
-  color: #46bfbd;
+  color: #729501;
   letter-spacing: 5px;
   text-align: center;
   text-transform: uppercase;
@@ -183,7 +182,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 .subtitle4{
   font-family: 'Poiret One', sans-serif, arial;
   font-size: 150%;
-  color: #46bfbd;
+  color: #729501;
   text-align: center;
   text-transform: uppercase;
   margin: auto;
@@ -200,7 +199,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 .subtitle{
   font-family: 'Poiret One', sans-serif, arial;
   font-size: 220%;
-  color: #46bfbd;
+  color: #729501;
   text-align: center;
   text-transform: uppercase;
   margin: auto;
@@ -210,7 +209,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 .subtitle2{
   font-family: 'Assistant', sans-serif, arial;
   font-size: 160%;
-  color: #222222;
+  color: #000;
   text-align: center;
   text-transform: uppercase;
   text-decoration: underline;
@@ -219,15 +218,15 @@ A.links5:active{text-decoration:none; color:#222222;}
 .caption{
   font-family: 'Assistant', sans-serif, arial;
   font-size: 120%;
-  color: #222222;
+  color: #000;
   text-align: center;
   text-transform: uppercase;
 }
 
 .content{
-  font-family: 'Assistant', sans-serif, arial;
+  font-family: 'Alike', sans-serif, arial;
   font-size: 150%;
-  color: #222222;
+  color: #000;
   text-align: center;
   }
 
@@ -236,7 +235,7 @@ A.links5:active{text-decoration:none; color:#222222;}
   font-family: 'Assistant', sans-serif, arial;
   font-size: 100%;
   text-align: center;
-  color: #222222;
+  color: #000;
 }
 
 .list-alignment{
@@ -252,21 +251,21 @@ A.links5:active{text-decoration:none; color:#222222;}
 }
 
 .privacy{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 150%;
-  color: #222222;
+  font-family: 'Alike', sans-serif, arial;
+  font-size: 170%;
+  color: #000;
   width: 80%;
   min-width: 80%;
   margin: auto;
-  word-spacing: 2px;
+  word-spacing: 0px;
   text-align: left;
 }
 
 .privacy-subtitle{
-  font-family: 'Assistant', sans-serif, arial;
-  color: #222222;
-  font-size: 90%;
-  word-spacing: 3px;
+  font-family: 'alike', sans-serif, arial;
+  color: #000;
+  font-size: 100%;
+  word-spacing: 0px;
   text-transform: uppercase;
   text-decoration: underline;
 }
@@ -274,7 +273,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 .livecaptureappreciate{
   font-family: 'Poiret One', sans-serif, arial;
   font-size: 160%;
-  color: #46bfbd;
+  color: #729501;
   text-align: center;
   text-transform: uppercase;
   word-spacing: 5px;
@@ -285,7 +284,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 .keli-photography{
   font-family: 'Poiret One', sans-serif, arial;
   font-size: 200%;
-  color: #222222;
+  color: #000;
   text-align: center;
   text-transform: uppercase;
   word-spacing: 5px;
@@ -296,7 +295,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 .footercontent{
   font-family: 'Assistant', sans-serif, arial;
   font-size: 130%;
-  color: #222222;
+  color: #000;
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 1px;
@@ -307,7 +306,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 
 *, *:before, *:after { @include box-sizing(border-box) }
 
-.script-container {
+.blog-container {
   margin: 2em 0;
   text-align: center;
 }
@@ -344,16 +343,16 @@ ul.blog-post li img {
 ul.blog-post li h3 {
 	margin: 0.6em 0 0.6em;
   text-align: left!important;
-  font-family: Assistant, sans-serif, arial;
-  color: #222222;
+  font-family: 'alike', sans-serif, arial;
+  color: #000;
   font-size: 2em;
 }
 
 ul.blog-post li h4 {
 	margin: 0.6em 0 0.6em;
   text-align: left!important;
-  font-family: Assistant, sans-serif, arial;
-  color: #222222;
+  font-family: 'alike', sans-serif, arial;
+  color: #000;
   font-size: 2em;
 }
 
@@ -361,9 +360,9 @@ ul.blog-post li p {
   margin: 0.6em 0 1.3em;
 	font-size: 1.5em;
 	line-height: 1.5em;
-	color: #8c8c8c;
+	color: #000;
   text-align: left!important;
-  font-family: Assistant, sans-serif, arial;
+  font-family: 'alike', sans-serif, arial;
   font-weight: 300;
 }
 
@@ -371,8 +370,8 @@ ul.blog-post li p {
   text-align: center;
   width: 20%;
   border: none;
-  background: #46bfbd;
-  font-family: Assistant, sans-serif, arial;
+  background: #729501;
+  font-family: 'Assistant', sans-serif, arial;
   font-weight: 300;
   font-size: 1em;
   color: white;
@@ -410,7 +409,7 @@ ul.blog-post.columns-2 li {
   text-align: center;
   width: 15%;
   border: none;
-  background: #46bfbd;
+  background: #729501;
   font-family: Assistant, sans-serif, arial;
   font-weight: 300;
   font-size: 1.3em;
@@ -432,7 +431,7 @@ ul.blog-post.columns-2 li {
   text-align: center;
   width: 15%;
   border: none;
-  background: #46bfbd;
+  background: #729501;
   font-family: Assistant, sans-serif, arial;
   font-weight: 300;
   font-size: 1.3em;
@@ -452,7 +451,7 @@ ul.blog-post.columns-2 li {
   text-align: center;
   width: 15%;
   border: none;
-  background: #46bfbd;
+  background: #729501;
   font-family: Assistant, sans-serif, arial;
   font-weight: 300;
   font-size: 1.3em;
@@ -472,7 +471,7 @@ ul.blog-post.columns-2 li {
   text-align: center;
   width: 15%;
   border: none;
-  background: #46bfbd;
+  background: #729501;
   font-family: Assistant, sans-serif, arial;
   font-weight: 300;
   font-size: 1.3em;
@@ -498,19 +497,19 @@ ul.blog-post.columns-2 li {
 }
 
 .blog-content{
-  font-family: 'Assistant', sans-serif, arial;
-  font-size: 150%;
-  color: #222222;
+  font-family: 'alike', sans-serif, arial;
+  font-size: 160%;
+  color: #000;
   width: 80%;
   min-width: 80%;
   margin: auto;
-  word-spacing: 2px;
+  word-spacing: 0px;
   text-align: left;
 }
 
 .date-subtitle{
   font-size: 140%;
-  color: #222222;
+  color: #000;
   font-family: Assistant, sans-serif, arial;
   text-align: center;
   text-transform: uppercase;
@@ -518,7 +517,7 @@ ul.blog-post.columns-2 li {
 
 .blog-entry-title{
   font-size: 300%;
-  color: #46bfbd;
+  color: #729501;
   font-family: 'Poiret One', sans-serif, arial;
   text-align: center;
   text-transform: uppercase;
@@ -529,7 +528,7 @@ ul.blog-post.columns-2 li {
 
 .photo-caption{
   font-size: 80%;
-  color: #222222;
+  color: #000;
   font-family: Assistant, sans-serif, arial;
   text-align: center;
 }
