@@ -180,6 +180,16 @@ A.links5:active{text-decoration:none; color:#222222;}
 
 }
 
+.subtitle4{
+  font-family: 'Poiret One', sans-serif, arial;
+  font-size: 150%;
+  color: #46bfbd;
+  text-align: center;
+  text-transform: uppercase;
+  margin: auto;
+  word-spacing: 2px;
+}
+
 .subtitle3{
   font-size: 150%;
   text-align: center;
@@ -216,7 +226,7 @@ A.links5:active{text-decoration:none; color:#222222;}
 
 .content{
   font-family: 'Assistant', sans-serif, arial;
-  font-size: 120%;
+  font-size: 150%;
   color: #222222;
   text-align: center;
   }
