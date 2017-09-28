@@ -116,8 +116,30 @@ A.links5:active{text-decoration:none; color:#000;}
   text-transform: none;
 }
 
+.index-header-viet{
+  margin: auto;
+  min-width: 100%;  
+  font-family: 'Lobster', sans-serif, arial;
+  font-size: 700%;
+  color: #729501;
+  letter-spacing: 0px;
+  text-align: center;
+  margin-top: 3%;
+  text-transform: none;
+}
+
 .title{
   font-family: 'Cookie', sans-serif, arial;
+  font-size: 700%;
+  color: #729501;
+  letter-spacing: 0px;
+  text-align: center;
+  text-transform: none;
+  margin-top: 3%;
+}
+
+.title-viet{
+  font-family: 'Lobster', sans-serif, arial;
   font-size: 700%;
   color: #729501;
   letter-spacing: 0px;
@@ -215,6 +237,16 @@ A.links5:active{text-decoration:none; color:#000;}
   text-decoration: underline;
 }
 
+.subtitle-viet{
+  font-family: 'Montserrat', sans-serif, arial;
+  font-size: 220%;
+  color: #729501;
+  text-align: center;
+  text-transform: uppercase;
+  margin: auto;
+  word-spacing: 2px;	
+}
+
 .caption{
   font-family: 'Assistant', sans-serif, arial;
   font-size: 120%;
@@ -294,6 +326,16 @@ A.links5:active{text-decoration:none; color:#000;}
 
 .footercontent{
   font-family: 'Assistant', sans-serif, arial;
+  font-size: 130%;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1px;
+  background-color: #ffffff;
+}
+
+.footercontent-viet{
+  font-family: 'Montserrat', sans-serif, arial;
   font-size: 130%;
   color: #000;
   text-transform: uppercase;
