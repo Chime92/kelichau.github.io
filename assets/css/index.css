@@ -130,7 +130,7 @@ A.links5:active{text-decoration:none; color:#000;}
 
 .title{
   font-family: 'Cookie', sans-serif, arial;
-  font-size: 700%;
+  font-size: 400%;
   color: #729501;
   letter-spacing: 0px;
   text-align: center;
@@ -140,7 +140,7 @@ A.links5:active{text-decoration:none; color:#000;}
 
 .title-viet{
   font-family: 'Lobster', sans-serif, arial;
-  font-size: 700%;
+  font-size: 400%;
   color: #729501;
   letter-spacing: 0px;
   text-align: center;
@@ -583,6 +583,12 @@ ul.blog-post.columns-2 li {
   padding: 2% 2% 2% 5%;
 }
 
-
+#borderimg {
+    border: 15px solid black;
+    padding: 15px;
+    -webkit-border-image: url(border.png) 30 round; /* Safari 3.1-5 */
+    -o-border-image: url(border.png) 30 round; /* Opera 11-12.1 */
+    border-image: url(border.png) 30 round;
+}
 
 
