@@ -103,6 +103,11 @@ A.links5:visited{text-decoration:none; color:#000;}
 A.links5:hover{text-decoration:none; color:#000;}
 A.links5:active{text-decoration:none; color:#000;}
 
+A.links6 {color:#000;}
+A.links6:link {text-decoration: italic; color: #000;}
+A.links6:visited {text-decoration: none; color: #000;}
+A.links6:hover {text-decoration: none; color: #729501;}
+A.links6:active {text-decoration: italic; color: #000;}
 
 .index-header{
   margin: auto;
@@ -180,7 +185,14 @@ A.links5:active{text-decoration:none; color:#000;}
   text-decoration: underline;
 }
 
-
+.terms-subtitle-viet{
+  font-family: 'Alike', sans-serif, arial;
+  color: #000;
+  font-size: 100%;
+  word-spacing: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
 
 .core-values-title{
   font-family: 'Poiret One', sans-serif, arial;
@@ -239,7 +251,27 @@ A.links5:active{text-decoration:none; color:#000;}
 
 .subtitle-viet{
   font-family: 'Montserrat', sans-serif, arial;
-  font-size: 220%;
+  font-size: 200%;
+  color: #729501;
+  text-align: center;
+  text-transform: uppercase;
+  margin: auto;
+  word-spacing: 2px;	
+}
+
+.subtitle-viet-2{
+  font-family: 'Montserrat', sans-serif, arial;
+  font-size: 200%;
+  color: #000;
+  text-align: center;
+  text-transform: none;
+  margin: auto;
+  word-spacing: 2px;	
+}
+
+.subtitle-viet-3{
+  font-family: 'Montserrat', sans-serif, arial;
+  font-size: 150%;
   color: #729501;
   text-align: center;
   text-transform: uppercase;
@@ -300,6 +332,15 @@ A.links5:active{text-decoration:none; color:#000;}
   word-spacing: 0px;
   text-transform: uppercase;
   text-decoration: underline;
+}
+
+.privacy-subtitle-viet{
+  font-family: 'alike', sans-serif, arial;
+  color: #000;
+  font-size: 100%;
+  word-spacing: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
 .livecaptureappreciate{
@@ -557,6 +598,14 @@ ul.blog-post.columns-2 li {
   text-transform: uppercase;
 }
 
+.date-subtitle-viet{
+  font-size: 140%;
+  color: #000;
+  font-family: Montserrat, sans-serif, arial;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 .blog-entry-title{
   font-size: 300%;
   color: #729501;
@@ -568,10 +617,28 @@ ul.blog-post.columns-2 li {
   margin-left: 25%;
 }
 
+.blog-entry-title-viet{
+  font-size: 300%;
+  color: #729501;
+  font-family: 'Josefin Sans', sans-serif, arial;
+  text-align: center;
+  text-transform: uppercase;
+  max-width: 50%;
+  min-width: 50%;
+  margin-left: 25%;
+}
+
 .photo-caption{
   font-size: 80%;
   color: #000;
   font-family: Assistant, sans-serif, arial;
+  text-align: center;
+}
+
+.photo-caption-viet{
+  font-size: 80%;
+  color: #000;
+  font-family: Montserrat, sans-serif, arial;
   text-align: center;
 }
 
