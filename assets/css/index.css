@@ -276,6 +276,13 @@ A.links6:active {text-decoration: italic; color: #000;}
   word-spacing: 2px;	
 }
 
+.caption-viet{
+	font-family: 'Montserrat', sans-serif, arial;
+	font-size: 100%;
+	color: #000;
+	margin: auto;
+}
+
 .caption{
   font-family: 'Assistant', sans-serif, arial;
   font-size: 120%;
