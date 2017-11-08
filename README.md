@@ -1,7 +1,11 @@
-# Kelly Chau Photo Blogging Site
-Hey there! This is the beginning of Kelly Chau's foray into web design and development. 
-Blogging and pictures are what you'll find.
+# Keli Chau Official Website
 
-Thanks to Github, Bootstrap, Font Awesome and JQuery for their hard work.
+This website is a portfolio for Keli Chau's photography, film, designs, and web development works so clients can view examples and contact for work inquiries.
+
+## Built With 
+
+## Acknowledgments
+
+
 
 
