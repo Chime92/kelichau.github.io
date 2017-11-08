@@ -4,7 +4,7 @@ This website is a portfolio for Keli Chau's photography, film, designs, and web 
 
 ## Built With 
 
-## Acknowledgments
+## Acknowledegments
 
 
 
