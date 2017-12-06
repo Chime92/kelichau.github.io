@@ -7,7 +7,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 ## Acknowledegments
 
 ### stevenng308
-For helping me with initial setup and introducing me to GitHub, Bootstrap, FontAwesome, and SourceTree (https://github.com/stevenng308)
+Initial setup and introduction to GitHub, Bootstrap, FontAwesome, and SourceTree (https://github.com/stevenng308)
 
 ### FontAwesome
 Social icons (http://fontawesome.io/)
