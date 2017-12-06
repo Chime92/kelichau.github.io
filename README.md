@@ -6,6 +6,12 @@ This website is a portfolio for Keli Chau's photography, film, designs, and web 
 
 ## Acknowledegments
 
+### FontAwesome
+http://fontawesome.io/
+
+### 
+
+
 
 
 
