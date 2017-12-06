@@ -8,6 +8,8 @@ This website is a portfolio collection of my photography, film, designs, and web
 * Chinese translation
 * Spanish translation
 * Online shop integrated with PayPal
+* Integrate Instagram feed onto index page
+* Re-organize and minimize code
 
 ## Acknowledegments
 
