@@ -11,19 +11,19 @@ This website is a portfolio collection of my photography, film, designs, and web
 
 ## Acknowledegments
 
-### stevenng308
+#### stevenng308
 Initial setup and introduction to GitHub, Bootstrap, FontAwesome, and SourceTree (https://github.com/stevenng308)
 
-### FontAwesome
+#### FontAwesome
 Social icons (http://fontawesome.io/)
 
-### Bootstrap
+#### Bootstrap
 Frameworks (https://getbootstrap.com/)
 
-### Google Analytics
+#### Google Analytics
 Analytics (http://analytics.google.com)
 
-### Google Fonts
+#### Google Fonts
 Fonts (https://fonts.google.com/)
 
 
