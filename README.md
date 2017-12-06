@@ -9,7 +9,11 @@ This website is a portfolio for Keli Chau's photography, film, designs, and web 
 ### FontAwesome
 http://fontawesome.io/
 
-### 
+### Bootstrap
+https://getbootstrap.com/
+
+### Google Analytics
+http://analytics.google.com
 
 
 
