@@ -26,6 +26,8 @@ Analytics (http://analytics.google.com)
 #### Google Fonts
 Fonts (https://fonts.google.com/)
 
+#### Masonry
+Gallery grid layout (https://masonry.desandro.com/)
 
 
 
