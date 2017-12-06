@@ -7,17 +7,19 @@ This website is a portfolio for Keli Chau's photography, film, designs, and web 
 ## Acknowledegments
 
 ### stevenng308
-https://github.com/stevenng308
-For helping me with initial linking setup and introducing me to GitHub, Bootstrap, FontAwesome.
+For helping me with initial linking setup and introducing me to GitHub, Bootstrap, FontAwesome. (https://github.com/stevenng308)
 
 ### FontAwesome
-http://fontawesome.io/
+Social icons (http://fontawesome.io/)
 
 ### Bootstrap
-https://getbootstrap.com/
+Frameworks (https://getbootstrap.com/)
 
 ### Google Analytics
-http://analytics.google.com
+Analytics (http://analytics.google.com)
+
+### Google Fonts
+Fonts (https://fonts.google.com/)
 
 
 
