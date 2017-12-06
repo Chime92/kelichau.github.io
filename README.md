@@ -4,6 +4,10 @@ This website is a portfolio collection of my photography, film, designs, and web
 
 ## Built With 
 
+## Future Plans
+* Chinese translation
+* Spanish translation
+
 ## Acknowledegments
 
 ### stevenng308
