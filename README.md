@@ -15,7 +15,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 + Online shop integrated with PayPal
 + Integrate Instagram feed onto index page
 
-## Acknowledegments
+## Acknowledgments
 + Steven Ng for initial setup and introduction to GitHub, Bootstrap, FontAwesome, and SourceTree (https://github.com/stevenng308)
 + FontAwesome for social icons on footer and contact page (http://fontawesome.io/)
 + Bootstrap frameworks (https://getbootstrap.com/)
