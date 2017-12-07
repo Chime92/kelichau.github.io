@@ -3,14 +3,13 @@
 This website is a portfolio collection of my photography, film, designs, and web development works so that clients can view examples and contact information. It is constantly being updated as I continue to grow as an artist and web developer.
 
 ## Built With 
-+ HTML
 
 ## Future Plans
-* Re-organize and minimize code
-* Chinese translation
-* Spanish translation
-* Online shop integrated with PayPal
-* Integrate Instagram feed onto index page
++ Re-organize and minimize code
++ Chinese translation
++ Spanish translation
++ Online shop integrated with PayPal
++ Integrate Instagram feed onto index page
 
 ## Acknowledegments
 
