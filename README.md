@@ -12,7 +12,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 + Integrate Instagram feed onto index page
 
 ## Acknowledegments
-+ stevenng308 (https://github.com/stevenng308): Initial setup and introduction to GitHub, Bootstrap, FontAwesome, and SourceTree 
++ https://github.com/stevenng308 // Thanks Steven for initial setup and introduction to GitHub, Bootstrap, FontAwesome, and SourceTree 
 + FontAwesome (http://fontawesome.io/): Social icons on footer and contact page
 + Bootstrap (https://getbootstrap.com/): Frameworks
 + Google Analytics (http://analytics.google.com): Analytics for all HTML pages
