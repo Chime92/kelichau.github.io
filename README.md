@@ -6,6 +6,8 @@ This website is a portfolio collection of my photography, film, designs, and web
 
 ## Future Plans
 + Re-organize and minimize code
++ Integrate more efficient JavaScript codes
++ Make website more mobile-friendly
 + Chinese translation
 + Spanish translation
 + Online shop integrated with PayPal
