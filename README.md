@@ -20,7 +20,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 + FontAwesome for their super awesome social icons used on the footers and contact page (http://fontawesome.io/)
 + Bootstrap frameworks (https://getbootstrap.com/)
 + Google Analytics on all HTML pages (http://analytics.google.com)
-+ Google Fonts for navbar, footer, titles, content includes Assistant, Alike, Cookie, Lobster, Poiret One, Montserrat, Josefin Sans (https://fonts.google.com/)
++ Google Fonts for navbar, footer, titles, and content that includes Assistant, Alike, Cookie, Lobster, Poiret One, Montserrat, Josefin Sans (https://fonts.google.com/)
 + Masonry for their beautiful gallery grid layout on Lifestyle, Travel, Event, Commercial, Portrait, Loi Song, Du Lich, Dip, Trinh Bay, and Nguoi Mau pages (https://masonry.desandro.com/)
 + SourceTree Git GUI for commits, pushes, and pulls (https://www.sourcetreeapp.com/)
 
