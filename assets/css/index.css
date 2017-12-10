@@ -695,3 +695,9 @@ h1 {
 .testimonial-content {
   font-style:italic;
 }
+
+.testimonial-services{
+	text-align: center;
+	width: 50%;
+	margin-left: 25%;
+}
