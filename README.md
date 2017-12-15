@@ -1,6 +1,6 @@
 # Keli Chau's Official Website
 
-#### Project Started on May 2015
+#### Project Started April 2015
 
 This website is a portfolio collection of my photography, film, designs, and web development works so that clients can view contact information and examples. It is constantly being updated with more efficient and dynamic coding as I continue to grow as an artist and web developer.
 
