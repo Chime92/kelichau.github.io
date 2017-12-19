@@ -22,5 +22,5 @@ This website is a portfolio collection of my photography, film, designs, and web
 + Spanish translation
 + Online shop integrated with PayPal
 + Integrate Instagram feed onto index page
-
++ Increase loading speed for graphics 
 
