@@ -16,11 +16,11 @@ This website is a portfolio collection of my photography, film, designs, and web
 
 ## Future Plans
 + Re-organize and minimize code
-+ Integrate more efficient and dynamic JavaScript codes
++ Integrate more efficient and dynamic JavaScript codes (Node.js, Express.js, jQuery, etc.)
 + Make website more mobile-friendly
-+ Chinese translation
-+ Spanish translation
-+ Online shop integrated with PayPal
++ Add Chinese translation option
++ Add Spanish translation option
++ Add online shop integrated with PayPal
 + Integrate Instagram feed onto index page
 + Increase loading speed for graphics 
 
