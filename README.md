@@ -2,7 +2,7 @@
 
 #### Project Started April 2015
 
-This website is a portfolio collection of my photography, film, designs, and web development works so that clients can view contact information and examples. It is constantly being updated with more efficient and dynamic coding as I continue to grow as an artist and web developer.
+This website is a portfolio collection of my photography, film, designs, and web development works so that clients can view examples and contact information. It is constantly being updated with more efficient and dynamic coding as I continue to grow as an artist and web developer.
 
 ## Acknowledgments
 + Dr. Shuhua Lai's Web Technologies course at Georgia Gwinnett College that I took as an elective where I initially learned HTML, CSS, and JavaScript (http://www.ggc.edu/about-ggc/directory/shuhua-lai)
