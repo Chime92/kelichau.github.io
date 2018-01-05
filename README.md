@@ -13,6 +13,8 @@ This website is a portfolio collection of my photography, film, designs, and web
 + Google Fonts for navbar, footer, titles, and content that includes Assistant, Alike, Cookie, Lobster, Poiret One, Montserrat, Josefin Sans (https://fonts.google.com/)
 + Masonry for their beautiful gallery grid layout on Lifestyle, Travel, Event, Commercial, Portrait, Loi Song, Du Lich, Dip, Trinh Bay, and Nguoi Mau pages (https://masonry.desandro.com/)
 + SourceTree Git GUI for commits, pushes, and pulls (https://www.sourcetreeapp.com/)
++ Git Bash
++ Georgia Institute of Technology's Coding Bootcamp Program (Nov 2017 to Feb 2018) where I am learning more about coding languages such as JavaScript, Node.js, Express.js, jQuery, MySQL, and more
 
 ## Future Plans
 + Re-organize and minimize code
