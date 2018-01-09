@@ -1,8 +1,14 @@
 # Keli Chau's Official Website
 
+## Overview
 #### Project Started April 2015
-
 This website is a portfolio collection of my photography, film, designs, and web development works so that clients can view examples and contact information. It is constantly being updated with more efficient and dynamic coding as I continue to grow as an artist and web developer.
+
+### Visuals
++ Screenshots
++ Video(s)
++ Link to Video(s)
++ GIFs
 
 ## Acknowledgments
 + Dr. Shuhua Lai's Web Technologies course at Georgia Gwinnett College that I took as an elective where I initially learned HTML, CSS, and JavaScript (http://www.ggc.edu/about-ggc/directory/shuhua-lai)
