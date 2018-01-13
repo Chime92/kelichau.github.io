@@ -11,16 +11,16 @@ This website is a portfolio collection of my photography, film, designs, and web
 + GIFs
 
 ## Acknowledgments
-+ Dr. Shuhua Lai's Web Technologies course at Georgia Gwinnett College that I took as an elective where I initially learned HTML, CSS, and JavaScript (http://www.ggc.edu/about-ggc/directory/shuhua-lai)
-+ Steven Ng for initial setup and introduction to GitHub, Bootstrap, FontAwesome, and SourceTree (https://github.com/stevenng308)
-+ FontAwesome for their super awesome social icons used on the footers and contact page (http://fontawesome.io/)
-+ Bootstrap frameworks (https://getbootstrap.com/)
-+ Google Analytics on all HTML pages (http://analytics.google.com)
-+ Google Fonts for navbar, footer, titles, and content that includes Assistant, Alike, Cookie, Lobster, Poiret One, Montserrat, Josefin Sans (https://fonts.google.com/)
-+ Masonry for their beautiful gallery grid layout on Lifestyle, Travel, Event, Commercial, Portrait, Loi Song, Du Lich, Dip, Trinh Bay, and Nguoi Mau pages (https://masonry.desandro.com/)
-+ SourceTree Git GUI for commits, pushes, and pulls (https://www.sourcetreeapp.com/)
++ [Dr. Shuhua Lai's](http://www.ggc.edu/about-ggc/directory/shuhua-lai) Web Technologies course at Georgia Gwinnett College that I took as an elective where I initially learned HTML, CSS, and JavaScript 
++ [Steven Ng](https://github.com/stevenng308), full-stack web developer, for initial setup and introduction to GitHub, Bootstrap, FontAwesome, and SourceTree 
++ [FontAwesome](http://fontawesome.io/) for their super awesome social icons used on the footers and contact page 
++ [Bootstrap frameworks](https://getbootstrap.com/)
++ [Google Analytics](http://analytics.google.com) located on all HTML pages
++ [Google Fonts](https://fonts.google.com/) for navbar, footer, titles, and content that includes Assistant, Alike, Cookie, Lobster, Poiret One, Montserrat, Josefin Sans 
++ [Masonry](https://masonry.desandro.com/) for their beautiful gallery grid layout on Lifestyle, Travel, Event, Commercial, Portrait, Loi Song, Du Lich, Dip, Trinh Bay, and Nguoi Mau pages 
++ [SourceTree](https://www.sourcetreeapp.com/) Git GUI for commits, pushes, and pulls 
 + Git Bash
-+ Georgia Institute of Technology's Coding Bootcamp Program (Nov 2017 to Feb 2018) where I am learning more about coding languages such as JavaScript, Node.js, Express.js, jQuery, MySQL, HTML5, CSS3, C#, ASP.Net, React.js, Database Theory, Bookshelf.js, MongoDB, Command Line, and Git, among other things (https://codingbootcamp.pe.gatech.edu/)
++ [Georgia Institute of Technology's Coding Bootcamp Program](https://codingbootcamp.pe.gatech.edu/) (Nov 2017 to Feb 2018) where I am learning more about coding languages such as JavaScript, Node.js, Express.js, jQuery, MySQL, HTML5, CSS3, C#, ASP.Net, React.js, Database Theory, Bookshelf.js, MongoDB, Command Line, and Git, among other things 
 
 ## Future Plans
 + Re-organize and minimize code
