@@ -23,7 +23,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 + [Georgia Institute of Technology's Coding Bootcamp Program](https://codingbootcamp.pe.gatech.edu/) (Nov 2017 to Feb 2018) where I am learning more about coding languages such as JavaScript, Node.js, Express.js, jQuery, MySQL, HTML5, CSS3, C#, ASP.Net, React.js, Database Theory, Bookshelf.js, MongoDB, Command Line, and Git, among other things 
 
 ## Future Plans
-+ Re-organize and minimize code
++ Re-organize and minimize code (KISS and DRY)
 + Integrate more efficient and dynamic JavaScript codes (Node.js, Express.js, jQuery, etc.)
 + Make website more mobile-friendly
 + Add Chinese translation option
