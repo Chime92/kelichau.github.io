@@ -20,7 +20,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 + [Masonry](https://masonry.desandro.com/) for their beautiful gallery grid layout on Lifestyle, Travel, Event, Commercial, Portrait, Loi Song, Du Lich, Dip, Trinh Bay, and Nguoi Mau pages 
 + [SourceTree](https://www.sourcetreeapp.com/) Git GUI for commits, pushes, and pulls 
 + Git Bash
-+ [Georgia Institute of Technology's Coding Bootcamp Program](https://codingbootcamp.pe.gatech.edu/) (Nov 2017 to Feb 2018) where I am learning more about coding languages such as JavaScript, Node.js, Express.js, jQuery, MySQL, HTML5, CSS3, C#, ASP.Net, React.js, Database Theory, Bookshelf.js, MongoDB, Command Line, and Git, among other things 
++ [Georgia Institute of Technology's Coding Program](https://codingbootcamp.pe.gatech.edu/) (Nov 2017 to Feb 2018) where I am learning more about coding languages such as JavaScript, Node.js, Express.js, jQuery, MySQL, HTML5, CSS3, C#, ASP.Net, React.js, Database Theory, Bookshelf.js, MongoDB, Command Line, and Git, among other things 
 
 ## Future Plans
 + Re-organize and minimize code (DRY KISS)
