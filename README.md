@@ -24,7 +24,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 
 ## Future Plans
 + Re-organize and minimize code and files (DRY KISS)
-+ Integrate more efficient and dynamic JavaScript codes (Node.js, Express.js, jQuery, etc.)
++ Translate to more efficient and dynamic JavaScript codes 
 + Make website more mobile-friendly
 + Add Chinese translation option
 + Add Spanish translation option
