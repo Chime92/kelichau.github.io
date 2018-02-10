@@ -6,13 +6,13 @@ This website is a portfolio collection of my photography, film, designs, and web
 
 ### Visuals
 <p align="center">
-<img src="https://farm5.staticflickr.com/4724/40144258612_87f94abd8c_h.jpg" width="600" height="400"/>
+<img src="https://farm5.staticflickr.com/4724/40144258612_87f94abd8c_h.jpg" width="700" height="400"/>
 </p>
 <p align="center">
-<img src="https://farm5.staticflickr.com/4748/39278712475_a86ff8b91c_h.jpg" width="600" height="400"/>
+<img src="https://farm5.staticflickr.com/4748/39278712475_a86ff8b91c_h.jpg" width="700" height="400"/>
 </p>
 <p align="center">
-<img src="https://farm5.staticflickr.com/4661/40144258562_b6b241c996_h.jpg" width="600" height="400"/>
+<img src="https://farm5.staticflickr.com/4661/40144258562_b6b241c996_h.jpg" width="700" height="400"/>
 </p>
 
 ## Acknowledgments
