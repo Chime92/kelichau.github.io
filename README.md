@@ -5,10 +5,15 @@
 This website is a portfolio collection of my photography, film, designs, and web development works so that clients can view examples and contact information. It is constantly being updated with more efficient and dynamic coding as I continue to grow as an artist and web developer.
 
 ### Visuals
-<img align="center" src="https://farm5.staticflickr.com/4724/40144258612_87f94abd8c_h.jpg" width="600" height="400"/>
-<img align="center" src="https://farm5.staticflickr.com/4748/39278712475_a86ff8b91c_h.jpg" width="600" height="400"/>
-<img align="center" src="https://farm5.staticflickr.com/4661/40144258562_b6b241c996_h.jpg" width="600" height="400"/>
-
+<p align="center">
+<img src="https://farm5.staticflickr.com/4724/40144258612_87f94abd8c_h.jpg" width="600" height="400"/>
+</p>
+<p align="center">
+<img src="https://farm5.staticflickr.com/4748/39278712475_a86ff8b91c_h.jpg" width="600" height="400"/>
+</p>
+<p align="center">
+<img src="https://farm5.staticflickr.com/4661/40144258562_b6b241c996_h.jpg" width="600" height="400"/>
+</p>
 
 ## Acknowledgments
 + [Dr. Shuhua Lai's](http://www.ggc.edu/about-ggc/directory/shuhua-lai) Web Technologies course at Georgia Gwinnett College that I took as an elective where I initially learned HTML, CSS, and JavaScript 
