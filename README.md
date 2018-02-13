@@ -48,7 +48,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 
 ## Acknowledgments
 + [Dr. Shuhua Lai's](http://www.ggc.edu/about-ggc/directory/shuhua-lai) Web Technologies course at Georgia Gwinnett College that I took as an elective where I initially learned HTML, CSS, and JavaScript 
-+ [Steven Ng](https://github.com/stevenng308), full-stack web developer, for initial setup and introduction to GitHub, Bootstrap, FontAwesome, and SourceTree 
++ [Steven Ng](https://github.com/stevenng308), full-stack web developer, for initial setup and introduction some technologies
 + [FontAwesome](http://fontawesome.io/) for their super awesome social icons used on the footers and contact page 
 + [Bootstrap frameworks](https://getbootstrap.com/)
 + [Google Analytics](http://analytics.google.com) located on all HTML pages
