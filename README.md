@@ -14,13 +14,13 @@ This website is a portfolio collection of my photography, film, designs, and web
 
 ## Visuals
 ### **Home Page** 
-![Alt Text](assets/visuals/KeliChauHome.gif)
+![Alt Text](assets/visuals/Home.gif)
 
 ### **Photo Gallery**
-![Alt Text](assets/visuals/KeliChauPhotoGallery.gif)
+![Alt Text](assets/visuals/Photo.gif)
 
 ### **Vietnamese Translation**
-![Alt Text](assets/visuals/KeliChauHomeVN.gif)
+![Alt Text](assets/visuals/Viet.gif)
 
 ## Future Development
 + Re-organize and minimize code and files (DRY KISS)
