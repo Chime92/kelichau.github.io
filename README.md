@@ -5,8 +5,6 @@
 + [Visuals](#visuals)
 + [Future Development](#future-development)
 + [Contributing](#contributing)
-+ [Installation](#installation)
-+ [Usage](#usage)
 + [Acknowledgments](#acknowledgments)
 + [License](#license)
 
@@ -15,15 +13,14 @@
 This website is a portfolio collection of my photography, film, designs, and web development works so that clients can view examples and contact information. It is constantly being updated with more efficient and dynamic coding as I continue to grow as an artist and web developer.
 
 ## Visuals
-<p align="center">
-<img src="https://farm5.staticflickr.com/4705/40177352081_60aa2fb299_h.jpg" width="700" height="400"/>
-</p>
-<p align="center">
-<img src="https://farm5.staticflickr.com/4664/39278812645_fb45f5a5d4_h.jpg" width="700" height="400"/>
-</p>
-<p align="center">
-<img src="https://farm5.staticflickr.com/4612/40177351981_d7fa5435da_h.jpg" width="700" height="400"/>
-</p>
+### **Home Page** 
+![Alt Text](assets/visuals/KeliChauHome.gif)
+
+### **Photo Gallery**
+![Alt Text](assets/visuals/KeliChauPhotoGallery.gif)
+
+### **Vietnamese Translation**
+![Alt Text](assets/visuals/KeliChauHomeVN.gif)
 
 ## Future Development
 + Re-organize and minimize code and files (DRY KISS)
@@ -33,7 +30,8 @@ This website is a portfolio collection of my photography, film, designs, and web
 + Add Spanish translation option
 + Add online shop integrated with PayPal
 + Integrate Instagram feed onto index page
-+ Increase loading speed for graphics 
++ Increase loading speed for graphics
++ Convert entire website to MERN stack 
 
 ## Contributing
 1. Fork this repository
@@ -42,21 +40,16 @@ This website is a portfolio collection of my photography, film, designs, and web
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-## Installation
-
-## Usage
-
 ## Acknowledgments
-+ [Dr. Shuhua Lai's](http://www.ggc.edu/about-ggc/directory/shuhua-lai) Web Technologies course at Georgia Gwinnett College that I took as an elective where I initially learned HTML, CSS, and JavaScript 
-+ [Steven Ng](https://github.com/stevenng308), full-stack web developer, for initial setup and introduction some technologies
-+ [FontAwesome](http://fontawesome.io/) for their super awesome social icons used on the footers and contact page 
-+ [Bootstrap frameworks](https://getbootstrap.com/)
-+ [Google Analytics](http://analytics.google.com) located on all HTML pages
-+ [Google Fonts](https://fonts.google.com/) for navbar, footer, titles, and content that includes Assistant, Alike, Cookie, Lobster, Poiret One, Montserrat, Josefin Sans 
-+ [Masonry](https://masonry.desandro.com/) for their beautiful gallery grid layout on Lifestyle, Travel, Event, Commercial, Portrait, Loi Song, Du Lich, Dip, Trinh Bay, and Nguoi Mau pages 
-+ [SourceTree](https://www.sourcetreeapp.com/) Git GUI for commits, pushes, and pulls 
-+ Git Bash
-+ [Georgia Institute of Technology's Coding Program](https://codingbootcamp.pe.gatech.edu/) (Nov 2017 to Feb 2018) where I am learning more about coding languages such as JavaScript, Node.js, Express.js, jQuery, MySQL, HTML5, CSS3, C#, ASP.Net, React.js, Database Theory, Bookshelf.js, MongoDB, Command Line, and Git, among other things 
++ [Dr. Shuhua Lai's](http://www.ggc.edu/about-ggc/directory/shuhua-lai) Web Technologies Course at Georgia Gwinnett College
++ [Steven Ng](https://github.com/stevenng308), Full Stack Developer, Initial Guidance
++ [FontAwesome](http://fontawesome.io/) Icons
++ [Bootstrap](https://getbootstrap.com/) Frameworks
++ [Google](http://analytics.google.com) Analytics
++ [Google](https://fonts.google.com/) Fonts
++ [Masonry](https://masonry.desandro.com/) Gallery Grid 
++ [SourceTree](https://www.sourcetreeapp.com/) Git GUI  
+
 
 ## License 
 #### MIT License
