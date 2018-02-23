@@ -54,7 +54,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 ## License 
 #### MIT License
 
-##### Copyright (c) 2018 Keli Chau
+##### Copyright (c) 2015 Keli Chau
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
