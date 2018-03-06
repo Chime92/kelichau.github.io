@@ -32,6 +32,7 @@ This website is a portfolio collection of my photography, film, designs, and web
 + Integrate Instagram feed onto index page
 + Increase loading speed for graphics
 + Convert entire website to MERN stack 
++ Integrate Calendly API
 
 ## Contributing
 1. Fork this repository
