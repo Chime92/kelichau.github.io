@@ -12,7 +12,7 @@
   max-width: 100%;
 }
 
-.blurb {
+.about-wrap {
   min-width: 100%;
   width: 100%;
   text-align: left;
@@ -29,12 +29,11 @@
 }
 
 .service-wrap2 {
-  min-width: 50%;
-  width: 50%;
+  min-width: 100%;
+  width: 100%;
   text-align: center;
   font-family: Questrial, 'sans-serif', arial;
   font-size: 150%;
-  margin-left: 25%;
 }
 
 .privacy-wrap {
@@ -89,7 +88,7 @@
 /* Subtitles */
 .subtitle {
   font-family: 'Kristi', 'sans-serif', arial;
-	font-size: 600%;
+	font-size: 400%;
   text-align: center;
   color: #729501;
   min-width: 100%;
@@ -162,7 +161,7 @@ ul {
 
 .about {
   border-radius: 50%;
-  margin-left: 35%;
+  margin-left: 40%;
 }
 
 /* Pricing Table */
