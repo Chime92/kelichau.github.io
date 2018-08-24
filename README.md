@@ -48,9 +48,6 @@ This website is a portfolio collection of my photography, film, designs, and web
 + [Bootstrap](https://getbootstrap.com/) Frameworks
 + [Google](http://analytics.google.com) Analytics
 + [Google](https://fonts.google.com/) Fonts
-+ [Masonry](https://masonry.desandro.com/) Gallery Grid 
-+ [SourceTree](https://www.sourcetreeapp.com/) Git GUI  
-
 
 ## License 
 #### MIT License
