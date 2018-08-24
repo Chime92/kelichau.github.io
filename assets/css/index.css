@@ -12,12 +12,11 @@
   max-width: 100%;
 }
 
-.about-wrap {
-  min-width: 50%;
-  width: 50%;
-  text-align: center;
+.blurb {
+  min-width: 100%;
+  width: 100%;
+  text-align: left;
   font-size: 150%;
-  margin-left: 25%;
   font-family: Questrial, sans-serif, arial;
 }
 
@@ -163,6 +162,7 @@ ul {
 
 .about {
   border-radius: 50%;
+  margin-left: 35%;
 }
 
 /* Pricing Table */
