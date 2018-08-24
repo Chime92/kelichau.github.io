@@ -1,5 +1,5 @@
 /* Google Fonts Import */
-@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great|Pavanam|Snippet|Kristi|Oswald|Questrial|Muli|Lobster|Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Snippet|Kristi|Oswald|Questrial|Lobster|Montserrat');
 
 /* LAYOUT */
 /* Containers */
@@ -18,12 +18,24 @@
   text-align: center;
   font-size: 150%;
   margin-left: 25%;
+  font-family: Questrial, sans-serif, arial;
 }
 
 .service-wrap {
   min-width: 100%;
   width: 100%;
   text-align: center;
+  font-family: Questrial, 'sans-serif', arial;
+  font-size: 150%;
+}
+
+.service-wrap2 {
+  min-width: 50%;
+  width: 50%;
+  text-align: center;
+  font-family: Questrial, 'sans-serif', arial;
+  font-size: 150%;
+  margin-left: 25%;
 }
 
 .privacy-wrap {
