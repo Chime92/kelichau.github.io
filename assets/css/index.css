@@ -289,6 +289,156 @@ a {
   }
 }
 
+/* Progress Bar */
+#skill { 
+	list-style: none;
+  font-size: 100%;
+  font-family: Questrial, sans-serif, arial;
+	width: 60%;
+	margin: 50px auto 0;
+	position: relative;
+	line-height: 2em;
+	padding: 30px 0;
+}
+
+#skill li { 
+	margin-bottom:50px; 
+	background:#e9e5e2;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#e1ddd9), to(#e9e5e2));
+	background-image: -webkit-linear-gradient(top, #e1ddd9, #e9e5e2);
+	background-image: -moz-linear-gradient(top, #e1ddd9, #e9e5e2);
+	background-image: -ms-linear-gradient(top, #e1ddd9, #e9e5e2);
+	background-image: -o-linear-gradient(top, #e1ddd9, #e9e5e2);
+	background-image: linear-gradient(top, #e1ddd9, #e9e5e2);  
+	height:20px; 
+	border-radius:10px; 
+	-moz-box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;	 
+	-webkit-box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;	 
+	box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;	  
+}
+
+#skill li h3 { 
+	position:relative; 
+	top:-25px;
+}
+
+.bar { 
+	height:18px; 
+	margin:1px 2px;  
+	position:absolute;
+	border-radius:10px;
+	-moz-box-shadow: 0 1px 0px #fcfcfc inset, 0 1px 0 #bebbb9;
+	-webkit-box-shadow: 0 1px 0px #fcfcfc inset, 0 1px 0 #bebbb9;	 
+	box-shadow: 0 1px 0px #fcfcfc inset, 0 1px 0 #bebbb9;		
+}
+
+.graphic-design {
+	width: 80%; 
+	-moz-animation:graphic-design 2s ease-out;
+	-webkit-animation:graphic-design 2s ease-out;
+	background-color: #f674a4;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#f674a4), to(#e06995));
+	background-image: -webkit-linear-gradient(top, #f674a4, #e06995);
+	background-image: -moz-linear-gradient(top, #f674a4, #e06995);
+	background-image: -ms-linear-gradient(top, #f674a4, #e06995);
+	background-image: -o-linear-gradient(top, #f674a4, #e06995);
+	background-image: linear-gradient(top, #f674a4, #e06995);
+}
+
+.html-css {
+	width: 85%;
+	-moz-animation:html-css 2s ease-out;
+	-webkit-animation:html-css 2s ease-out;
+	background-color: #f0bb4b;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#f0bb4b), to(#d9aa44));
+	background-image: -webkit-linear-gradient(top, #f0bb4b, #d9aa44);
+	background-image: -moz-linear-gradient(top, #f0bb4b, #d9aa44);
+	background-image: -ms-linear-gradient(top, #f0bb4b, #d9aa44);
+	background-image: -o-linear-gradient(top, #f0bb4b, #d9aa44);
+	background-image: linear-gradient(top, #f0bb4b, #d9aa44);
+}
+
+.javascript {
+	width: 65%;
+	-moz-animation:javascript 2s ease-out;
+	-webkit-animation:javascript 2s ease-out;
+	background-color: #a1ce5b;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#a1ce5b), to(#91ba52));
+	background-image: -webkit-linear-gradient(top, #a1ce5b, #91ba52);
+	background-image: -moz-linear-gradient(top, #a1ce5b, #91ba52);
+	background-image: -ms-linear-gradient(top, #a1ce5b, #91ba52);
+	background-image: -o-linear-gradient(top, #a1ce5b, #91ba52);
+	background-image: linear-gradient(top, #a1ce5b, #91ba52);
+}
+
+.photography {
+	width: 90%;
+	-moz-animation:photography 2s ease-out;
+	-webkit-animation:photography 2s ease-out;
+	background-color: #66b3cc;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#66b3cc), to(#5da3ba));
+	background-image: -webkit-linear-gradient(top, #66b3cc, #5da3ba);
+	background-image: -moz-linear-gradient(top, #66b3cc, #5da3ba);
+	background-image: -ms-linear-gradient(top, #66b3cc, #5da3ba);
+	background-image: -o-linear-gradient(top, #66b3cc, #5da3ba);
+	background-image: linear-gradient(top, #66b3cc, #5da3ba)	
+}
+
+.photoshop {
+	width: 85%;
+	-moz-animation:photoshop 2s ease-out;
+	-webkit-animation:photoshop 2s ease-out;
+	background-color: #465C8B;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#465C8B), to(#465C8B));
+	background-image: -webkit-linear-gradient(top, #465C8B, #465C8B);
+	background-image: -moz-linear-gradient(top, #465C8B, #465C8B);
+	background-image: -ms-linear-gradient(top, #465C8B, #465C8B);
+	background-image: -o-linear-gradient(top, #465C8B, #465C8B);
+	background-image: linear-gradient(top, #465C8B, #465C8B)	
+}
+
+.illustrator {
+	width: 70%;
+	-moz-animation:illustrator 2s ease-out;
+	-webkit-animation:illustrator 2s ease-out;
+	background-color: #93C178;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#93C178), to(#93C178));
+	background-image: -webkit-linear-gradient(top, #93C178, #93C178);
+	background-image: -moz-linear-gradient(top, #93C178, #93C178);
+	background-image: -ms-linear-gradient(top, #93C178, #93C178);
+	background-image: -o-linear-gradient(top, #93C178, #93C178);
+	background-image: linear-gradient(top, #93C178, #93C178)	
+}
+
+.krita {
+	width: 65%;
+	-moz-animation:krita 2s ease-out;
+	-webkit-animation:krita 2s ease-out;
+	background-color: #F7EF6A;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#F7EF6A), to(#F7EF6A));
+	background-image: -webkit-linear-gradient(top, #F7EF6A, #F7EF6A);
+	background-image: -moz-linear-gradient(top, #F7EF6A, #F7EF6A);
+	background-image: -ms-linear-gradient(top, #F7EF6A, #F7EF6A);
+	background-image: -o-linear-gradient(top, #F7EF6A, #F7EF6A);
+	background-image: linear-gradient(top, #F7EF6A, #F7EF6A)	
+}
+
+@-moz-keyframes graphic-design {0%  { width:0px;} 100%{ width:80%;}  }
+@-moz-keyframes html-css        { 0%  { width:0px;} 100%{ width:85%;}  }
+@-moz-keyframes javascript      { 0%  { width:0px;} 100%{ width:65%;}  }
+@-moz-keyframes photography   { 0%  { width:0px;} 100%{ width:90%;}  }
+@-moz-keyframes photoshop   { 0%  { width:0px;} 100%{ width:85%;}  }
+@-moz-keyframes illustrator   { 0%  { width:0px;} 100%{ width:70%;}  }
+@-moz-keyframes krita   { 0%  { width:0px;} 100%{ width:65%;}  }
+
+@-webkit-keyframes graphic-design       { 0%  { width:0px;} 100%{ width:80%;}  }
+@-webkit-keyframes html-css        { 0%  { width:0px;} 100%{ width:85%;}  }
+@-webkit-keyframes javascript      { 0%  { width:0px;} 100%{ width:65%;}  }
+@-webkit-keyframes photography   { 0%  { width:0px;} 100%{ width:90%;}  }
+@-webkit-keyframes photoshop   { 0%  { width:0px;} 100%{ width:85%;}  }
+@-webkit-keyframes illustrator   { 0%  { width:0px;} 100%{ width:70%;}  }
+@-webkit-keyframes krita   { 0%  { width:0px;} 100%{ width:65%;}  }
+
 /* Links */
 a.link {color:#fff;}
 a.link:link {text-decoration: none; color: #fff;}
