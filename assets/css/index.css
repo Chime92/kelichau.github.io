@@ -16,8 +16,8 @@
   min-width: 50%;
   width: 50%;
   text-align: center;
-  margin-left: 25%;
   font-size: 150%;
+  margin-left: 25%;
 }
 
 .service-wrap {
@@ -150,8 +150,6 @@ ul {
 }
 
 .about {
-  width: 100%;
-  height: 100%;
   border-radius: 50%;
 }
 
