@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Keli Chau | Photography</title>
+    <title>Keli Chau | Test</title>
     <!-- Responsive Meta Tag -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Google Site Verification Meta Tag -->
@@ -14,8 +14,8 @@
     <meta name="author" content="Keli Chau">
     <!-- Internal CSS -->
     <link rel="stylesheet" href="../assets/css/index.css">
-    <link rel="stylesheet" href="../assets/css/photo.css">
     <link rel="stylesheet" href="../assets/css/sticky-footer.css">
+    <link rel="stylesheet" href="../assets/css/filter.css">
     <!-- HTACCESS -->
     <link rel="stylesheet" href=".htaccess">
     <!-- Bootstrap CSS CDN -->
@@ -90,79 +90,147 @@
             </ul>
         </div>
     </nav>
-    <div class="title">Portfolio</div>
-    <br/>
-    <div class="subtitle3">Photography</div>
-    <div class="container gallery-container">
-        <div class="tz-gallery">
-            <div class="row">
-                <div class="col-sm-12 col-md-4">
-                    <a class="lightbox" href="../assets/img/25.jpg">
-                        <img src="../assets/img/25.jpg" alt="Scattered">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/27.jpg">
-                        <img src="../assets/img/27.jpg" alt="Uncle">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/1.jpg">
-                        <img src="../assets/img/1.jpg" alt="Fairy">
-                    </a>
-                </div>
-                <div class="col-sm-12 col-md-8">
-                    <a class="lightbox" href="../assets/img/16.jpg">
-                        <img src="../assets/img/16.jpg" alt="Omotesando Street">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/28.jpg">
-                        <img src="../assets/img/28.jpg" alt="Eel Chefs">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/3.jpg">
-                        <img src="../assets/img/3.jpg" alt="Grizzly Cub">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/4.jpg">
-                        <img src="../assets/img/4.jpg" alt="Grizzly Team">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/5.jpg">
-                        <img src="../assets/img/5.jpg" alt="Detail">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/6.jpg">
-                        <img src="../assets/img/6.jpg" alt="Newly Weds">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/7.jpg">
-                        <img src="../assets/img/7.jpg" alt="PT">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/8.jpg">
-                        <img src="../assets/img/8.jpg" alt="8 Body Health">
-                    </a>
-                </div>
-                <div class="col-sm-12 col-md-8">
-                    <a class="lightbox" href="../assets/img/26.jpg">
-                        <img src="../assets/img/26.jpg" alt="Home">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="../assets/img/12.jpg">
-                        <img src="../assets/img/12.jpg" alt="Red">
-                    </a>
-                </div>
+    <div class="container">
+        <div class="title">Portfolio</div>
+        <!-- Portfolio Filter Gallery -->
+        <div class="toolbar mb2 mt2">
+            <button class="btn fil-cat" href="" data-rel="all">All</button>
+            <button class="btn fil-cat" data-rel="web">Websites & Apps</button>
+            <button class="btn fil-cat" data-rel="photo">Photography</button>
+            <button class="btn fil-cat" data-rel="flyers">Flyers</button>
+            <button class="btn fil-cat" data-rel="logo">Logos</button>
+            <button class="btn fil-cat" data-rel="wbanner">Web Banners</button>
+            <button class="btn fil-cat" data-rel="rbanner">Roll Up Banners</button>
+            <button class="btn fil-cat" data-rel="social">Social Media Posts</button>
+            <button class="btn fil-cat" data-rel="video">Videos</button>
+        </div>
+        <div style="clear:both;"></div>
+        <div id="portfolio">
+            <div class="tile scale-anm web all">
+                <a href="http://www.kelichau.com/LifeTravel" target="_blank"><img src="../assets/img/web/LifeTravel.jpg" alt="LifeTravel" /></a>
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/1.jpg" alt="Grizzly Softball Team" />
+            </div>
+            <div class="tile scale-anm web all">
+                <a href="http://www.kelichau.com/MinecraftHangman" target="_blank"><img src="../assets/img/web/MinecraftHangman.png" alt="Minecraft Hangman" /></a>
+            </div>
+            <div class="tile scale-anm wbanner all">
+                <img src="../assets/img/design/wbanner/wbanner1.jpg" alt="Summer" />
+            </div>
+            <div class="tile scale-anm web all">
+                <a href="http://www.kelichau.com/TortoiseFit" target="_blank"><img src="../assets/img/web/TortoiseFit.png" alt="TortoiseFit" /></a>
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/5.jpg" alt="Georgia State University Graduate" />
+            </div>
+            <div class="tile scale-anm flyers all">
+                <img src="../assets/img/design/flyer/flyer1.png" alt="Anniversary" />
+            </div>
+            <div class="tile scale-anm rbanner all">
+                <img src="../assets/img/design/rbanner/rbanner1.jpg" alt="Unique Care, LLC" />
+            </div>
+            <div class="tile scale-anm wbanner all">
+                <img src="../assets/img/design/wbanner/wbanner2.jpg" alt="Graduation" />
+            </div>
+            <div class="tile scale-anm social all">
+                <img src="../assets/img/design/social/social1.jpg" alt="Unique Care, LLC" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/2.jpg" alt="Wedding" />
+            </div>
+            <div class="tile scale-anm flyers all">
+                <img src="../assets/img/design/flyer/flyer2.png" alt="Review" />
+            </div>
+            <div class="tile scale-anm logo all">
+                <img src="../assets/img/design/logo/logo1.png" alt="Keli Chau Media" />
+            </div>
+            <div class="tile scale-anm wbanner all">
+                <img src="../assets/img/design/wbanner/wbanner3.jpg" alt="Spa Product" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/3.jpg" alt="Unique Care, LLC" />
+            </div>
+            <div class="tile scale-anm video all">
+                <a href="https://www.youtube.com/watch?v=0AV5CtavVZs&t=4s" target="_blank"><img src="../assets/img/video/Vogel-Carousel.png" alt="Vogel State Park, Blairsville, Georgia, USA" /></a>
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/4.jpg" alt="Chiropractor" />
+            </div>
+            <div class="tile scale-anm wbanner all">
+                <img src="../assets/img/design/wbanner/wbanner4.jpg" alt="Ladies Night" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/6.jpg" alt="2 Year Birthday" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/7.jpg" alt="Cars" />
+            </div>
+            <div class="tile scale-anm logo all">
+                <img src="../assets/img/design/logo/logo2.png" alt="Allure Nails & Bar" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/8.jpg" alt="Parthenon Replica, Nashville, Tennessee, USA" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/9.jpg" alt="Ruby Falls, Chattanooga, Tennessee, USA" />
+            </div>
+            <div class="tile scale-anm social all">
+                <img src="../assets/img/design/social/social2.png" alt="Aunts and Uncles" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/10.jpg" alt="Tallulah Gorge State Park, Tallulah Falls, Georgia, USA" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/11.jpg" alt="Omotesando Street, Narita, Chiba, Japan" />
+            </div>
+            <div class="tile scale-anm logo all">
+                <img src="../assets/img/design/logo/logo3.jpg" alt="Sophisticated Facial & Nail Spa" />
+            </div>
+            <div class="tile scale-anm web all">
+                <img src="../assets/img/web/GemCollector.jpg" alt="Gem Collector Game" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/12.jpg" alt="Exotic Fruits, Can Tho, Vietnam" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/13.jpg" alt="Honda, Ha Tien, Vietnam" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/14.jpg" alt="Rain Barrels, Thot Not, Vietnam" />
+            </div>
+            <div class="tile scale-anm wbanner all">
+                <img src="../assets/img/design/wbanner/wbanner5.jpg" alt="Bridal Party" />
+            </div>
+            <div class="tile scale-anm wbanner all">
+                <img src="../assets/img/design/wbanner/wbanner6.jpg" alt="Men's Day" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/15.jpg" alt="Ferris Wheel, Myrtle Beach, South Carolina, USA" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/16.jpg" alt="Street Dancers, Falmouth, Jamaica" />
+            </div>
+            <div class="tile scale-anm social all">
+                <img src="../assets/img/design/social/social3.png" alt="Look Inward" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/17.jpg" alt="Rose Bay Beach, Sydney, Australia" />
+            </div>
+            <div class="tile scale-anm wbanner all">
+                <img src="../assets/img/design/wbanner/wbanner7.jpg" alt="Military Day" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/18.jpg" alt="Boat House, Ninh Kieu, Can Tho, Vietnam" />
+            </div>
+            <div class="tile scale-anm photo all">
+                <img src="../assets/img/photo/19.jpg" alt="Uncle, Ben Ninh Kieu, Can Tho, Vietnam" />
+            </div>
+            <div class="tile scale-anm wbanner all">
+                <img src="../assets/img/design/wbanner/wbanner8.jpg" alt="SNS Nails" />
             </div>
         </div>
+        <div style="clear:both;"></div>
     </div>
     <!-- Footer -->
     <footer class="sticky-bottom">
@@ -211,11 +279,7 @@
             return false;
         });
     </script>
-    <!-- Gallery -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
-    <script>
-        baguetteBox.run('.tz-gallery');
-    </script>    
+    <!-- Filter Gallery -->
+    <script src="../assets/js/filter.js"></script>
 </body>
-
 </html>
