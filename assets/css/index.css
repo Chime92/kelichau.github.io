@@ -69,6 +69,24 @@
 	color: #729501;
 }
 
+.service-title-viet {
+  font-family: Lobster, sans-serif, arial;
+  font-size: 300%;
+  color: #000;
+}
+
+.about-title-viet {
+  font-family: Lobster, sans-serif, arial;
+  font-size: 300%;
+  color: #fff;
+}
+
+.contact-title-viet {
+  font-family: Lobster, sans-serif, arial;
+  font-size: 300%;
+  color: #000;
+}
+
 .viet-title{
   font-family: Lobster, 'sans-serif', arial;
   font-size: 1000%;
