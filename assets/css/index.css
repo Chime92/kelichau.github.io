@@ -16,7 +16,7 @@
   min-width: 100%;
   width: 100%;
   padding: 1%;
-  background-color: #729501;
+  background-color: #465C8B;
   font-family: Questrial, sans-serif, arial;
   font-size: 120%;
 }
@@ -47,7 +47,7 @@
 .service-title {
   font-family: Kristi, sans-serif, arial;
   font-size: 300%;
-  color: #000;
+  color: #729501;
 }
 
 .about-title {
@@ -59,7 +59,7 @@
 .contact-title {
   font-family: Kristi, sans-serif, arial;
   font-size: 300%;
-  color: #000;
+  color: #729501;
 }
 
 .title {
@@ -72,7 +72,7 @@
 .service-title-viet {
   font-family: Lobster, sans-serif, arial;
   font-size: 300%;
-  color: #000;
+  color: #729501;
 }
 
 .about-title-viet {
@@ -84,7 +84,7 @@
 .contact-title-viet {
   font-family: Lobster, sans-serif, arial;
   font-size: 300%;
-  color: #000;
+  color: #729501;
 }
 
 .viet-title{
