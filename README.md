@@ -10,9 +10,7 @@
 
 ## Overview
 #### Project Started April 2015
-This website is a portfolio collection of my photography, film, designs, and web development works so that clients can view examples and contact information. It is constantly being updated with more efficient and dynamic coding as I continue to grow as an artist and web developer.
-
-## Visuals
+This website is a basic portfolio collection of my photography, film, designs, and web development works so that clients can view examples and contact information. It is constantly being updated with more efficient and dynamic coding as I continue to grow as an artist and web developer.
 
 ## Future Development
 + Re-organize and minimize code and files (DRY KISS)
@@ -37,9 +35,10 @@ This website is a portfolio collection of my photography, film, designs, and web
 + [Dr. Shuhua Lai's](http://www.ggc.edu/about-ggc/directory/shuhua-lai) Web Technologies Course at Georgia Gwinnett College
 + [Steven Ng](https://github.com/stevenng308), Full Stack Developer, Initial Guidance
 + [FontAwesome](http://fontawesome.io/) Icons
-+ [Bootstrap](https://getbootstrap.com/) Frameworks
++ [Bootstrap](https://getbootstrap.com/) Framework
 + [Google](http://analytics.google.com) Analytics
 + [Google](https://fonts.google.com/) Fonts
++ [CodePen](https://codepen.io/) Contributers 
 
 ## License 
 #### MIT License
