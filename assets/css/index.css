@@ -47,11 +47,6 @@
   background-color: #FFF;
 }
 
-/* Carousel */
-.carousel-item img {
-  opacity: 0.5;
-}
-
 /* Pagination */
 .pagination {
   margin-top: 5%;
