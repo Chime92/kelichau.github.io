@@ -1,7 +1,6 @@
 /* Google Fonts Import */
 @import url('https://fonts.googleapis.com/css?family=Oswald|Questrial|Lobster|Lora|Ed+Garamond');
 
-/* LAYOUT */
 /* Containers */
 .container {
   min-width: 80%;
@@ -46,6 +45,39 @@
   font-size: 100%;
   color: #000;
   background-color: #FFF;
+
+}
+
+/* Carousel */
+.carousel-item img {
+  min-height: 100vh;
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+  margin: 0 auto;
+  width: 100vw;
+  opacity: 0.5;
+}
+
+.carousel-item {
+  min-height: 100vh;
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+  margin: 0 auto;
+  width: 100vw;
+}
+
+.carousel-caption {
+  /* height: 100vh;
+  width: 100vw; */
+  top: 55%;
+}
+
+.carousel-caption h1 {
+  font-weight: bolder;
+  font-size: 500%;
+  font-family: Oswald, sans-serif, arial;
+  color: #000;
+  text-transform: uppercase;
 }
 
 /* Pagination */
@@ -53,9 +85,7 @@
   margin-top: 5%;
 }
 
-/* STYLINGS */
 /* Titles */
-
 .service-title {
   font-family: Lora, sans-serif, arial;
   font-size: 200%;
@@ -375,3 +405,8 @@ p {
   font-family: Lora, serif, 'Times New Roman';
   font-size: 100%;
 }
+
+
+
+
+
