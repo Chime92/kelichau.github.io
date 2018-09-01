@@ -38,7 +38,7 @@ This website is a basic portfolio collection of my photography, film, designs, a
 + [Bootstrap](https://getbootstrap.com/) Framework
 + [Google](http://analytics.google.com) Analytics
 + [Google](https://fonts.google.com/) Fonts
-+ [CodePen](https://codepen.io/) Contributers 
++ [CodePen](https://codepen.io/) Contributors 
 
 ## License 
 #### MIT License
