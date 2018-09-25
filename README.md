@@ -14,15 +14,9 @@ This website is a basic portfolio collection of my photography, film, designs, a
 
 ## Future Development
 + ~~Re-organize and minimize code and files (DRY KISS)~~
-+ Translate to more efficient and dynamic JavaScript codes 
 + ~~Make website more mobile-friendly~~
-+ Add Chinese translation option
-+ Add Spanish translation option
-+ Add online shop integrated with PayPal
-+ Integrate Instagram feed onto index page
 + ~~Increase loading speed for graphics~~
 + Convert entire website to MERN stack 
-+ Integrate Calendly API
 
 ## Contributing
 1. Fork this repository
