@@ -27,7 +27,6 @@ This website is a basic portfolio collection of my photography, film, designs, a
 
 ## Acknowledgments
 + [Dr. Shuhua Lai's](http://www.ggc.edu/about-ggc/directory/shuhua-lai) Web Technologies Course at Georgia Gwinnett College
-+ [Steven Ng](https://github.com/stevenng308), Full Stack Developer, Initial Guidance
 + [FontAwesome](http://fontawesome.io/) Icons
 + [Bootstrap](https://getbootstrap.com/) Framework
 + [Google](http://analytics.google.com) Analytics
