@@ -3,6 +3,7 @@
  * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lora');
 
 body,
 html {
@@ -181,6 +182,7 @@ header.masthead {
   background-image: url("https://farm2.staticflickr.com/1899/29412776527_d30870a0cd_k.jpg");
   background-position: center center;
   background-size: cover;
+  text-shadow: 2px 2px 10px #000000;
 }
 
 header.masthead hr {
@@ -216,6 +218,53 @@ header.masthead p {
 
 @media (min-width: 1200px) {
   header.masthead h1 {
+    font-size: 4rem;
+  }
+}
+
+/* Header Masthead 2 */
+header.masthead2 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url("https://farm2.staticflickr.com/1860/43632675744_81a74a55f6_k.jpg");
+  background-position: center center;
+  background-size: cover;
+  text-shadow: 2px 2px 10px #000000;
+}
+
+header.masthead2 hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+header.masthead2 h1 {
+  font-size: 2rem;
+}
+
+header.masthead2 p {
+  font-weight: 300;
+}
+
+@media (min-width: 768px) {
+  header.masthead2 p {
+    font-size: 1.15rem;
+  }
+}
+
+@media (min-width: 992px) {
+  header.masthead2 {
+    height: 100vh;
+    min-height: 650px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  header.masthead2 h1 {
+    font-size: 3rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  header.masthead2 h1 {
     font-size: 4rem;
   }
 }
@@ -339,3 +388,66 @@ a.link2:link {text-decoration: underline; color: #222;}
 a.link2:visited {text-decoration: none; color: #222;}
 a.link2:hover {text-decoration: none; color: #222;}
 a.link2:active {text-decoration: none; color: #222;}
+
+a.link3 {color:#000; text-decoration: none;}
+a.link3:link {text-decoration: none; color: #000;}
+a.link3:visited {text-decoration: none; color: #000;}
+a.link3:hover {text-decoration: none; color: #465C8B;}
+a.link3:active {text-decoration: none; color: #000;}
+
+a.link4 {color:#729501; text-decoration: underline;}
+a.link4:link {text-decoration: underline; color: #729501;}
+a.link4:visited {text-decoration: none; color: #729501;}
+a.link4:hover {text-decoration: none; color: #000;}
+a.link4:active {text-decoration: none; color: #729501;}
+
+
+/* Blog Archive */
+.post-title {
+  font-family: 'Oswald', sans-serif, arial;
+  font-size: 250%;
+}
+
+.post-subtitle {
+  font-family: 'Segoe UI', sans-serif, arial;
+  font-size: 200%;
+  font-weight: lighter;
+}
+
+.post-meta {
+  font-family: Questrial, sans-serif, arial;
+  font-size: 120%;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #465C8B !important;
+    color: #fff !important;
+    border: none !important;
+    text-transform: uppercase;
+}
+
+.btn-primary:hover {
+  background-color: #F7EF6A !important;
+  color: #222 !important;
+}
+
+/* Blog Post */
+.breadcrumb {
+  margin-left: 45%;
+  width: 50%;
+  font-family: Questrial, sans-serif, arial;
+  font-size: 120%;
+}
+
+.breadcrumb li a {
+  color:#729501;
+}
+
+.post-heading {
+  font-family: 'Lora', serif, 'Times New Roman';
+}
+
+p {
+  font-family: Lora, serif, 'Times New Roman';
+  font-size: 100%;
+}
