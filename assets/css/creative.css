@@ -401,6 +401,11 @@ a.link4:visited {text-decoration: none; color: #729501;}
 a.link4:hover {text-decoration: none; color: #000;}
 a.link4:active {text-decoration: none; color: #729501;}
 
+a.link5 {color:#fff; text-decoration: none;}
+a.link5:link {text-decoration: none; color: #fff;}
+a.link5:visited {text-decoration: none; color: #fff;}
+a.link5:hover {text-decoration: none; color: #729501;}
+a.link5:active {text-decoration: none; color: #fff;}
 
 /* Blog Archive */
 .post-title {
