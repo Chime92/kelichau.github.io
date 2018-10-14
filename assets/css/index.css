@@ -177,7 +177,7 @@ a:active {
   font-size: 250%;
   text-align: center;
   text-transform: uppercase;
-  color: #222;
+  color: #000;
   min-width: 100%;
 }
 
@@ -220,6 +220,8 @@ a:active {
   width: 50%;
   margin-left: 25%;
 }
+
+
 
 ul {
   list-style: none;
@@ -277,7 +279,7 @@ a {
 .btn {
   background: #80c9be;
   border: 1px solid #80c9be;
-  color: #222;
+  color: #000;
   -webkit-transition: all ease-out 0.2s;
   transition: all ease-out 0.2s;
   border-radius: 30px;
@@ -433,5 +435,15 @@ p {
   text-align: center;
 }
 
+.contact-description {
+  width: 50%;
+  margin-left: 25%;
+}
 
-
+#mc_embed_signup {
+  background: #fff;
+  font-family: Questrial, Arial, sans-serif;
+  font-size: 150%;
+  width: 100%;
+  text-align: center;
+}
