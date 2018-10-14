@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <title>Keli Chau | Blog</title>
+    <title>Keli Chau | Portfolio</title>
     <!-- Responsive Meta Tag -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Google Site Verification Meta Tag -->
@@ -15,6 +16,7 @@
     <!-- Internal CSS -->
     <link rel="stylesheet" href="../assets/css/index.css">
     <link rel="stylesheet" href="../assets/css/sticky-footer.css">
+    <link rel="stylesheet" href="../assets/css/filter.css">
     <!-- HTACCESS -->
     <link rel="stylesheet" href=".htaccess">
     <!-- Bootstrap CSS CDN -->
@@ -42,6 +44,7 @@
     <meta name="msapplication-TileImage" content="../assets/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 </head>
+
 <body>
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-settings">
@@ -58,20 +61,19 @@
                         <a class="nav-link" href="../index">Home
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about">About</a>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="about">About
+                            <span class="sr-only">(current)</span>
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="portfolio">Portfolio
-                        </a>
+                        <a class="nav-link" href="portfolio">Portfolio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="services">Services</a>
                     </li>
-                    <li class="nav-item active">
-                        <a class="nav-link" href="blog">Blog
-                            <span class="sr-only">(current)</span>
-                        </a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="blog">Blog</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact">Contact</a>
@@ -85,37 +87,25 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../vn/blog">
+                        <a class="nav-link" href="../vn/tieu-su">
                             <i class="fas fa-globe-asia"></i> Tiếng Việt</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
-    <!-- Blog Archive Content -->
+    <!-- About Section -->
     <div class="container-content">
-        <div class="title">Blog</div>
-        <div class="row">
-            <div class="col-lg-8 col-md-10 mx-auto">
-                <div class="post-preview">
-                    <a href="blog/8-things" class="link4">
-                        <h2 class="post-title">
-                            8 Things I Learned from my Extended Trip Abroad
-                        </h2>
-                        <h3 class="post-subtitle">
-                            It's a humbling experience because you validate being a lifelong learner.
-                        </h3>
-                    </a>
-                    <p class="post-meta">Posted by
-                        <a href="http://www.instagram.com/kelichau" class="link5" target="_blank">Keli Chau</a>
-                        on March 2, 2017</p>
-                </div>
-                <hr>
-                <!-- Pager -->
-                <div class="clearfix">
-                    <a class="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
-                </div>
-            </div>
+        <div class="title">About</div>
+        <div class="subtitle3">Hi, I'm Keli Chau</div>
+        <div class="bio">
+            I'm a web developer, photographer and graphic designer based in Atlanta, GA. I like implementing simplicity in my designs and building 
+            them into web applications or websites with modern technologies and cross-device compatibilities. My goal is to find how an app will 
+            be meaningful and helpful for users. I also specialize in travel, commercial and event photography and video content as well as designs for prints.
+            <br/><br/>
+            Thanks for stopping by. If you would like to grab a cup of (bubble) tea or have an online meeting to discuss your next
+            project, feel free to call me at 770.904.1680 or <a href="contact" class="link3" target="_blank">email</a> me. I am available Monday through Saturday between 7:00 a.m. and
+            7:00 p.m. EST.
         </div>
     </div>
     <!-- Footer -->
@@ -128,10 +118,10 @@
         </script>
         <a href="http://www.kelichau.com" class="link">Keli Chau</a>. All Rights Reserved. Web Developed by
         <a href="http://www.kelichau.com" class="link">Keli Chau</a>.
-        <br/>
+        <br />
         <a href="terms-of-use" class="link">Terms of Use</a>.
         <a href="privacy-policy" class="link">Privacy Policy</a>.
-        <br/>
+        <br />
         <a href="https://www.instagram.com/KeliChau" target="_blank" class="link"><i class='fab fa-instagram'></i></a>
         <a href="https://www.youtube.com/channel/UCm9juCzg3VC9hihrZreaELA?view_as=subscriber" target="_blank" class="link"><i
                 class='fab fa-youtube'></i></a>
@@ -165,6 +155,8 @@
             return false;
         });
     </script>
+    <!-- Filter Gallery -->
+    <script src="../assets/js/filter.js"></script>
 </body>
 
 </html>
