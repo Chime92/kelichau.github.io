@@ -1,0 +1,435 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css?family=Oswald|Questrial|Lobster|Lora|Ed+Garamond|Raleway|Krub');
+
+/* Home Page */
+.body {
+  background: url('https://farm2.staticflickr.com/1967/44405799414_dc6b6b4b61_k.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.intro {
+  font-size: 600%;
+  font-family: Oswald, arial, sans-serif;
+  margin-top: 10%;
+  margin-left: 15%;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.intro2 {
+  font-size: 300%;
+  font-family: Oswald, arial, sans-serif;
+  margin-left: 15%;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/* Containers */
+.container {
+  min-width: 80%;
+  width: 80%;
+  margin-left: 15%;
+  padding: 1%;
+  font-family: Questrial, sans-serif, arial;
+  font-size: 120%;
+}
+
+.container-about {
+  min-width: 100%;
+  width: 100%;
+  padding: 5%;
+  background-color: #80c9be;
+  font-family: Questrial, sans-serif, arial;
+  font-size: 120%;
+}
+
+.container-content {
+  min-width: 100%;
+  width: 100%;
+  padding: 5%;
+  font-family: Questrial, sans-serif, arial;
+  font-size: 120%;
+}
+   
+.container-blog {
+  margin-top: 5%;
+  margin-left: 18%;
+}
+
+.about-content {
+  min-width: 80%;
+  width: 80%;
+  color: #fff; 
+  margin-left: 15%;
+}
+
+.privacy-wrap {
+  min-width: 80%;
+  width: 80%;
+  margin-left: 10%;
+}
+
+/* Navbar */
+.navbar,
+.navbar-settings a {
+  text-transform: uppercase;
+  font-family: 'Raleway', arial, sans-serif;
+  font-size: 100%;
+  color: #000 !important;
+}
+
+.navbar,
+.navbar {
+  background-color: #fff !important;
+}
+
+ul.navbar,
+a:hover {
+  color: #80c9be !important; 
+}
+
+ul.navbar,
+a:active {
+  color: #80c9be !important; 
+}
+
+/* Pagination */
+.pagination {
+  margin-top: 5%;
+}
+
+/* Titles */
+.service-title {
+  font-family: Lora, sans-serif, arial;
+  font-size: 200%;
+  color: #80c9be;
+}
+
+.about-title {
+  font-family: Lora, sans-serif, arial;
+  font-size: 200%;
+  color: #fff;
+}
+
+.contact-title {
+  font-family: Lora, sans-serif, arial;
+  font-size: 200%;
+  color: #80c9be;
+}
+
+.title {
+  font-family: 'Oswald', 'sans-serif', arial;
+  font-size: 500%;
+  text-align: center;
+  text-transform: uppercase;
+	color: #80c9be;
+}
+
+.service-title-viet {
+  font-family: Lobster, sans-serif, arial;
+  font-size: 300%;
+  color: #80c9be;
+}
+
+.about-title-viet {
+  font-family: Lobster, sans-serif, arial;
+  font-size: 300%;
+  color: #fff;
+}
+
+.contact-title-viet {
+  font-family: Lobster, sans-serif, arial;
+  font-size: 300%;
+  color: #80c9be;
+}
+
+.viet-title{
+  font-family: Lobster, 'sans-serif', arial;
+  font-size: 400%;
+  text-align: center;
+	color: #80c9be;
+}
+
+/* Subtitles */
+.subtitle {
+  font-family: Lora, 'sans-serif', arial;
+	font-size: 400%;
+  text-align: center;
+  color: #80c9be;
+  min-width: 100%;
+  width: 100%;
+}
+
+.subtitle2 {
+  font-family: 'Oswald', 'sans-serif', arial;
+	font-size: 300%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  min-width: 100%;
+}
+
+.subtitle3 {
+  font-family: 'Oswald', 'sans-serif', arial;
+  font-size: 250%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #222;
+  min-width: 100%;
+}
+
+
+.viet-subtitle {
+  font-family: 'Lobster', 'sans-serif', arial;
+	font-size: 400%;
+  text-align: center;
+  color: #80c9be;
+  min-width: 100%;
+  width: 100%;
+}
+
+.viet-subtitle2 {
+  font-family: 'Lobster', 'sans-serif', arial;
+	font-size: 200%;
+  text-align: center;
+  color: #80c9be;
+  min-width: 100%;
+  width: 100%;
+}
+
+.viet-subtitle3 {
+  font-family: 'Montserrat', 'sans-serif', arial;
+  font-size: 200%;
+  font-weight: bold;
+  text-align: center;
+  color: #80c9be;
+  min-width: 100%;
+  width: 100%;
+}
+
+.privacy-subtitle {
+  font-family: Questrial, 'sans-serif', arial;
+  font-size: 150%;
+  text-transform: uppercase;
+}
+
+.bio {
+  width: 50%;
+  margin-left: 25%;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Pricing Table */
+a {
+  text-decoration: none;
+}
+.wrapper {
+  width: 95%;
+  max-width: 1200px;
+  margin: 30px auto;
+}
+.pricing-table h2 {
+  font-size: 1.5em;
+  padding: 35px 10px;
+  margin: 0;
+}
+.description {
+  margin-top: 20px;
+  font-size: 0.85em;
+  padding: 0 40px;
+}
+.description {
+  margin-top: 20px;
+  font-size: 0.85em;
+  padding: 0 40px;
+}
+.price,
+.pricing-box {
+  -webkit-transition: all ease-out 0.2s;
+  transition: all ease-out 0.2s;
+}
+.price {
+  background: #80c9be;
+  color: #fff;
+  font-size: 2em;
+  font-weight: 600;
+  position: relative;
+  padding: 20px 10px;
+  display: block;
+}
+.pricing-box:nth-child(2) .price {
+  background: #80c9be;
+}
+.pricing-box:nth-child(3) .price {
+  background: #80c9be;
+}
+.pricing-box:hover .price {
+  background: #80c9be;
+  box-shadow: inset 0 0 100px 0 rgba(0, 0, 0, 0.3);
+  color: #000;
+}
+.btn {
+  background: #80c9be;
+  border: 1px solid #80c9be;
+  color: #222;
+  -webkit-transition: all ease-out 0.2s;
+  transition: all ease-out 0.2s;
+  border-radius: 30px;
+  padding: 7px 40px;
+  display: inline-block;
+  margin-top: 20px;
+}
+.btn:hover {
+  background: #80c9be;
+  border: 1px solid #80c9be;
+  color: #fff !important;
+}
+.pricing-table-divider {
+  display: block;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.08);
+  max-width: 80%;
+  margin: 20px auto 0;
+}
+.pricing-table {
+  border-radius: 3px;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[3];
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  text-align: center;
+}
+
+.pricing-box {
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.13);
+  border: 2px solid rgba(10, 123, 183, 0.14);
+}
+.pricing-box:hover {
+  -webkit-transform: scale(1.01);
+  transform: scale(1.01);
+}
+.pricing-table ul li {
+  padding: 3px 0;
+  font-size: 0.95em;
+}
+.pricing-table ul {
+  color: #000;
+  padding: 15px 60px;
+  text-align: left;
+}
+@media (max-width: 750px) {
+  .pricing-table {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+  .pricing-table > div:nth-child(3) {
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
+  .pricing-table > div:nth-child(2) {
+    -ms-grid-row: 2;
+    grid-row-start: 2;
+  }
+  .pricing-table > div {
+    -ms-flex-item-align: top;
+    -ms-grid-row-align: top;
+    align-self: top;
+  }
+}
+
+/* Links */
+a.link {color:#fff;}
+a.link:link {text-decoration: none; color: #fff;}
+a.link:visited {text-decoration: none; color: #fff;}
+a.link:hover {text-decoration: none; color: #80c9be;}
+a.link:active {text-decoration: none; color: #fff;}
+
+a.link2 {color:#fff; text-decoration: underline;}
+a.link2:link {text-decoration: underline; color: #fff;}
+a.link2:visited {text-decoration: none; color: #fff;}
+a.link2:hover {text-decoration: none; color: #80c9be;}
+a.link2:active {text-decoration: none; color: #fff;}
+
+a.link3 {color:#000; text-decoration: underline;}
+a.link3:link {text-decoration: underline; color: #000;}
+a.link3:visited {text-decoration: none; color: #000;}
+a.link3:hover {text-decoration: none; color: #80c9be;}
+a.link3:active {text-decoration: none; color: #000;}
+
+a.link4 {color:#000; text-decoration: none;}
+a.link4:link {text-decoration: none; color: #000;}
+a.link4:visited {text-decoration: none; color: #000;}
+a.link4:hover {text-decoration: none; color: #80c9be;}
+a.link4:active {text-decoration: none; color: #000;}
+
+a.link5 {color:#80c9be; text-decoration: underline;}
+a.link5:link {text-decoration: underline; color: #80c9be;}
+a.link5:visited {text-decoration: none; color: #80c9be;}
+a.link5:hover {text-decoration: none; color: #000;}
+a.link5:active {text-decoration: none; color: #80c9be;}
+
+
+/* Blog Archive */
+.post-title {
+  font-family: 'Oswald', sans-serif, arial;
+  font-size: 250%;
+}
+
+.post-subtitle {
+  font-family: 'Segoe UI', sans-serif, arial;
+  font-size: 200%;
+  font-weight: lighter;
+}
+
+.post-meta {
+  font-family: Questrial, sans-serif, arial;
+  font-size: 120%;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #80c9be !important;
+    color: #fff !important;
+    border: none !important;
+    text-transform: uppercase;
+}
+
+.btn-primary:hover {
+  background-color: #80c9be !important;
+  color: #000 !important;
+}
+
+/* Blog Post */
+.breadcrumb {
+  margin-left: 45%;
+  width: 50%;
+  font-family: Questrial, sans-serif, arial;
+  font-size: 120%;
+}
+
+.breadcrumb li a {
+  color:#80c9be;
+}
+
+.post-heading {
+  font-family: 'Lora', serif, 'Times New Roman';
+}
+
+p {
+  font-family: Lora, serif, 'Times New Roman';
+  font-size: 100%;
+}
+
+
+
+
+

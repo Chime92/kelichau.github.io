@@ -16,7 +16,6 @@ This website is a basic portfolio collection of my photography, film, designs, a
 + ~~Re-organize and minimize code and files (DRY KISS)~~
 + ~~Make website more mobile-friendly~~
 + ~~Increase loading speed for graphics~~
-+ Convert entire website to MERN stack 
 
 ## Contributing
 1. Fork this repository
