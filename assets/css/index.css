@@ -10,16 +10,16 @@
   -o-background-size: cover;
 }
 
-.intro {
+.heading {
   font-size: 500%;
   font-family: Oswald, arial, sans-serif;
-  margin-top: 1%;
+  margin-top: 10%;
   margin-left: 15%;
   color: #fff;
   text-transform: uppercase;
 }
 
-.intro2 {
+.heading2 {
   font-size: 200%;
   font-family: Oswald, arial, sans-serif;
   margin-left: 15%;
