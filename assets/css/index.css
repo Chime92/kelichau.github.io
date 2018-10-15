@@ -13,7 +13,7 @@
 .intro {
   font-size: 500%;
   font-family: Oswald, arial, sans-serif;
-  margin-top: 12%;
+  margin-top: 1%;
   margin-left: 15%;
   color: #fff;
   text-transform: uppercase;
@@ -432,7 +432,13 @@ p {
 }
 
 .bio-img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  max-height: 400px;
+  display: block;
   text-align: center;
+  margin-left: 10%;
 }
 
 .contact-description {
