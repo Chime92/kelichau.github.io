@@ -102,24 +102,6 @@ a:active {
 }
 
 /* Titles */
-.service-title {
-  font-family: Lora, sans-serif, arial;
-  font-size: 200%;
-  color: #80c9be;
-}
-
-.about-title {
-  font-family: Lora, sans-serif, arial;
-  font-size: 200%;
-  color: #fff;
-}
-
-.contact-title {
-  font-family: Lora, sans-serif, arial;
-  font-size: 200%;
-  color: #80c9be;
-}
-
 .title {
   font-family: 'Oswald', 'sans-serif', arial;
   font-size: 400%;
@@ -151,7 +133,8 @@ a:active {
   font-family: Lobster, 'sans-serif', arial;
   font-size: 400%;
   text-align: center;
-	color: #80c9be;
+  color: #80c9be;
+  margin-top: 5%;
 }
 
 /* Subtitles */
@@ -439,7 +422,7 @@ p {
   max-height: 400px;
   display: block;
   text-align: center;
-  margin-left: 10%;
+  margin-left: 30%;
 }
 
 .contact-description {
