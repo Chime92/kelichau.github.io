@@ -398,11 +398,12 @@ a.link5:active {text-decoration: none; color: #80c9be;}
 
 /* Blog Post */
 .breadcrumb {
-  margin-left: 45%;
-  width: 50%;
   font-family: Questrial, sans-serif, arial;
-  font-size: 120%;
+  font-size: 100%;
+  max-width: 100%;
+  margin-left: 20%;
 }
+
 
 .breadcrumb li a {
   color:#80c9be;
@@ -410,6 +411,7 @@ a.link5:active {text-decoration: none; color: #80c9be;}
 
 .post-heading {
   font-family: 'Lora', serif, 'Times New Roman';
+  text-align: center;
 }
 
 p {
