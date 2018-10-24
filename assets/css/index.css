@@ -419,15 +419,11 @@ p {
   font-size: 100%;
 }
 
-.bio-img {
-  width: 100%;
-  max-width: 600px;
-  height: auto;
-  max-height: 400px;
-  display: block;
+.img {
   text-align: center;
-  margin-left: 30%;
 }
+
+
 
 .contact-description {
   width: 50%;
