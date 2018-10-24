@@ -39,15 +39,6 @@
   font-size: 120%;
 }
 
-.container-about {
-  min-width: 100%;
-  width: 100%;
-  padding: 5%;
-  background-color: #80c9be;
-  font-family: Questrial, sans-serif, arial;
-  font-size: 120%;
-}
-
 .container-content {
   min-width: 100%;
   width: 100%;
@@ -56,18 +47,6 @@
   font-size: 120%;
 }
    
-.container-blog {
-  margin-top: 5%;
-  margin-left: 18%;
-}
-
-.about-content {
-  min-width: 80%;
-  width: 80%;
-  color: #fff; 
-  margin-left: 15%;
-}
-
 .privacy-wrap {
   min-width: 80%;
   width: 80%;
@@ -111,24 +90,6 @@ a:active {
   text-transform: uppercase;
   color: #80c9be;
   margin-top: 5%;
-}
-
-.service-title-viet {
-  font-family: Lobster, sans-serif, arial;
-  font-size: 300%;
-  color: #80c9be;
-}
-
-.about-title-viet {
-  font-family: Lobster, sans-serif, arial;
-  font-size: 300%;
-  color: #fff;
-}
-
-.contact-title-viet {
-  font-family: Lobster, sans-serif, arial;
-  font-size: 300%;
-  color: #80c9be;
 }
 
 .viet-title{
@@ -201,13 +162,6 @@ a:active {
   font-size: 150%;
   text-transform: uppercase;
 }
-
-.bio {
-  width: 50%;
-  margin-left: 25%;
-}
-
-
 
 ul {
   list-style: none;
@@ -422,8 +376,6 @@ p {
 .img {
   text-align: center;
 }
-
-
 
 .contact-description {
   width: 50%;
