@@ -163,6 +163,10 @@ a:active {
   text-transform: uppercase;
 }
 
+.testimonial {
+  color: #80c9be;
+}
+
 ul {
   list-style: none;
 }
