@@ -1,6 +1,6 @@
 # Official Website
 
-## Table of Contents
+## Table of Content
 + [Overview](#overview)  
 + [Visuals](#visuals)
 + [Future Development](#future-development)
