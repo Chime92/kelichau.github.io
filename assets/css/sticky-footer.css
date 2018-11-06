@@ -12,8 +12,8 @@ body {
 .sticky-bottom {
   position: absolute;
   width: 102%;
-  height: 250px;
-  padding-top: 2%;
+  height: 225px;
+  padding-top: 2.5%;
   background-color: #000;
   bottom: -240px;
   padding: 1 1 1 1;
